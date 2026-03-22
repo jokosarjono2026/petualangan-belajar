@@ -669,7 +669,12 @@ html, body {
 .feedback-explain { font-size: 12px; color: var(--muted); line-height: 1.4; margin-top: 3px; }
 
 .btn-next {
-  width: 100%;
+  /* Fixed — selalu terlihat, tidak terpotong di Android */
+  position: fixed;
+  bottom: max(16px, env(safe-area-inset-bottom));
+  left: 16px;
+  right: 16px;
+  z-index: 50;
   background: linear-gradient(135deg, var(--purple), var(--blue));
   border: none;
   border-radius: 14px;
@@ -678,15 +683,17 @@ html, body {
   font-weight: 700;
   color: white;
   cursor: pointer;
-  /* Sticky — selalu terlihat di bawah layar */
-  position: sticky;
-  bottom: max(12px, env(safe-area-inset-bottom));
-  margin-top: 12px;
-  box-shadow: 0 -4px 20px rgba(0,0,0,0.3);
+  min-height: 52px;
+  box-shadow: 0 -4px 24px rgba(0,0,0,0.4);
 }
 
 .btn-next.hidden { display: none; }
 .btn-next:active { opacity: 0.85; }
+
+/* Ruang bawah agar konten tidak tertutup btn-next */
+#screen-quiz {
+  padding-bottom: 84px;
+}
 
 /* ── Result Screen ── */
 .result-wrap {
