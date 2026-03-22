@@ -1,0 +1,77 @@
+[
+  {
+    "mapel": "Matematika",
+    "soal": "Lomba matematika antarsekolah! Soal pertama: Himpunan A = {1, 2, 3, 4, 5} dan B = {3, 4, 5, 6, 7}. Berapa anggota A ∩ B (irisan)?",
+    "pilihan": ["2 anggota", "3 anggota", "5 anggota", "7 anggota"],
+    "jawaban": 1,
+    "penjelasan": "A ∩ B (irisan) = anggota yang ada di A DAN B sekaligus = {3, 4, 5} = 3 anggota. A ∪ B (gabungan) = {1,2,3,4,5,6,7} = 7 anggota. Ingat: ∩ = 'dan', ∪ = 'atau'."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di laboratorium komputer sekolah, 30 siswa diminta memilih ekskul. 18 memilih basket, 15 memilih voli, dan 5 memilih keduanya. Berapa siswa yang tidak memilih keduanya?",
+    "pilihan": ["2 siswa", "7 siswa", "10 siswa", "12 siswa"],
+    "jawaban": 0,
+    "penjelasan": "|A ∪ B| = |A| + |B| - |A ∩ B| = 18 + 15 - 5 = 28 siswa yang memilih minimal satu. Siswa yang tidak memilih keduanya = 30 - 28 = 2 siswa."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Dalam lomba debat sekolah, peserta harus paham jenis paragraf. Paragraf yang kalimat utamanya berada di akhir paragraf disebut...",
+    "pilihan": ["Paragraf deduktif", "Paragraf induktif", "Paragraf campuran", "Paragraf deskriptif"],
+    "jawaban": 1,
+    "penjelasan": "Paragraf induktif: kalimat utama di AKHIR (kesimpulan di akhir, dimulai dengan perincian/contoh). Paragraf deduktif: kalimat utama di AWAL. Paragraf campuran: kalimat utama di awal dan ditegaskan lagi di akhir."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Soal olimpiade sekolah: Sebuah bilangan jika dikalikan 4 lalu dikurangi 7, hasilnya sama dengan tiga kali bilangan itu ditambah 2. Bilangan tersebut adalah...",
+    "pilihan": ["7", "8", "9", "11"],
+    "jawaban": 2,
+    "penjelasan": "Misalkan bilangan = x. Persamaan: 4x - 7 = 3x + 2. Selesaikan: 4x - 3x = 2 + 7, maka x = 9. Verifikasi: 4(9) - 7 = 29 dan 3(9) + 2 = 29. ✓"
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Tim debat sekolah berlatih menemukan fakta vs opini. Manakah yang merupakan FAKTA?",
+    "pilihan": [
+      "Sekolah ini adalah yang terbaik di kota.",
+      "Pelajaran Matematika lebih sulit dari Bahasa Indonesia.",
+      "Indonesia merdeka pada 17 Agustus 1945.",
+      "Siswa zaman sekarang lebih malas dari zaman dulu."
+    ],
+    "jawaban": 2,
+    "penjelasan": "Fakta = pernyataan yang dapat dibuktikan kebenarannya secara objektif. '17 Agustus 1945' adalah fakta sejarah yang tercatat. Pilihan A, B, D adalah opini (pendapat yang bisa berbeda-beda tiap orang)."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di ruang guru, Pak Kepala Sekolah menghitung: sebuah taman berbentuk lingkaran dengan diameter 14 m. Berapa keliling taman? (π = 22/7)",
+    "pilihan": ["22 m", "44 m", "154 m", "616 m"],
+    "jawaban": 1,
+    "penjelasan": "Keliling lingkaran = π × d = 22/7 × 14 = 44 m. (Atau = 2 × π × r = 2 × 22/7 × 7 = 44 m). Luas = π × r² = 22/7 × 49 = 154 m². Jangan sampai keliru antara keliling dan luas!"
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Guru Bahasa Indonesia menjelaskan tentang surat resmi. Bagian surat resmi yang berisi tujuan dan inti pesan disebut...",
+    "pilihan": ["Kop surat", "Salam pembuka", "Isi surat", "Penutup surat"],
+    "jawaban": 2,
+    "penjelasan": "Struktur surat resmi: (1) Kop surat, (2) Nomor/tanggal, (3) Alamat tujuan, (4) Salam pembuka, (5) ISI SURAT (paragraf pembuka, isi pokok, penutup), (6) Salam penutup, (7) Tanda tangan. Isi surat adalah bagian terpenting yang memuat maksud surat."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Olimpiade matematika SMP: Jika f(x) = 3x - 5, maka nilai f(4) adalah...",
+    "pilihan": ["5", "7", "10", "17"],
+    "jawaban": 1,
+    "penjelasan": "f(x) = 3x - 5. Substitusi x = 4: f(4) = 3(4) - 5 = 12 - 5 = 7. Fungsi f(x) artinya: gantikan x dengan angka yang diberikan, lalu hitung hasilnya."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Saat lomba baca puisi, juri menilai pemahaman siswa terhadap majas. 'Embun menangis pagi hari' menggunakan majas...",
+    "pilihan": ["Metafora", "Simile", "Personifikasi", "Hiperbola"],
+    "jawaban": 2,
+    "penjelasan": "Personifikasi memberikan sifat/tindakan manusia kepada benda atau alam. 'Embun menangis' = embun seolah dapat menangis seperti manusia. Simile = perbandingan menggunakan 'seperti/bagai'. Metafora = perbandingan langsung. Hiperbola = berlebihan."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Soal akhir olimpiade! Grafik garis y = 2x + 1 melewati titik koordinat berikut ini, KECUALI...",
+    "pilihan": ["(0, 1)", "(1, 3)", "(2, 5)", "(3, 8)"],
+    "jawaban": 3,
+    "penjelasan": "Substitusi masing-masing: (0,1): 2(0)+1=1 ✓. (1,3): 2(1)+1=3 ✓. (2,5): 2(2)+1=5 ✓. (3,8): 2(3)+1=7 ≠ 8 ✗. Titik (3,8) tidak terletak pada garis y = 2x + 1, yang benar adalah titik (3,7)."
+  }
+]

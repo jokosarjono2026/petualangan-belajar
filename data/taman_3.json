@@ -1,0 +1,82 @@
+[
+  {
+    "mapel": "B. Inggris",
+    "soal": "Taman level 3 — tantangan reading! Baca teks: 'Maria has lived in Jakarta FOR five years.' Kalimat ini menggunakan tense...",
+    "pilihan": ["Simple Past", "Present Perfect", "Past Perfect", "Future Perfect"],
+    "jawaban": 1,
+    "penjelasan": "Present Perfect (have/has + V3) menyatakan aksi yang dimulai di masa lalu dan masih berlanjut hingga sekarang. Kata kunci: FOR (selama), SINCE (sejak), ALREADY, YET, EVER, NEVER. 'Has lived for five years' = dimulai 5 tahun lalu, masih tinggal di Jakarta sekarang."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Kamu mendengar panduan audio taman: 'Please ___ on the grass.' Kata yang tepat untuk melarang dengan sopan adalah...",
+    "pilihan": ["not sit", "don't sit", "not to sit", "no sit"],
+    "jawaban": 1,
+    "penjelasan": "Kalimat imperatif negatif (larangan): Don't + V1. 'Don't sit on the grass' = Jangan duduk di rumput. 'Please' membuatnya lebih sopan. Rumus larangan: Don't + V1 (tanpa to). Bukan 'not sit' karena butuh auxiliary verb."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Di perpustakaan mini taman ada paragraf: 'Tom is THE MOST HARDWORKING student in the class. He ALWAYS finishes his homework BEFORE dinner.' Kata yang berfungsi sebagai adverb adalah...",
+    "pilihan": ["most hardworking", "always", "his", "student"],
+    "jawaban": 1,
+    "penjelasan": "Adverb (kata keterangan) menerangkan kata kerja, adjective, atau adverb lain. 'Always' menerangkan kata kerja 'finishes' (frekuensi). Adverb frekuensi: always, usually, often, sometimes, rarely, never — letaknya SEBELUM kata kerja utama."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Kamu menemukan teka-teki bahasa: 'The cake ___ (eat) by the children at the party.' Bentuk Passive Voice yang tepat adalah...",
+    "pilihan": ["eaten", "was eaten", "is eaten", "eats"],
+    "jawaban": 1,
+    "penjelasan": "Passive Voice Past Tense: was/were + V3 (past participle). 'The cake was eaten by the children' = kuenya dimakan oleh anak-anak (di pesta = masa lalu). Rumus Passive: Subject + to be (sesuai tense) + V3 + (by + agent)."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Di taman ada dialog antara dua pengunjung:\n'Would you like some tea?'\n'Yes, ___.'\nJawaban yang paling sopan adalah...",
+    "pilihan": ["I want", "please give me", "I'd love some, thank you", "OK whatever"],
+    "jawaban": 2,
+    "penjelasan": "'I'd love some, thank you' adalah respons sopan dan natural untuk tawaran dalam Bahasa Inggris. 'I'd' = I would. 'Would you like...' adalah tawaran sopan. Respons positif: 'Yes, please' atau 'I'd love some, thank you'. Hindari jawaban terlalu pendek atau kasar."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Tantangan vocabulari! 'The ___ of the national park includes forests, rivers, and mountains.' Kata yang paling tepat adalah...",
+    "pilihan": ["scenery", "scenic", "scene", "scenary"],
+    "jawaban": 0,
+    "penjelasan": "'Scenery' (noun, uncountable) = pemandangan alam secara keseluruhan. 'Scene' = adegan/pemandangan spesifik. 'Scenic' = adjective (a scenic view). 'Scenary' tidak ada dalam kamus Bahasa Inggris. The scenery of a national park = pemandangan alam taman nasional."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Di taman ada permainan transformasi kalimat: 'People say that he is a great explorer.' → Ubah ke Passive: 'He ___ a great explorer.'",
+    "pilihan": ["is said to be", "is said being", "was said to be", "is being said"],
+    "jawaban": 0,
+    "penjelasan": "Passive reporting verb: He is said to be... (present). Rumus: Subject + is/are/was/were + said/believed/thought/known + to + V1 (present) atau to have + V3 (past). 'He is said to be a great explorer' = Dia disebut-sebut sebagai penjelajah hebat."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Kamu membaca caption foto di taman: 'The explorer ___ never ___ this jungle before he arrived here.' Bentuk Present Perfect yang tepat adalah...",
+    "pilihan": ["has / visited", "had / visited", "have / visited", "was / visited"],
+    "jawaban": 0,
+    "penjelasan": "Rumus Present Perfect: have/has + V3. Untuk he/she/it gunakan HAS. V3 dari 'visit' = visited (regular verb). 'He has never visited' = Dia belum pernah mengunjungi (hingga saat ini). Kata kunci: NEVER, EVER, ALREADY, YET → sinyal Present Perfect."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Tantangan membaca di taman! Tentukan ide pokok paragraf: 'Parks are essential for urban life. They provide fresh air, green spaces, and places to relax. Studies show that people who visit parks regularly are happier and healthier.'\nIde pokoknya adalah...",
+    "pilihan": [
+      "Studies about happiness and health",
+      "The importance of parks for city life",
+      "Fresh air and green spaces",
+      "Regular park visits"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Main idea (ide pokok) = gagasan utama yang didukung oleh kalimat-kalimat lain. Kalimat pertama 'Parks are essential for urban life' adalah topic sentence. Kalimat berikutnya menjelaskan mengapa taman penting. Pilihan A, C, D adalah detail pendukung, bukan ide pokok."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "BOSS LEVEL taman 3! Pilih kalimat yang BENAR secara tata bahasa:",
+    "pilihan": [
+      "Despite of the rain, we continued our walk.",
+      "Although it was raining, but we continued our walk.",
+      "In spite of the rain, we continued our walk.",
+      "However the rain, we continued our walk."
+    ],
+    "jawaban": 2,
+    "penjelasan": "'In spite of + noun/gerund' = Meskipun... Ini benar! Koreksi: A) 'Despite of' salah — harus 'Despite the rain' (tanpa 'of'). B) 'Although...but' redundant — pilih salah satu. D) 'However' diikuti kalimat, bukan noun. Sinonim: Despite, In spite of, Although, Even though."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "mapel": "IPA",
+    "soal": "Kebun level 4 — tantangan fisika! Petani mengangkat karung beras 50 kg ke atas truk menggunakan katrol tetap. Gaya yang dibutuhkan adalah... (g = 10 m/s²)",
+    "pilihan": ["25 N", "50 N", "500 N", "5.000 N"],
+    "jawaban": 2,
+    "penjelasan": "Berat benda = massa × gravitasi = 50 kg × 10 m/s² = 500 N. Katrol tetap mengubah arah gaya tetapi tidak melipatnya, jadi gaya yang diperlukan tetap 500 N. Berbeda dengan katrol bergerak yang bisa mengurangi gaya menjadi setengahnya."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Termometer di kebun menunjukkan suhu 35°C. Berapa suhu tersebut dalam skala Kelvin?",
+    "pilihan": ["238 K", "308 K", "358 K", "408 K"],
+    "jawaban": 1,
+    "penjelasan": "Konversi Celsius ke Kelvin: K = °C + 273. Jadi 35°C = 35 + 273 = 308 K. Nol Kelvin (0 K = -273°C) adalah suhu terendah yang mungkin ada di alam semesta (nol mutlak). Kelvin digunakan dalam fisika dan kimia."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Pompa air kebun mengalirkan 600 liter air per menit. Berapa debit aliran air tersebut dalam liter per detik?",
+    "pilihan": ["6 L/s", "10 L/s", "36 L/s", "60 L/s"],
+    "jawaban": 1,
+    "penjelasan": "Debit = volume / waktu. 600 liter/menit = 600 liter / 60 detik = 10 liter/detik. Debit mengukur kecepatan aliran cairan. Satuannya: L/s, m³/s, atau cc/s."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada kincir air yang berputar oleh aliran sungai. Kincir air mengubah energi...",
+    "pilihan": ["Energi kimia → energi listrik", "Energi kinetik air → energi mekanik", "Energi panas → energi cahaya", "Energi potensial → energi kimia"],
+    "jawaban": 1,
+    "penjelasan": "Kincir air memanfaatkan energi kinetik (gerak) air yang mengalir untuk memutar kincir (energi mekanik). Prinsip yang sama digunakan turbin PLTA untuk menghasilkan listrik. Energi tidak pernah hilang, hanya berubah bentuk (Hukum Kekekalan Energi)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Petani kebun menekan cangkul ke tanah keras. Tekanan yang dihasilkan bergantung pada...",
+    "pilihan": ["Hanya massa cangkul", "Hanya luas permukaan cangkul", "Gaya dan luas permukaan cangkul", "Kecepatan dan massa cangkul"],
+    "jawaban": 2,
+    "penjelasan": "Tekanan (P) = Gaya (F) / Luas bidang tekan (A). Cangkul yang ujungnya runcing memiliki luas kecil sehingga tekanan besar → mudah masuk tanah keras. Ini juga menjelaskan mengapa paku runcing lebih mudah dipukul masuk daripada yang tumpul."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ditemukan mineral yang memiliki kilap logam, berwarna abu-abu perak, dan sangat berat. Kemungkinan mineral ini adalah...",
+    "pilihan": ["Kuarsa (SiO₂)", "Galena (PbS)", "Kalsit (CaCO₃)", "Gipsum (CaSO₄)"],
+    "jawaban": 1,
+    "penjelasan": "Galena (PbS = timbal sulfida) adalah mineral bijih timbal yang berwarna abu-abu perak dengan kilap logam dan sangat berat (berat jenis ~7,6). Kuarsa berwarna putih/bening. Kalsit putih/tak berwarna. Gipsum putih/keabuan dan lunak."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Ilmuwan kebun menguji apakah tanaman tumbuh lebih baik dengan pupuk A atau B. Variabel yang diubah secara sengaja dalam eksperimen ini disebut...",
+    "pilihan": ["Variabel terikat", "Variabel bebas", "Variabel kontrol", "Variabel acak"],
+    "jawaban": 1,
+    "penjelasan": "Variabel bebas (independen) = faktor yang sengaja diubah peneliti (jenis pupuk). Variabel terikat (dependen) = hasil yang diukur (pertumbuhan tanaman). Variabel kontrol = faktor yang dibuat sama (tanah, air, cahaya, jenis tanaman)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun terdapat sumber mata air alami. Air tanah ini terbentuk dari air hujan yang...",
+    "pilihan": [
+      "Mengalir ke sungai dan menguap",
+      "Meresap ke dalam tanah dan berkumpul di lapisan batuan",
+      "Diserap seluruhnya oleh akar tanaman",
+      "Langsung berubah menjadi uap"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Siklus air (hidrologi): air hujan → sebagian meresap ke tanah → tersimpan di akuifer (lapisan batuan yang menyimpan air tanah) → muncul sebagai mata air. Hutan dan lahan resapan sangat penting untuk menjaga air tanah."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Penjaga kebun menjelaskan tentang sifat-sifat cahaya. Bayangan yang terbentuk di belakang benda saat terkena sinar matahari terjadi karena cahaya bersifat...",
+    "pilihan": ["Merambat bengkok", "Merambat lurus", "Dapat menembus semua benda", "Merambat ke segala arah sekaligus"],
+    "jawaban": 1,
+    "penjelasan": "Cahaya merambat lurus (rectilinear propagation). Karena merambat lurus, benda padat yang menghalangi cahaya akan membentuk bayangan di belakangnya. Sifat lain cahaya: dapat dipantulkan, dibiaskan, dan diserap benda tertentu."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "BOSS LEVEL kebun! Tanaman di kebun terestrial termasuk tumbuhan darat. Mengapa tumbuhan darat membutuhkan jaringan pembuluh (xilem dan floem), sedangkan ganggang laut tidak?",
+    "pilihan": [
+      "Karena tumbuhan darat lebih besar dan indah",
+      "Karena ganggang tidak melakukan fotosintesis",
+      "Karena tumbuhan darat perlu mendistribusikan air dan zat makanan ke seluruh bagian yang jauh dari sumber",
+      "Karena ganggang tidak punya sel"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Ganggang (alga) hidup di air sehingga setiap sel langsung kontak dengan air dan nutrisi. Tumbuhan darat punya akar jauh dari daun, sehingga butuh sistem pembuluh (xilem untuk air, floem untuk gula) untuk mendistribusikan zat ke seluruh tubuh yang jauh dari sumber."
+  }
+]

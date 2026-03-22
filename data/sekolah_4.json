@@ -1,0 +1,82 @@
+[
+  {
+    "mapel": "Matematika",
+    "soal": "Ujian tengah semester! Diketahui persamaan linear dua variabel: 2x + y = 10 dan x − y = 2. Nilai x adalah...",
+    "pilihan": ["3", "4", "5", "6"],
+    "jawaban": 1,
+    "penjelasan": "Eliminasi: tambahkan kedua persamaan: (2x+y) + (x-y) = 10+2 → 3x = 12 → x = 4. Substitusi ke persamaan 2: 4 - y = 2 → y = 2. Verifikasi: 2(4)+2 = 10 ✓ dan 4-2 = 2 ✓."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Bu Guru memberi soal tantangan: Sebuah tabung memiliki jari-jari 7 cm dan tinggi 10 cm. Berapa volume tabung? (π = 22/7)",
+    "pilihan": ["1.540 cm³", "2.200 cm³", "4.400 cm³", "6.160 cm³"],
+    "jawaban": 0,
+    "penjelasan": "Volume tabung = π × r² × t = 22/7 × 7² × 10 = 22/7 × 49 × 10 = 22 × 7 × 10 = 1.540 cm³. Ingat: r = jari-jari (setengah diameter), t = tinggi."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Dalam latihan menulis di sekolah, Pak Guru meminta siswa menulis teks eksplanasi tentang hujan. Tujuan teks eksplanasi adalah...",
+    "pilihan": [
+      "Menceritakan pengalaman seseorang",
+      "Menjelaskan proses terjadinya suatu fenomena",
+      "Meyakinkan pembaca untuk melakukan sesuatu",
+      "Melukiskan suasana dan keindahan tempat"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Teks eksplanasi bertujuan menjelaskan proses terjadinya suatu fenomena alam atau sosial secara ilmiah. Struktur: pernyataan umum → urutan sebab-akibat → kesimpulan. Contoh: proses hujan, gempa bumi, inflasi."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Soal pengayaan: Diketahui barisan aritmetika: 3, 7, 11, 15, ... Suku ke-10 barisan tersebut adalah...",
+    "pilihan": ["35", "39", "43", "47"],
+    "jawaban": 1,
+    "penjelasan": "Barisan aritmetika: a = suku pertama = 3, b = beda = 4. Rumus suku ke-n: Un = a + (n-1) × b. U₁₀ = 3 + (10-1) × 4 = 3 + 36 = 39."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Rapat OSIS membahas penulisan proposal kegiatan. Struktur proposal yang benar adalah...",
+    "pilihan": [
+      "Judul → Latar belakang → Tujuan → Anggaran → Penutup",
+      "Pendahuluan → Isi → Kesimpulan",
+      "Kronologi → Konflik → Resolusi",
+      "Orientasi → Komplikasi → Koda"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Struktur proposal kegiatan: Judul → Latar belakang/pendahuluan → Tujuan → Jenis kegiatan → Peserta → Waktu & tempat → Anggaran/biaya → Penutup. Pilihan B = struktur teks umum, C & D = struktur cerpen/teks narasi."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Sekolah mengadakan pengundian hadiah. Sebuah kantong berisi 5 bola merah, 3 bola biru, dan 2 bola kuning. Peluang terambil bola merah adalah...",
+    "pilihan": ["1/10", "1/5", "1/2", "3/5"],
+    "jawaban": 2,
+    "penjelasan": "Total bola = 5+3+2 = 10 bola. Peluang bola merah = jumlah bola merah / total = 5/10 = 1/2. Peluang selalu antara 0 (mustahil) dan 1 (pasti). P(biru) = 3/10, P(kuning) = 2/10 = 1/5."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Guru Bahasa Indonesia menjelaskan jenis-jenis kata. 'Berlari', 'menulis', dan 'memasak' termasuk kata...",
+    "pilihan": ["Kata benda (nomina)", "Kata kerja (verba)", "Kata sifat (adjektiva)", "Kata keterangan (adverbia)"],
+    "jawaban": 1,
+    "penjelasan": "Kata kerja (verba) adalah kata yang menyatakan tindakan, kegiatan, atau proses. Cirinya sering berawalan me-, ber-, ter-, di-. Berlari, menulis, memasak adalah verba. Nomina = benda (meja, sekolah), adjektiva = sifat (cantik, besar), adverbia = keterangan (cepat, sangat)."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Ujian nasional latihan! Pada segitiga siku-siku, sisi miring = 17 cm dan salah satu sisi = 8 cm. Sisi ketiga adalah...",
+    "pilihan": ["9 cm", "13 cm", "15 cm", "19 cm"],
+    "jawaban": 2,
+    "penjelasan": "Pythagoras: a² + b² = c² (c = sisi miring). 8² + b² = 17² → 64 + b² = 289 → b² = 225 → b = 15 cm. Ini tripel Pythagoras 8-15-17 yang perlu dihapal bersama 3-4-5, 5-12-13, dan 7-24-25."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Di perpustakaan, Ibu menyuruh mencari teks yang berisi langkah-langkah membuat sesuatu disertai bahan-bahan yang dibutuhkan. Teks tersebut adalah...",
+    "pilihan": ["Teks laporan", "Teks deskripsi", "Teks prosedur", "Teks argumentasi"],
+    "jawaban": 2,
+    "penjelasan": "Teks prosedur berisi panduan langkah demi langkah untuk melakukan atau membuat sesuatu, dilengkapi daftar bahan/alat yang dibutuhkan. Contoh: resep masakan, cara membuat kerajinan, petunjuk penggunaan alat."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Soal bonus olimpiade tingkat kabupaten: Pak Guru menabung Rp 2.000.000 di bank dengan bunga tunggal 6% per tahun. Setelah 2 tahun, total tabungan adalah...",
+    "pilihan": ["Rp 2.120.000", "Rp 2.240.000", "Rp 2.400.000", "Rp 2.480.000"],
+    "jawaban": 1,
+    "penjelasan": "Bunga tunggal = Modal × suku bunga × waktu = 2.000.000 × 6% × 2 = 2.000.000 × 0,06 × 2 = 240.000. Total = 2.000.000 + 240.000 = Rp 2.240.000. Bunga tunggal dihitung dari modal awal, bukan modal + bunga."
+  }
+]

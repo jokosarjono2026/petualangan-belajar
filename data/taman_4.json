@@ -1,0 +1,102 @@
+[
+  {
+    "mapel": "B. Inggris",
+    "soal": "Taman level 4 — advanced! 'By next year, I ___ this English course for two years.' Tense yang tepat adalah...",
+    "pilihan": ["will finish", "will have finished", "am finishing", "have finished"],
+    "jawaban": 1,
+    "penjelasan": "Future Perfect (will have + V3) menyatakan aksi yang akan SELESAI pada titik waktu tertentu di masa depan. Kata kunci: 'by next year' (menjelang tahun depan). 'I will have finished' = saya akan telah menyelesaikan (selesai sebelum/saat tahun depan)."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Di taman ada reading corner. Baca dan tentukan pernyataan yang SESUAI:\n'The park was built in 1950. It was renovated in 2020 and now features a new playground, a jogging track, and a botanical garden.'\nPernyataan yang BENAR adalah...",
+    "pilihan": [
+      "The park was built in 2020.",
+      "The park has never been renovated.",
+      "The park now has three new facilities after renovation.",
+      "The park was renovated in 1950."
+    ],
+    "jawaban": 2,
+    "penjelasan": "Reading comprehension: cari fakta yang sesuai teks. Teks menyebutkan 3 fasilitas baru: playground, jogging track, botanical garden. Pilihan A, B, D bertentangan dengan informasi dalam teks. Selalu baca teks dulu sebelum memilih jawaban."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Tantangan grammar tingkat lanjut: '___ harder, you ___ pass the exam.' Conditional yang tepat adalah...",
+    "pilihan": [
+      "If you study / will",
+      "If you studied / would",
+      "If you will study / would",
+      "Should you study / will"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Conditional Type 1 (real/possible future): If + Present Simple, will + V1. 'If you study harder, you will pass the exam.' Type 2 (unreal present): If + Past Simple, would + V1. Pilihan C salah karena tidak pakai will/would setelah 'if' dalam conditional biasa."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Di taman ada kata yang sering dikacaukan. Pilih kalimat yang menggunakan 'their', 'there', dan 'they're' dengan BENAR:",
+    "pilihan": [
+      "Their going to the park. There bags are heavy.",
+      "They're going to the park. Their bags are heavy.",
+      "There going to the park. Their bags are heavy.",
+      "They're going to the park. There bags are heavy."
+    ],
+    "jawaban": 1,
+    "penjelasan": "THEIR = kata ganti kepunyaan (their bags = tas mereka). THERE = kata keterangan tempat atau penegas keberadaan (over there, there is). THEY'RE = They are (kata ganti + to be). 'They're going' = They are going. 'Their bags' = tas mereka. Ini adalah homophones yang sering salah!"
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Tantangan menerjemahkan! 'Saya sudah selesai mengerjakan PR saya sebelum makan malam.' Terjemahan yang paling tepat adalah...",
+    "pilihan": [
+      "I finished my homework before dinner.",
+      "I had finished my homework before dinner.",
+      "I have finished my homework before dinner.",
+      "I was finishing my homework before dinner."
+    ],
+    "jawaban": 1,
+    "penjelasan": "Past Perfect (had + V3) digunakan ketika DUA aksi terjadi di masa lalu, dan satu aksi MENDAHULUI yang lain. 'Had finished' (lebih dulu) → kemudian 'had dinner'. 'Before' juga sering menjadi penanda Past Perfect. 'Have finished' (Present Perfect) untuk aksi yang baru selesai."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Di pojok taman ada quiz tentang sinonim formal. Sinonim formal untuk 'buy' dalam konteks bisnis adalah...",
+    "pilihan": ["get", "purchase", "grab", "take"],
+    "jawaban": 1,
+    "penjelasan": "'Purchase' adalah padanan formal dari 'buy' yang sering digunakan dalam konteks bisnis, dokumen resmi, dan tulisan formal. 'Buy' lebih informal. Contoh: 'You can purchase tickets at the gate' (formal) vs 'You can buy tickets at the gate' (informal)."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Kamu membaca artikel taman: 'Not only ___ the park beautiful, but it also provides a habitat for wildlife.' Struktur kalimat inversi ini benar jika diisi dengan...",
+    "pilihan": ["is", "does", "has", "was"],
+    "jawaban": 0,
+    "penjelasan": "'Not only... but also...' adalah konektor yang memperkuat pernyataan. Saat 'Not only' ada di awal kalimat, terjadi inversi (to be/auxiliary verb mendahului subject): 'Not only IS the park beautiful...' (subject = the park, to be = is karena Simple Present)."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Di taman ada workshop penulisan. 'The researcher concluded ___ the new species had never been documented before.' Kata yang tepat adalah...",
+    "pilihan": ["what", "which", "that", "whose"],
+    "jawaban": 2,
+    "penjelasan": "'That' digunakan sebagai kata penghubung (conjunction) setelah kata-kata seperti: say, think, believe, know, conclude, hope, suggest. 'He concluded THAT...' = Dia menyimpulkan bahwa... Ini adalah noun clause yang berfungsi sebagai objek."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Tantangan lanjutan! Ubah ke Reported Speech: 'She said, \"I will visit the park tomorrow.\"' Menjadi...",
+    "pilihan": [
+      "She said that she will visit the park tomorrow.",
+      "She said that she would visit the park the next day.",
+      "She said that she will visit the park the next day.",
+      "She said that I would visit the park tomorrow."
+    ],
+    "jawaban": 1,
+    "penjelasan": "Reported Speech: perubahan kata kerja (will → would), pronoun (I → she), dan keterangan waktu (tomorrow → the next day/the following day). 'Said' (past) → tenses mundur satu tingkat. Ini disebut backshift of tenses dalam Bahasa Inggris."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "BOSS LEVEL taman 4! Pilih kalimat dengan susunan kata yang paling tepat untuk penulisan formal:",
+    "pilihan": [
+      "Rarely they visit such a beautiful park.",
+      "They rarely visit such a beautiful park.",
+      "They visit rarely such a beautiful park.",
+      "Such a park beautiful they rarely visit."
+    ],
+    "jawaban": 1,
+    "penjelasan": "Adverb frekuensi (rarely, seldom, often, always, never) dalam kalimat positif diletakkan SEBELUM kata kerja utama atau SETELAH to be: 'They RARELY visit...' Pilihan A menggunakan inversi yang hanya dipakai dalam konteks sangat formal atau sastra."
+  }
+]

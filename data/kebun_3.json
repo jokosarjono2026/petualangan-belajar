@@ -1,0 +1,82 @@
+[
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun level 3 ada lab mini! Kamu mencampur air dan gula — gula larut sempurna. Ini contoh...",
+    "pilihan": ["Suspensi", "Koloid", "Larutan", "Campuran heterogen"],
+    "jawaban": 2,
+    "penjelasan": "Larutan adalah campuran homogen di mana zat terlarut menyebar merata dan tidak terlihat. Contoh: air gula, air garam. Suspensi = campuran di mana partikel mengendap (lumpur). Koloid = antara keduanya (susu, agar-agar)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Kamu mengamati batu bata di tembok kebun yang mengalami perkaratan dan warnanya menjadi oranye. Proses ini disebut...",
+    "pilihan": ["Kondensasi", "Oksidasi (perkaratan)", "Sublimasi", "Kristalisasi"],
+    "jawaban": 1,
+    "penjelasan": "Perkaratan (korosi) adalah reaksi kimia antara besi + air + oksigen menghasilkan karat (Fe₂O₃). Ini adalah oksidasi. Kondensasi = perubahan gas ke cair. Sublimasi = perubahan padat langsung ke gas (kapur barus)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Penjaga kebun menggunakan timbangan neraca untuk mengukur massa tanah. Alat untuk mengukur VOLUME cairan adalah...",
+    "pilihan": ["Neraca Ohaus", "Termometer", "Gelas ukur", "Barometer"],
+    "jawaban": 2,
+    "penjelasan": "Gelas ukur digunakan untuk mengukur volume cairan (satuannya mL atau L). Neraca Ohaus untuk massa. Termometer untuk suhu. Barometer untuk tekanan udara. Setiap besaran fisika memiliki alat ukur yang berbeda."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Ilmuwan kebun sedang mengklasifikasikan makhluk hidup. Sistem klasifikasi dari yang paling umum ke paling khusus adalah...",
+    "pilihan": [
+      "Kingdom → Filum → Kelas → Ordo → Famili → Genus → Spesies",
+      "Spesies → Genus → Famili → Ordo → Kelas → Filum → Kingdom",
+      "Kingdom → Spesies → Genus → Famili → Ordo → Kelas → Filum",
+      "Famili → Genus → Spesies → Ordo → Kelas → Filum → Kingdom"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Taksonomi dari umum ke khusus: Kingdom → Filum → Kelas → Ordo → Famili → Genus → Spesies. Mnemonik: King Philip Came Over For Good Soup (K-P-C-O-F-G-S). Manusia: Animalia → Chordata → Mamalia → Primata → Hominidae → Homo → sapiens."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun, petani mencoba membiakkan tanaman mangga unggul dengan menempelkan tunas mangga manis pada batang mangga biasa. Teknik ini disebut...",
+    "pilihan": ["Setek batang", "Cangkok", "Okulasi", "Kultur jaringan"],
+    "jawaban": 2,
+    "penjelasan": "Okulasi adalah perkembangbiakan vegetatif buatan dengan menempelkan mata tunas (tunas yang baru tumbuh) dari tanaman unggul ke batang tanaman lain. Hasilnya: tanaman dengan sifat unggul tapi akar yang kuat dari batang bawah."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Kamu belajar bioteknologi di lab kebun. Pembuatan tempe dari kedelai menggunakan jamur Rhizopus memanfaatkan proses...",
+    "pilihan": ["Fotosintesis", "Fermentasi", "Respirasi aerob", "Filtrasi"],
+    "jawaban": 1,
+    "penjelasan": "Fermentasi adalah proses penguraian zat organik oleh mikroorganisme (jamur/bakteri) tanpa oksigen (anaerob). Contoh bioteknologi konvensional: tempe (Rhizopus), tape (Saccharomyces), yoghurt (Lactobacillus), roti (ragi)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di tepi kolam kebun ada tanaman eceng gondok yang tumbuh sangat cepat hingga menutupi seluruh permukaan kolam. Dampak negatifnya adalah...",
+    "pilihan": [
+      "Air kolam menjadi lebih jernih",
+      "Ikan mendapat lebih banyak makanan",
+      "Oksigen dalam air berkurang dan ikan mati",
+      "Kolam menjadi lebih dalam"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Eceng gondok yang menutupi permukaan air menghalangi sinar matahari masuk, sehingga fotosintesis tumbuhan air berkurang dan kadar oksigen terlarut menurun. Ikan dan organisme air lainnya kekurangan oksigen dan bisa mati."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Peneliti kebun mengukur pH tanah. Tanah yang cocok untuk sebagian besar tanaman memiliki pH...",
+    "pilihan": ["pH 1-3 (sangat asam)", "pH 4-5 (asam)", "pH 6-7 (netral hingga sedikit asam)", "pH 9-14 (basa kuat)"],
+    "jawaban": 2,
+    "penjelasan": "Sebagian besar tanaman tumbuh optimal pada pH 6-7 (netral hingga sedikit asam). Pada pH ini, nutrisi paling mudah diserap akar. Tanah terlalu asam (pH < 5) atau terlalu basa (pH > 8) menghambat penyerapan nutrisi."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada tumbuhan paku (pakis). Paku berkembang biak dengan spora yang terdapat pada...",
+    "pilihan": ["Batang", "Akar", "Bawah permukaan daun (sori)", "Bunga"],
+    "jawaban": 2,
+    "penjelasan": "Spora tumbuhan paku terdapat di bawah permukaan daun dalam wadah bernama sorus (jamak: sori) yang terlihat sebagai bintik-bintik coklat. Spora yang jatuh di tanah lembab akan berkecambah menjadi tanaman baru."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Kamu menemukan hewan-hewan kecil di kebun. Hewan yang termasuk kelompok Arachnida (bukan serangga) adalah...",
+    "pilihan": ["Belalang", "Kupu-kupu", "Lebah", "Laba-laba"],
+    "jawaban": 3,
+    "penjelasan": "Arachnida memiliki 4 pasang kaki (8 kaki) dan tubuh terbagi 2 bagian (sefalotoraks + abdomen). Contoh: laba-laba, kalajengking, tungau. Serangga (Insecta) memiliki 3 pasang kaki (6 kaki) dan tubuh 3 bagian. Belalang, kupu-kupu, lebah adalah serangga."
+  }
+]

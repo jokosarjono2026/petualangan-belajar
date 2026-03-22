@@ -1,0 +1,87 @@
+[
+  {
+    "mapel": "B. Inggris",
+    "soal": "Di taman level 2 ada papan belajar! 'I ___ a student. She ___ a teacher.' Kata yang tepat untuk mengisi keduanya adalah...",
+    "pilihan": ["am / is", "is / am", "are / is", "am / are"],
+    "jawaban": 0,
+    "penjelasan": "To Be: I → AM, He/She/It (tunggal) → IS, You/We/They (jamak) → ARE. 'I am a student' dan 'She is a teacher' adalah penggunaan to be yang benar dalam Simple Present Tense untuk menyatakan profesi/identitas."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Kamu menemukan kartu soal di taman. Manakah kalimat yang menggunakan Past Tense dengan BENAR?",
+    "pilihan": [
+      "Yesterday, I go to the park with my friends.",
+      "She was very happy when she founded the treasure.",
+      "We played soccer in the park last Sunday.",
+      "They are watched a movie last night."
+    ],
+    "jawaban": 2,
+    "penjelasan": "'Played' adalah bentuk Past Tense dari 'play' (V2 regular). 'Last Sunday' adalah petunjuk waktu lampau. Pilihan A: 'go' harus 'went'. Pilihan B: 'founded' (mendirikan) harus 'found' (menemukan). Pilihan D: 'are watched' salah, harus 'watched'."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Pemandu taman menjelaskan tentang preposisi. Pilih kalimat yang menggunakan preposisi tempat dengan BENAR.",
+    "pilihan": [
+      "The cat is in the box.",
+      "She arrived on Monday in 3 o'clock.",
+      "He lives at Jakarta.",
+      "The book is on my bag."
+    ],
+    "jawaban": 0,
+    "penjelasan": "'In the box' = di dalam kotak — benar! Koreksi pilihan lain: B) 'at 3 o'clock' (bukan 'in'); C) 'in Jakarta' (untuk kota/negara pakai 'in'); D) 'in my bag' (di dalam tas, bukan 'on')."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Di pos taman ada tantangan: ubah ke kalimat negatif! 'She likes playing in the park.' Kalimat negatifnya adalah...",
+    "pilihan": [
+      "She not likes playing in the park.",
+      "She doesn't likes playing in the park.",
+      "She doesn't like playing in the park.",
+      "She isn't like playing in the park."
+    ],
+    "jawaban": 2,
+    "penjelasan": "Kalimat negatif Simple Present untuk He/She/It: Subject + doesn't + V1 (infinitive). 'Doesn't' sudah mengandung 's' sehingga kata kerjanya TIDAK ditambah 's'. Benar: 'She doesn't like' (bukan 'doesn't likes')."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Kamu membaca papan cerita di taman tentang pohon tertua. 'This tree is OLDER than the one near the gate.' Kalimat ini menggunakan...",
+    "pilihan": ["Positive degree", "Comparative degree", "Superlative degree", "Absolute degree"],
+    "jawaban": 1,
+    "penjelasan": "Comparative degree digunakan untuk membandingkan DUA hal. Polanya: adjective + -er + than (untuk kata sifat pendek) atau more + adjective + than (kata sifat panjang). Contoh: older than, bigger than, more beautiful than."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Kamu menemukan surat misterius di taman: 'Dear friend, I ___ (write) this letter while sitting under a big tree.' Bentuk kata kerja yang tepat adalah...",
+    "pilihan": ["write", "wrote", "am writing", "have written"],
+    "jawaban": 2,
+    "penjelasan": "'While sitting' menunjukkan dua aksi berlangsung bersamaan SAAT INI. Gunakan Present Continuous: am/is/are + V-ing. 'I am writing this letter while sitting...' Rumus: Subject + to be (am/is/are) + V-ing."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Tanda di taman: 'You ___ feed the animals. It's prohibited.' Kata yang tepat untuk larangan tegas adalah...",
+    "pilihan": ["should not", "must not", "need not", "will not"],
+    "jawaban": 1,
+    "penjelasan": "'Must not' (mustn't) = larangan tegas, DILARANG keras. 'Should not' = sebaiknya tidak (saran, lebih lemah). 'Need not' = tidak perlu (tidak wajib). 'Will not' = tidak akan (prediksi). Untuk larangan di tempat publik, 'must not' adalah yang paling kuat."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Pos bahasa di taman menantang kamu melengkapi percakapan:\n'___ is the park open?'\n'It opens at 7 AM every day.'\nKata tanya yang tepat adalah...",
+    "pilihan": ["What time", "How many", "Which", "Whose"],
+    "jawaban": 0,
+    "penjelasan": "'What time' digunakan untuk menanyakan jam/waktu. Jawaban 'at 7 AM' mengkonfirmasi ini. Question words: WHAT TIME/WHEN = waktu, WHERE = tempat, WHO = orang, WHICH = pilihan, HOW MANY = jumlah (countable), WHOSE = kepunyaan."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Kamu membaca buku panduan taman dalam Bahasa Inggris: 'The park has a café that serves delicious food.' Kata 'that' dalam kalimat tersebut berfungsi sebagai...",
+    "pilihan": ["Kata ganti orang", "Kata penghubung klausa relatif", "Kata keterangan tempat", "Kata sifat penunjuk"],
+    "jawaban": 1,
+    "penjelasan": "'That serves delicious food' adalah relative clause (klausa relatif) yang menerangkan 'a café'. 'That' di sini adalah relative pronoun yang menggantikan 'café'. Relative clause: who (untuk orang), which/that (untuk benda), whose (kepunyaan)."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "BOSS LEVEL taman! Baca kalimat ini: 'If it rains tomorrow, we ___ cancel the picnic.' Modal yang tepat adalah...",
+    "pilihan": ["will", "would", "should", "might"],
+    "jawaban": 0,
+    "penjelasan": "Conditional Type 1 (kemungkinan nyata di masa depan): If + Present Simple, ... will + V1. 'If it rains tomorrow, we WILL cancel the picnic.' Conditional Type 2 (tidak nyata/hipotetis): If + Past Simple, ... would + V1."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "mapel": "IPS",
+    "soal": "Keluarga berdiskusi tentang globalisasi. Dampak positif globalisasi bagi Indonesia adalah...",
+    "pilihan": [
+      "Lunturnya budaya lokal karena pengaruh budaya asing",
+      "Masuknya barang impor yang mematikan industri lokal",
+      "Kemudahan akses teknologi dan informasi untuk pembangunan",
+      "Meningkatnya ketergantungan pada negara maju"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Dampak positif globalisasi: akses teknologi terkini, kemajuan ekonomi, peningkatan kualitas SDM, perluasan pasar ekspor, transfer ilmu pengetahuan. Pilihan A, B, D adalah dampak negatif globalisasi yang perlu diwaspadai."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Adik belajar tentang keragaman Indonesia di rumah. Indonesia disebut negara kepulauan terbesar dunia karena memiliki sekitar...",
+    "pilihan": ["3.000 pulau", "8.000 pulau", "17.000 pulau", "25.000 pulau"],
+    "jawaban": 2,
+    "penjelasan": "Indonesia memiliki sekitar 17.000 pulau (17.508 menurut data resmi), menjadikannya negara kepulauan terbesar di dunia. Lima pulau terbesar: Kalimantan, Sumatra, Papua, Sulawesi, dan Jawa. Indonesia juga memiliki garis pantai terpanjang kedua di dunia."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Ibu mengajarkan tentang nilai-nilai Pancasila. Sikap yang mencerminkan pengamalan sila ke-3 (Persatuan Indonesia) adalah...",
+    "pilihan": [
+      "Rajin beribadah sesuai agama masing-masing",
+      "Mau menerima perbedaan dan bersatu dalam keberagaman",
+      "Mengutamakan kepentingan diri sendiri",
+      "Membantu fakir miskin dan yatim piatu"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Sila ke-3 (Persatuan Indonesia) diwujudkan dengan: cinta tanah air, menjaga persatuan dan kesatuan, toleransi, menghargai perbedaan SARA, dan mengedepankan kepentingan bersama di atas kepentingan pribadi/golongan."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Di rumah, ayah menjelaskan tentang lembaga peradilan. Mahkamah Konstitusi (MK) memiliki wewenang khusus untuk...",
+    "pilihan": [
+      "Mengadili perkara pidana dan perdata",
+      "Menguji undang-undang terhadap UUD 1945",
+      "Mengawasi kinerja pemerintah daerah",
+      "Memeriksa keuangan negara"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Mahkamah Konstitusi (MK) berwenang: (1) menguji UU terhadap UUD 1945, (2) memutus sengketa kewenangan lembaga negara, (3) membubarkan partai politik, (4) memutus perselisihan hasil pemilu. Mahkamah Agung (MA) mengadili perkara pidana/perdata tertinggi."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Keluarga melihat berita tentang peluncuran satelit Indonesia. Kemajuan teknologi komunikasi dan informasi (TIK) merupakan contoh perubahan sosial yang disebabkan oleh...",
+    "pilihan": ["Peperangan dan konflik", "Inovasi dan penemuan baru", "Bencana alam", "Migrasi penduduk"],
+    "jawaban": 1,
+    "penjelasan": "Inovasi (pembaruan cara lama) dan invention (penemuan hal baru) adalah pendorong utama perubahan sosial dalam bidang TIK. Faktor pendorong perubahan sosial lain: kontak dengan budaya lain, pendidikan maju, ketidakpuasan dengan sistem yang ada."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Ibu membaca tentang kebijakan fiskal pemerintah. APBN adalah singkatan dari...",
+    "pilihan": [
+      "Anggaran Pengeluaran Belanja Nasional",
+      "Anggaran Pendapatan dan Belanja Negara",
+      "Administrasi Pengelolaan Biaya Negara",
+      "Aturan Penggunaan Biaya Nasional"
+    ],
+    "jawaban": 1,
+    "penjelasan": "APBN = Anggaran Pendapatan dan Belanja Negara, yaitu rencana keuangan tahunan pemerintah yang disetujui DPR. Pendapatan negara = pajak + bukan pajak + hibah. Belanja negara = untuk pembangunan, gaji PNS, subsidi, dll. Ditetapkan tiap Oktober untuk tahun berikutnya."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Keluarga berdiskusi tentang permasalahan lingkungan. Penyebab utama pencemaran lingkungan di perkotaan yang berkaitan dengan aktivitas rumah tangga adalah...",
+    "pilihan": [
+      "Letusan gunung berapi",
+      "Pembuangan limbah dan sampah rumah tangga sembarangan",
+      "Gempa bumi dan tsunami",
+      "Penguapan air laut"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Limbah rumah tangga (sampah, air cucian, plastik) yang dibuang sembarangan mencemari tanah dan air. Pencemaran lingkungan perkotaan: sampah plastik, limbah cair, polusi udara kendaraan, kebisingan. Letusan gunung dan gempa adalah bencana alam, bukan aktivitas manusia."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Adik belajar tentang sistem hukum. Hukum yang mengatur hubungan antara negara dan warga negara, seperti hukum pidana, disebut...",
+    "pilihan": ["Hukum privat", "Hukum publik", "Hukum adat", "Hukum internasional"],
+    "jawaban": 1,
+    "penjelasan": "Hukum publik mengatur hubungan antara negara dengan warga negara atau antar negara. Contoh: hukum pidana, hukum tata negara, hukum administrasi negara. Hukum privat (perdata) mengatur hubungan antar individu: jual beli, warisan, pernikahan."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Ibu mengajarkan tentang koperasi. Koperasi di Indonesia berpegang pada prinsip...",
+    "pilihan": ["Mencari keuntungan sebesar-besarnya", "Keanggotaan sukarela dan terbuka, pengelolaan demokratis", "Saham terbesar menentukan suara terbanyak", "Hanya boleh diikuti warga miskin"],
+    "jawaban": 1,
+    "penjelasan": "Prinsip koperasi (UU No. 25/1992): (1) Keanggotaan sukarela dan terbuka, (2) Pengelolaan demokratis (satu anggota satu suara), (3) Pembagian SHU adil, (4) Modal atas dasar balas jasa terbatas, (5) Kemandirian. Berbeda dengan PT di mana saham terbesar = suara terbesar."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "GRAND FINAL rumah level 4! Keluarga berdiskusi tentang HAM. Hak asasi manusia bersifat...",
+    "pilihan": [
+      "Diberikan oleh negara dan bisa dicabut",
+      "Universal dan tidak dapat dicabut oleh siapapun",
+      "Hanya berlaku di negara demokrasi",
+      "Dapat dibatasi sepenuhnya oleh hukum negara"
+    ],
+    "jawaban": 1,
+    "penjelasan": "HAM (Hak Asasi Manusia) bersifat: universal (berlaku untuk semua manusia), kodrati (lahir bersama manusia, bukan pemberian negara), dan tidak dapat dicabut (inalienable). Meski negara dapat membatasi HAM tertentu demi kepentingan umum, HAM dasar tidak dapat dihapuskan."
+  }
+]

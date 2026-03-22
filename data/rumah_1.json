@@ -1,0 +1,72 @@
+[
+  {
+    "mapel": "IPS",
+    "soal": "Ayah Dika menunjuk peta Indonesia di dinding ruang keluarga. Berdasarkan letak geografis, Indonesia diapit oleh dua samudra yaitu...",
+    "pilihan": ["Samudra Hindia dan Samudra Pasifik", "Samudra Atlantik dan Samudra Hindia", "Samudra Pasifik dan Samudra Arktik", "Samudra Antartika dan Samudra Pasifik"],
+    "jawaban": 0,
+    "penjelasan": "Secara geografis, Indonesia terletak di antara Samudra Hindia (sebelah barat dan selatan) dan Samudra Pasifik (sebelah utara dan timur). Posisi ini membuat Indonesia memiliki iklim tropis dan kaya sumber daya laut."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Saat berkunjung ke rumah nenek di Yogyakarta, Rina menonton pertunjukan wayang kulit semalam suntuk. Wayang kulit merupakan seni budaya yang berasal dari daerah...",
+    "pilihan": ["Bali", "Jawa", "Sumatra", "Kalimantan"],
+    "jawaban": 1,
+    "penjelasan": "Wayang kulit adalah seni pertunjukan tradisional yang berasal dari Jawa (khususnya Jawa Tengah dan Yogyakarta). Wayang kulit telah diakui UNESCO sebagai Warisan Budaya Tak Benda pada tahun 2003."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Bu Dewi mengajar Dani di rumah tentang kewajiban warga negara. Manakah yang BUKAN merupakan kewajiban warga negara Indonesia?",
+    "pilihan": ["Membayar pajak", "Menaati hukum yang berlaku", "Dipilih menjadi presiden", "Membela negara"],
+    "jawaban": 2,
+    "penjelasan": "Dipilih menjadi presiden adalah hak, bukan kewajiban, dan hanya berlaku bagi warga negara yang memenuhi syarat. Kewajiban warga negara antara lain: membayar pajak, menaati hukum, membela negara, dan menghormati hak orang lain."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Di rumah, keluarga Pak Budi berdiskusi tentang harga sembako yang terus naik setiap bulan. Naiknya harga barang secara umum dan terus-menerus dalam jangka waktu tertentu disebut...",
+    "pilihan": ["Deflasi", "Inflasi", "Devaluasi", "Revaluasi"],
+    "jawaban": 1,
+    "penjelasan": "Inflasi adalah kenaikan harga barang secara umum dan terus-menerus. Lawannya adalah deflasi (penurunan harga). Devaluasi adalah penurunan nilai mata uang oleh pemerintah, sedangkan revaluasi adalah kenaikannya."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Nenek membacakan cerita sejarah kepada cucu-cucunya di rumah. Ia menceritakan bahwa Proklamasi Kemerdekaan Indonesia dibacakan pada tanggal...",
+    "pilihan": ["17 Agustus 1945", "20 Mei 1908", "28 Oktober 1928", "1 Juni 1945"],
+    "jawaban": 0,
+    "penjelasan": "Proklamasi Kemerdekaan Indonesia dibacakan oleh Ir. Soekarno dan Drs. Mohammad Hatta pada 17 Agustus 1945 di Jalan Pegangsaan Timur No. 56, Jakarta. Tanggal ini diperingati sebagai Hari Kemerdekaan RI setiap tahunnya."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Kakak mengerjakan PR IPS di meja belajar tentang lembaga negara. Lembaga negara yang memiliki tugas utama membuat undang-undang di Indonesia adalah...",
+    "pilihan": ["Presiden", "Mahkamah Agung", "DPR (Dewan Perwakilan Rakyat)", "BPK (Badan Pemeriksa Keuangan)"],
+    "jawaban": 2,
+    "penjelasan": "DPR bertugas membuat undang-undang bersama Presiden, menyusun APBN, dan mengawasi jalannya pemerintahan. Mahkamah Agung bertugas di bidang peradilan, sedangkan BPK memeriksa pengelolaan keuangan negara."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Pak RT mengundang warga berkumpul di rumahnya untuk bermusyawarah memutuskan jadwal kerja bakti. Musyawarah untuk mufakat adalah pengamalan Pancasila sila ke-...",
+    "pilihan": ["Sila ke-2", "Sila ke-3", "Sila ke-4", "Sila ke-5"],
+    "jawaban": 2,
+    "penjelasan": "Sila ke-4: 'Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan.' Sila ini mengajarkan pengambilan keputusan secara musyawarah mufakat dan menghargai pendapat orang lain."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Di peta dinding rumah, skala tertulis 1:500.000. Jarak dua kota pada peta adalah 4 cm. Berapa jarak sebenarnya antara dua kota tersebut?",
+    "pilihan": ["2 km", "20 km", "200 km", "2.000 km"],
+    "jawaban": 1,
+    "penjelasan": "Jarak sebenarnya = jarak di peta × skala = 4 cm × 500.000 = 2.000.000 cm = 20.000 m = 20 km. Skala 1:500.000 artinya 1 cm di peta mewakili 500.000 cm (= 5 km) jarak sebenarnya."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Adik bertanya kepada ibu, 'Apa pekerjaan yang langsung mengolah sumber daya alam?' Contoh mata pencaharian di sektor primer (sektor pertama) adalah...",
+    "pilihan": ["Guru", "Pedagang", "Petani", "Arsitek"],
+    "jawaban": 2,
+    "penjelasan": "Sektor primer adalah kegiatan ekonomi yang langsung mengambil atau mengolah hasil alam, contoh: petani, nelayan, penambang, peternak. Sektor sekunder: industri/manufaktur. Sektor tersier: jasa (guru, pedagang, arsitek)."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Di rumah, ada pigura foto pahlawan. Tokoh yang dijuluki 'Bapak Pendidikan Nasional' dan lahir pada 2 Mei yang kini diperingati sebagai Hari Pendidikan Nasional adalah...",
+    "pilihan": ["Ir. Soekarno", "Mohammad Hatta", "Ki Hajar Dewantara", "Jenderal Sudirman"],
+    "jawaban": 2,
+    "penjelasan": "Ki Hajar Dewantara (Raden Mas Soewardi Soerjaningrat) adalah Bapak Pendidikan Nasional. Ia mendirikan Taman Siswa (1922) dan lahir 2 Mei 1889 — diperingati sebagai Hari Pendidikan Nasional. Semboyannya: 'Ing ngarsa sung tulada, ing madya mangun karsa, tut wuri handayani.'"
+  }
+]

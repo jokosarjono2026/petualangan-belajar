@@ -1,0 +1,77 @@
+[
+  {
+    "mapel": "Matematika",
+    "soal": "Bu Guru membawa 96 pensil untuk dibagikan rata kepada 8 kelompok belajar. Berapa pensil yang diterima setiap kelompok?",
+    "pilihan": ["10 pensil", "12 pensil", "14 pensil", "16 pensil"],
+    "jawaban": 1,
+    "penjelasan": "96 ÷ 8 = 12. Pembagian: 8 × 12 = 96, jadi setiap kelompok mendapat 12 pensil."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di perpustakaan sekolah terdapat 24 buku Matematika dan 36 buku IPA. Pak Pustakawan ingin menyusunnya di rak dengan jumlah buku per rak sama. Berapa paling banyak buku per rak?",
+    "pilihan": ["6 buku", "8 buku", "12 buku", "18 buku"],
+    "jawaban": 2,
+    "penjelasan": "FPB dari 24 dan 36 = 12. Berarti setiap rak bisa diisi 12 buku (2 rak Matematika, 3 rak IPA)."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Dinda menulis pengumuman untuk mading sekolah. Kalimat mana yang paling efektif?",
+    "pilihan": [
+      "Bahwasanya lomba itu akan diadakan besok hari Senin.",
+      "Lomba cerdas cermat dilaksanakan Senin, 25 Maret 2026.",
+      "Kami mengumumkan bahwa lomba cerdas cermat itu akan diadakan.",
+      "Lomba cerdas cermat itu insyaallah akan diadakan besok."
+    ],
+    "jawaban": 1,
+    "penjelasan": "Kalimat efektif harus jelas, lengkap, dan tidak berlebihan. Pilihan B mencantumkan informasi lengkap (apa, kapan) secara ringkas."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Jadwal piket kelas A setiap 4 hari, kelas B setiap 6 hari. Hari ini keduanya piket bersamaan. Berapa hari lagi mereka piket bersamaan?",
+    "pilihan": ["8 hari", "10 hari", "12 hari", "24 hari"],
+    "jawaban": 2,
+    "penjelasan": "KPK dari 4 dan 6 = 12. Kelipatan 4: 4,8,12... Kelipatan 6: 6,12... Keduanya bertemu di angka 12."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Pak Guru berkata, 'Kalian harus rajin belajar agar meraih prestasi.' Antonim kata 'rajin' dalam kalimat tersebut adalah...",
+    "pilihan": ["Tekun", "Giat", "Malas", "Pandai"],
+    "jawaban": 2,
+    "penjelasan": "Antonim = lawan kata. Lawan dari 'rajin' adalah 'malas'. Tekun dan giat adalah sinonim rajin."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Suhu ruang kelas pagi hari 18°C. Siang hari naik 9°C, lalu sore hari turun 12°C. Suhu sore hari adalah...",
+    "pilihan": ["13°C", "15°C", "17°C", "21°C"],
+    "jawaban": 1,
+    "penjelasan": "18 + 9 = 27°C (siang). 27 - 12 = 15°C (sore). Operasi bilangan bulat: tambah lalu kurang."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Ketua OSIS menulis teks untuk upacara bendera. Sinonim kata 'semangat' yang paling tepat untuk teks resmi adalah...",
+    "pilihan": ["Garang", "Gairah", "Antusias", "Ribut"],
+    "jawaban": 2,
+    "penjelasan": "'Antusias' adalah sinonim 'semangat' yang tepat untuk konteks formal seperti teks upacara."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Lapangan upacara sekolah berbentuk persegi panjang, panjang 45 m dan lebar 30 m. Berapa luas lapangan tersebut?",
+    "pilihan": ["1.200 m²", "1.350 m²", "1.500 m²", "1.800 m²"],
+    "jawaban": 1,
+    "penjelasan": "Luas persegi panjang = panjang × lebar = 45 × 30 = 1.350 m²."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Budi membuat paragraf tentang kantin sekolah. Kalimat yang berisi IDE POKOK paragraf disebut...",
+    "pilihan": ["Kalimat penjelas", "Kalimat utama", "Kalimat majemuk", "Kalimat perintah"],
+    "jawaban": 1,
+    "penjelasan": "Kalimat utama (kalimat topik) adalah kalimat yang mengandung ide pokok atau gagasan utama sebuah paragraf."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Nilai ulangan Matematika 5 siswa: 70, 80, 75, 90, 85. Berapa nilai rata-rata kelas?",
+    "pilihan": ["78", "80", "82", "85"],
+    "jawaban": 1,
+    "penjelasan": "Rata-rata = jumlah ÷ banyak data = (70+80+75+90+85) ÷ 5 = 400 ÷ 5 = 80."
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "mapel": "B. Inggris",
+    "soal": "TAMAN GRAND FINAL! Baca teks pendek:\n'Despite the heavy rain, the annual flower festival attracted thousands of visitors. The organizers were surprised by the overwhelming turnout.'\nApa arti kata 'overwhelming' dalam konteks ini?",
+    "pilihan": ["sedikit / minimal", "sangat besar / luar biasa banyak", "mengecewakan", "terduga / biasa"],
+    "jawaban": 1,
+    "penjelasan": "'Overwhelming' berarti sangat besar, luar biasa, atau melampaui perkiraan. 'Overwhelming turnout' = jumlah pengunjung yang sangat banyak, melebihi ekspektasi. Cara menebak arti kata: lihat konteks — 'organizers were SURPRISED' menunjukkan sesuatu yang tidak terduga dan luar biasa besar."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Ujian final taman! '___ the storm had passed, the park staff ___ (begin) to clean up the damage.' Pilih kombinasi yang benar:",
+    "pilihan": [
+      "Once / began",
+      "Until / have begun",
+      "Although / had began",
+      "While / begins"
+    ],
+    "jawaban": 0,
+    "penjelasan": "'Once the storm had passed, the park staff began...' — Once = setelah/begitu (conjunction waktu). Setelah 'once' + Past Perfect (had passed), klausa utama menggunakan Simple Past (began). 'Had began' salah — bentuk V3 dari begin adalah 'begun' (irregular: begin-began-begun)."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Kamu menemukan surat resmi di taman. Pilih kalimat pembuka surat resmi yang paling tepat:",
+    "pilihan": [
+      "Hey! I want to tell you about our park renovation project.",
+      "With reference to your inquiry dated 15 March 2026, we are pleased to provide the following information.",
+      "So, about the park, here's what we're planning to do.",
+      "I hope you're doing well! Anyway, about the project..."
+    ],
+    "jawaban": 1,
+    "penjelasan": "Surat resmi (formal letter) dimulai dengan referensi jelas (tanggal surat sebelumnya / topik yang dirujuk). Gunakan bahasa formal, jelas, dan langsung ke poin. Hindari sapaan informal ('Hey', 'So', 'Anyway'). Struktur surat resmi: salutation, reference, body, closing."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Di taman ada pameran seni dengan caption: 'The painting, ___ was created in 1920, ___ now on display in the gallery.' Pilih yang benar:",
+    "pilihan": [
+      "that / is", "which / is", "who / are", "whose / is"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Relative clause untuk benda: WHICH (non-restrictive, diapit koma) atau THAT (restrictive, tanpa koma). Karena ada koma ('the painting, which...'), gunakan WHICH. 'That' tidak digunakan dalam non-restrictive relative clause. To be 'is' karena subjeknya 'the painting' (tunggal)."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Final vocabulary challenge! Pilih kata yang paling tepat untuk mengisi kalimat:\n'The park's conservation program aims to ___ the endangered species in its natural habitat.'",
+    "pilihan": ["destroy", "preserve", "neglect", "ignore"],
+    "jawaban": 1,
+    "penjelasan": "'Preserve' = melestarikan, melindungi dari kerusakan atau kepunahan. Dalam konteks konservasi dan spesies terancam punah, 'preserve' adalah kata yang tepat. Synonyms: conserve, protect, safeguard. Antonyms: destroy, damage, neglect."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Kamu menulis laporan kunjungan taman. 'The guide told us ___ touch the artifacts because they are fragile.' Pilih yang benar:",
+    "pilihan": ["to not", "not to", "don't", "not"],
+    "jawaban": 1,
+    "penjelasan": "Setelah kata kerja 'told' dalam reported speech, gunakan 'tell + someone + (not) to + V1'. Letak negasi: NOT TO + V1 (bukan 'to not'). 'Told us NOT TO touch' = memberitahu kami untuk tidak menyentuh. 'Don't' hanya digunakan dalam direct speech/imperatif langsung."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Tantangan penerjemahan tingkat lanjut! 'Semakin keras kamu belajar, semakin baik hasilnya.' Terjemahan yang paling akurat adalah...",
+    "pilihan": [
+      "The harder you study, the better the results.",
+      "If you study hard, the results are better.",
+      "The more hard you study, the more better results.",
+      "As you study harder, so the results get better."
+    ],
+    "jawaban": 0,
+    "penjelasan": "Struktur 'semakin...semakin...' = 'the + comparative, the + comparative'. 'The harder you study, the better the results.' Ini adalah Double Comparative construction. Pilihan C salah karena 'more hard' (harusnya 'harder') dan 'more better' (harusnya 'better' saja)."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Di taman ada diskusi tentang lingkungan dalam Bahasa Inggris. 'I wish I ___ do more to help the environment.' Kata yang tepat untuk mengekspresikan keinginan yang tidak terpenuhi adalah...",
+    "pilihan": ["can", "could", "will", "would"],
+    "jawaban": 1,
+    "penjelasan": "'I wish + Past Simple/could' digunakan untuk menyatakan keinginan tentang situasi SEKARANG yang bertentangan dengan kenyataan. 'I wish I could' = Saya berharap bisa (tapi kenyataannya tidak/belum bisa). Berbeda dengan 'I hope I can' = saya berharap/kemungkinan bisa (lebih optimis)."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Kamu membaca review taman dalam Bahasa Inggris dan menemukan idiom: 'The park was a breath of fresh air after weeks of staying indoors.' Arti idiom 'a breath of fresh air' adalah...",
+    "pilihan": [
+      "Udara segar dari taman",
+      "Sesuatu yang menyenangkan dan menyegarkan setelah situasi yang membosankan",
+      "Olahraga pernapasan di udara terbuka",
+      "Polusi udara yang berkurang"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Idiom 'a breath of fresh air' secara harfiah = hembusan udara segar, tetapi idiomnya berarti sesuatu yang baru, menyenangkan, dan menyegarkan — terutama setelah periode yang membosankan atau melelahkan. Contoh: 'His humor was a breath of fresh air in the tense meeting.'"
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "GRAND FINAL TAMAN! Pilih essay opening yang paling kuat dan menarik untuk topik 'The Importance of Green Spaces in Cities':",
+    "pilihan": [
+      "In this essay, I will write about green spaces in cities.",
+      "Imagine a city without a single tree, park, or garden — a concrete jungle where stress and pollution reign. This is the reality that many urban dwellers face today.",
+      "Green spaces are important. There are many reasons why they are good for cities.",
+      "I think green spaces in cities are important because of many reasons."
+    ],
+    "jawaban": 1,
+    "penjelasan": "Opening essay yang kuat menggunakan hook (kalimat pembuka yang menarik perhatian), bisa berupa: pertanyaan retoris, skenario hipotetis ('Imagine...'), statistik mengejutkan, atau kutipan. Pilihan A terlalu langsung (no hook). Pilihan C & D terlalu sederhana dan menggunakan 'I think' yang mengurangi objektivitas."
+  }
+]

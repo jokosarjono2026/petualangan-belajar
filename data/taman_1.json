@@ -1,0 +1,72 @@
+[
+  {
+    "mapel": "B. Inggris",
+    "soal": "Di papan taman ada kalimat: 'The birds ___ flying near the fountain.' Kata kerja yang tepat untuk melengkapi kalimat tersebut adalah...",
+    "pilihan": ["is", "are", "was", "am"],
+    "jawaban": 1,
+    "penjelasan": "'Birds' adalah kata benda jamak (lebih dari satu), sehingga menggunakan 'are' (bukan 'is' yang untuk tunggal). Rumus: I → am, He/She/It (tunggal) → is, You/We/They (jamak) → are."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Riko menemukan kartu kata di pos pertama taman. Manakah antonim (lawan kata) dari 'beautiful'?",
+    "pilihan": ["Pretty", "Gorgeous", "Ugly", "Lovely"],
+    "jawaban": 2,
+    "penjelasan": "Antonim 'beautiful' (indah/cantik) adalah 'ugly' (jelek/buruk). Sedangkan 'pretty', 'gorgeous', dan 'lovely' adalah sinonim (persamaan kata) dari 'beautiful'."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Papan petunjuk taman bertuliskan: 'She ___ to the park every Sunday.' Kata kerja yang tepat untuk kalimat kebiasaan ini adalah...",
+    "pilihan": ["go", "goes", "going", "went"],
+    "jawaban": 1,
+    "penjelasan": "'She' adalah kata ganti orang ketiga tunggal (He/She/It). Dalam Simple Present Tense untuk menyatakan kebiasaan, kata kerja ditambah -s/-es: go → goes. 'Went' adalah bentuk lampau (Past Tense)."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Penjaga taman menjelaskan: 'This is the TALLEST tree in the park.' Kata 'tallest' dalam kalimat tersebut menggunakan bentuk...",
+    "pilihan": ["Positive degree", "Comparative degree", "Superlative degree", "Adjective phrase"],
+    "jawaban": 2,
+    "penjelasan": "Superlative degree digunakan untuk membandingkan satu hal dengan semua hal lainnya dalam satu kelompok (yang paling...). Bentuknya: the + adjective + -est, atau the most + adjective. Contoh: tall → tallest, beautiful → most beautiful."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Papan peraturan taman bertuliskan: 'You MUST wear a helmet when cycling.' Kata 'must' dalam kalimat ini menunjukkan...",
+    "pilihan": ["Kemampuan (ability)", "Kewajiban (obligation)", "Kemungkinan (possibility)", "Izin (permission)"],
+    "jawaban": 1,
+    "penjelasan": "'Must' digunakan untuk menyatakan kewajiban atau keharusan yang kuat. Contoh lain: 'You must not litter' (dilarang membuang sampah). Untuk kemampuan: 'can', untuk kemungkinan: 'might/may', untuk izin: 'may/can'."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Panduan taman tertulis: 'Please meet at the main fountain ___ 3 o'clock.' Preposisi yang tepat untuk menyatakan waktu jam adalah...",
+    "pilihan": ["in", "on", "at", "by"],
+    "jawaban": 2,
+    "penjelasan": "Preposisi waktu: AT digunakan untuk jam (at 3 o'clock, at noon, at midnight), ON untuk hari/tanggal (on Monday, on 17 August), IN untuk periode lebih lama (in the morning, in January, in 2024)."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Di museum kecil taman ada foto kuno dengan keterangan: 'Children ___ in this park 100 years ago.' Kata kerja yang tepat untuk kalimat lampau ini adalah...",
+    "pilihan": ["play", "plays", "played", "are playing"],
+    "jawaban": 2,
+    "penjelasan": "'100 years ago' menandakan kejadian di masa lampau, sehingga menggunakan Simple Past Tense. 'Play' adalah kata kerja beraturan (regular verb): play → played. Untuk present: play/plays; untuk past: played."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Seorang pengunjung baru di taman bertanya kepada petugas: '___ is your name?' Kata tanya yang tepat untuk menanyakan nama adalah...",
+    "pilihan": ["Where", "When", "What", "Why"],
+    "jawaban": 2,
+    "penjelasan": "Kata tanya (Question words): WHAT = apa/siapa (nama, benda), WHERE = di mana, WHEN = kapan, WHY = mengapa, WHO = siapa (orang), HOW = bagaimana. Menanyakan nama menggunakan 'What': 'What is your name?'"
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Buku panduan taman menyebutkan: 'The park has ___ colorful flowers.' Kata dalam kalimat tersebut yang berfungsi sebagai adjective (kata sifat) adalah...",
+    "pilihan": ["park", "has", "colorful", "flowers"],
+    "jawaban": 2,
+    "penjelasan": "Adjective (kata sifat) adalah kata yang menerangkan kata benda (noun). 'Colorful' menerangkan 'flowers' (bunga yang berwarna-warni). Ciri adjective: biasanya diletakkan sebelum noun atau setelah linking verb (is/are/was)."
+  },
+  {
+    "mapel": "B. Inggris",
+    "soal": "Di taman ada percakapan singkat:\n'___ you help me find the map, please?'\n'Of course! The map is near the entrance.'\nKata yang tepat untuk melengkapi kalimat pertanyaan tersebut adalah...",
+    "pilihan": ["Do", "Are", "Can", "Is"],
+    "jawaban": 2,
+    "penjelasan": "'Can you help me...?' adalah cara meminta bantuan (request) yang umum dan sopan dalam bahasa Inggris. 'Can' di sini berfungsi sebagai modal verb untuk meminta sesuatu. Jawaban: 'Yes, I can' atau 'Of course!'"
+  }
+]

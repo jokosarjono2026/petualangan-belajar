@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <title>Petualangan Belajar</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<!-- ── SCREEN: Onboarding (first time) ── -->
+<div id="screen-onboarding" class="screen">
+  <div class="onboarding-wrap">
+    <div class="onboarding-slides" id="onboarding-slides">
+
+      <div class="onboarding-slide active">
+        <div class="onboarding-emoji">🎒</div>
+        <div class="onboarding-title">Petualangan Belajar</div>
+        <div class="onboarding-desc">Jelajahi 4 lokasi seru sambil belajar Matematika, IPA, IPS, dan Bahasa Inggris!</div>
+      </div>
+
+      <div class="onboarding-slide">
+        <div class="onboarding-emoji">🗺️</div>
+        <div class="onboarding-title">Jelajahi Lokasi</div>
+        <div class="onboarding-desc">Mulai dari Sekolah. Kumpulkan bintang untuk membuka Kebun, Rumah, dan Taman!</div>
+      </div>
+
+      <div class="onboarding-slide">
+        <div class="onboarding-emoji">⭐</div>
+        <div class="onboarding-title">Kumpulkan XP & Bintang</div>
+        <div class="onboarding-desc">Jawab soal dengan benar, raih 3 bintang per level, dan tingkatkan skormu!</div>
+      </div>
+
+    </div>
+
+    <div class="onboarding-dots" id="onboarding-dots">
+      <span class="dot active"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+    </div>
+
+    <div class="onboarding-nav">
+      <button class="btn-onboard-skip" onclick="finishOnboarding()">Lewati</button>
+      <button class="btn-onboard-next" id="btn-onboard-next" onclick="nextOnboardingSlide()">Lanjut →</button>
+    </div>
+  </div>
+</div>
+
+<!-- ── SCREEN: Pilih Profil ── -->
+<div id="screen-profiles" class="screen active">
+  <div class="screen-header">
+    <div class="game-title">🎒 Petualangan Belajar</div>
+    <div class="game-subtitle">Pilih pemain</div>
+  </div>
+  <div class="profile-grid" id="profile-grid"></div>
+</div>
+
+<!-- ── SCREEN: Buat Profil Baru ── -->
+<div id="screen-create" class="screen">
+  <div class="screen-header">
+    <button class="btn-back" onclick="showScreen('profiles')">← Kembali</button>
+    <div class="game-title">Pemain Baru</div>
+  </div>
+  <div class="create-form">
+    <div class="avatar-label">Pilih avatar</div>
+    <div class="avatar-grid" id="avatar-grid"></div>
+    <div class="selected-avatar" id="selected-avatar">🧑</div>
+    <input type="text" id="input-name" class="name-input"
+      placeholder="Nama kamu..." maxlength="12" autocomplete="off" />
+    <button class="btn-primary" onclick="createProfile()">Mulai Petualangan! 🚀</button>
+    <div class="error-msg" id="error-msg"></div>
+  </div>
+</div>
+
+<!-- ── SCREEN: Konfirmasi Hapus ── -->
+<div id="screen-delete" class="screen">
+  <div class="delete-confirm">
+    <div class="delete-icon" id="delete-avatar">🧑</div>
+    <div class="delete-title">Hapus profil <span id="delete-name"></span>?</div>
+    <div class="delete-warning">Semua progress akan hilang permanen.</div>
+    <div class="delete-buttons">
+      <button class="btn-cancel" onclick="showScreen('profiles')">Batal</button>
+      <button class="btn-danger" onclick="confirmDelete()">Hapus</button>
+    </div>
+  </div>
+</div>
+
+<!-- ── SCREEN: Peta Dunia ── -->
+<div id="screen-map" class="screen">
+  <!-- Header -->
+  <div class="map-topbar">
+    <div class="map-player">
+      <span id="map-avatar">🧑</span>
+      <span id="map-name">Pemain</span>
+    </div>
+    <div class="map-xp-badge">⭐ <span id="map-xp">0</span> XP</div>
+    <button class="btn-switch" onclick="showScreen('profiles')">Ganti</button>
+  </div>
+
+  <div class="map-title">🗺️ Peta Petualangan</div>
+
+  <!-- Lokasi cards -->
+  <div class="map-locations" id="map-locations"></div>
+</div>
+
+<!-- ── SCREEN: Pilih Level ── -->
+<div id="screen-levels" class="screen">
+  <div class="levels-topbar">
+    <button class="btn-back" onclick="showScreen('map')">← Peta</button>
+    <div class="levels-location-name" id="levels-location-name">Sekolah</div>
+    <div class="levels-subjects" id="levels-subjects"></div>
+  </div>
+  <div class="levels-list" id="levels-list"></div>
+</div>
+
+<!-- ── SCREEN: Quiz ── -->
+<div id="screen-quiz" class="screen">
+  <!-- Header -->
+  <div class="quiz-header">
+    <button class="btn-quit" onclick="confirmQuit()">✕</button>
+    <div class="quiz-progress-wrap">
+      <div class="quiz-progress-bar" id="quiz-progress-bar"></div>
+    </div>
+    <div class="quiz-progress-text" id="quiz-progress-text">1 / 10</div>
+    <div class="quiz-score" id="quiz-score">✅ 0</div>
+  </div>
+
+  <!-- Mapel badge -->
+  <div class="quiz-mapel" id="quiz-mapel">Matematika</div>
+
+  <!-- Soal -->
+  <div class="quiz-question-card">
+    <div class="quiz-question" id="quiz-question">Soal...</div>
+  </div>
+
+  <!-- Pilihan -->
+  <div class="quiz-options" id="quiz-options"></div>
+
+  <!-- Feedback -->
+  <div class="quiz-feedback hidden" id="quiz-feedback"></div>
+
+  <!-- Tombol lanjut -->
+  <button class="btn-next hidden" id="btn-next" onclick="nextSoal()">Lanjut →</button>
+</div>
+
+<!-- ── SCREEN: Hasil ── -->
+<div id="screen-result" class="screen">
+  <div class="result-wrap">
+    <div class="result-stars" id="result-stars">☆☆☆</div>
+    <div class="result-score" id="result-score">0 / 10 benar</div>
+    <div class="result-xp"   id="result-xp"></div>
+    <div class="result-msg"  id="result-msg"></div>
+    <div class="result-buttons">
+      <button class="btn-retry" onclick="startLevel(quizState.lokasi, quizState.level)">🔄 Ulangi</button>
+      <button class="btn-result-next" id="btn-result-next" onclick="showScreen('map')">← Peta</button>
+    </div>
+    <button class="btn-map" onclick="showScreen('map')">← Kembali ke Peta</button>
+  </div>
+</div>
+
+<script src="profiles.js"></script>
+<script src="map.js"></script>
+<script src="quiz.js"></script>
+</body>
+</html>

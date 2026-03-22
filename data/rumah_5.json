@@ -1,0 +1,87 @@
+[
+  {
+    "mapel": "IPS",
+    "soal": "GRAND FINAL RUMAH! Keluarga berdiskusi tentang Perang Dunia II. Jepang masuk ke Indonesia pada tahun...",
+    "pilihan": ["1939", "1942", "1945", "1949"],
+    "jawaban": 1,
+    "penjelasan": "Jepang masuk ke Indonesia (saat itu Hindia Belanda) pada Maret 1942, mengalahkan Belanda. Pendudukan Jepang berlangsung hingga 1945. Pada 17 Agustus 1945, sehari setelah Jepang menyerah kepada Sekutu, Indonesia memproklamasikan kemerdekaannya."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Di rumah ada gambar peta dengan skala batang. Skala 1:1.000.000 sering disebut skala...",
+    "pilihan": ["Skala besar", "Skala sedang", "Skala kecil", "Skala mikro"],
+    "jawaban": 2,
+    "penjelasan": "Skala kecil = perbandingan kecil (1:500.000 ke atas), digunakan untuk peta benua, dunia, atau negara. Skala besar = perbandingan besar (1:100 - 1:10.000), untuk peta kota atau gedung — lebih detail. Skala sedang = 1:10.000 - 1:500.000."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Ibu membaca artikel tentang masalah sosial. Kesenjangan sosial di Indonesia yang besar ditunjukkan oleh indeks...",
+    "pilihan": ["Indeks Pembangunan Manusia (IPM)", "Indeks Gini (Gini Ratio)", "Indeks Harga Konsumen (IHK)", "Indeks Dow Jones"],
+    "jawaban": 1,
+    "penjelasan": "Indeks Gini (Gini Ratio) mengukur kesenjangan distribusi pendapatan. Nilai 0 = sempurna merata, nilai 1 = tidak merata sempurna. Indonesia sekitar 0,38 (moderat). IPM mengukur kualitas hidup (kesehatan, pendidikan, ekonomi). IHK mengukur inflasi."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Keluarga berdiskusi tentang sistem pemerintahan. Indonesia menganut sistem pemerintahan...",
+    "pilihan": ["Monarki konstitusional", "Presidensial", "Parlementer", "Oligarki"],
+    "jawaban": 1,
+    "penjelasan": "Indonesia menganut sistem presidensial: presiden adalah kepala negara sekaligus kepala pemerintahan, dipilih langsung oleh rakyat, masa jabatan tetap 5 tahun. Parlementer (Inggris, Jepang): PM bertanggung jawab ke parlemen. Monarki: raja/ratu sebagai kepala negara."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Ayah menjelaskan tentang perdagangan internasional. Kebijakan pemerintah yang membatasi jumlah barang impor tertentu disebut...",
+    "pilihan": ["Tarif", "Kuota", "Embargo", "Dumping"],
+    "jawaban": 1,
+    "penjelasan": "Kuota = pembatasan jumlah/volume barang impor. Tarif = pajak impor. Embargo = larangan perdagangan total dengan negara tertentu. Dumping = menjual barang ekspor dengan harga lebih murah dari harga di dalam negeri sendiri (praktik tidak fair). Ketiganya adalah instrumen kebijakan perdagangan."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Di rumah ada diskusi tentang pembangunan berkelanjutan. Prinsip pembangunan berkelanjutan adalah...",
+    "pilihan": [
+      "Mengeksploitasi sumber daya alam sebanyak-banyaknya demi generasi kini",
+      "Memenuhi kebutuhan generasi sekarang tanpa mengorbankan kemampuan generasi mendatang",
+      "Mengutamakan pertumbuhan ekonomi tanpa mempertimbangkan lingkungan",
+      "Menghentikan semua pembangunan demi kelestarian alam"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Pembangunan berkelanjutan (sustainable development) memenuhi kebutuhan masa kini tanpa mengorbankan kemampuan generasi mendatang. Tiga pilar: ekonomi (pertumbuhan), sosial (kesejahteraan), dan lingkungan (kelestarian). Konsep ini dirumuskan dalam Laporan Brundtland (1987)."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Nenek menceritakan perjuangan kemerdekaan. Tokoh yang memimpin perlawanan gerilya melawan Belanda dari hutan Jawa setelah Agresi Militer Belanda adalah...",
+    "pilihan": ["Ir. Soekarno", "Mohammad Hatta", "Jenderal Soedirman", "Bung Tomo"],
+    "jawaban": 2,
+    "penjelasan": "Jenderal Soedirman memimpin perang gerilya melawan Belanda meski sakit paru-paru parah (harus ditandu). Ia menolak menyerah dan tetap berjuang di pedalaman Jawa (1948-1949). Bung Tomo terkenal dalam Pertempuran Surabaya. Soekarno-Hatta lebih ke jalur diplomasi."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Ibu menjelaskan tentang lembaga sosial. Lembaga sosial yang bertugas mengatur pewarisan nilai, norma, dan pengetahuan dari generasi ke generasi adalah...",
+    "pilihan": ["Lembaga ekonomi", "Lembaga pendidikan", "Lembaga agama", "Lembaga politik"],
+    "jawaban": 1,
+    "penjelasan": "Lembaga pendidikan (keluarga, sekolah, pesantren) berfungsi sebagai agen sosialisasi yang mewariskan nilai, norma, pengetahuan, dan keterampilan. Lembaga ekonomi mengatur pemenuhan kebutuhan. Agama mengatur hubungan manusia dengan Tuhan. Politik mengatur kekuasaan."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Keluarga berdiskusi tentang masa depan Indonesia. Bonus demografi Indonesia diperkirakan terjadi antara tahun 2020-2045. Ini berarti...",
+    "pilihan": [
+      "Jumlah lansia lebih banyak dari penduduk muda",
+      "Penduduk usia produktif (15-64 tahun) lebih banyak dari non-produktif",
+      "Angka kelahiran sangat tinggi",
+      "Jumlah penduduk Indonesia mencapai 1 miliar"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Bonus demografi = kondisi di mana penduduk usia produktif (15-64 tahun) lebih besar dari usia tidak produktif (anak-anak + lansia). Rasio ketergantungan rendah. Jika SDM berkualitas, ini bisa menjadi peluang emas pembangunan (seperti yang dialami Jepang dan Korea Selatan)."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "FINAL RUMAH! Indonesia memiliki bentuk negara kesatuan. Hal ini berarti...",
+    "pilihan": [
+      "Setiap daerah memiliki undang-undang sendiri yang berbeda",
+      "Kekuasaan tertinggi ada di pemerintah pusat, daerah sebagai bagian yang tidak terpisahkan",
+      "Indonesia terdiri dari negara-negara bagian yang bergabung",
+      "Setiap pulau adalah negara merdeka yang berserikat"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Negara Kesatuan Republik Indonesia (NKRI): kedaulatan ada di pemerintah pusat, daerah adalah bagian tak terpisahkan. Berbeda dengan negara federal (AS, Jerman, Malaysia) di mana negara bagian memiliki konstitusi sendiri. UUD 1945 Pasal 1: 'Negara Indonesia ialah Negara Kesatuan yang berbentuk Republik.'"
+  }
+]

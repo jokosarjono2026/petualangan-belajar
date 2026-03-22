@@ -1,0 +1,72 @@
+[
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun petualangan, daun-daun tampak hijau segar di bawah sinar matahari. Proses apa yang membuat tanaman menghasilkan makanan dari sinar matahari dan CO₂?",
+    "pilihan": ["Respirasi", "Fotosintesis", "Transpirasi", "Fermentasi"],
+    "jawaban": 1,
+    "penjelasan": "Fotosintesis adalah proses tanaman mengubah CO₂ + H₂O + cahaya matahari menjadi glukosa (makanan) dan O₂. Klorofil di daun yang menyebabkan warna hijau sekaligus menyerap cahaya."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Adi menemukan rantai makanan di kebun: rumput → belalang → katak → ular. Jika semua belalang tiba-tiba habis, apa yang terjadi pada populasi katak?",
+    "pilihan": ["Bertambah pesat", "Berkurang karena kehilangan makanan", "Tetap sama", "Pindah ke kebun lain"],
+    "jawaban": 1,
+    "penjelasan": "Katak bergantung pada belalang sebagai sumber makanan. Jika belalang habis, katak kekurangan pakan sehingga populasinya berkurang. Ini menunjukkan ketergantungan antar organisme dalam rantai makanan."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Kak Nisa melihat cacing tanah di kebun sedang menguraikan daun-daun mati menjadi humus. Dalam ekosistem, cacing tanah berperan sebagai...",
+    "pilihan": ["Produsen", "Konsumen primer", "Dekomposer", "Predator"],
+    "jawaban": 2,
+    "penjelasan": "Dekomposer (pengurai) adalah organisme yang menguraikan sisa-sisa makhluk hidup mati menjadi zat-zat anorganik yang bisa diserap tanaman. Cacing tanah, bakteri, dan jamur termasuk dekomposer."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Budi ingin memperbanyak tanaman mint di kebunnya. Ia memotong bagian batang dan menancapkannya ke tanah agar tumbuh akar baru. Cara perkembangbiakan ini disebut...",
+    "pilihan": ["Setek", "Okulasi", "Cangkok", "Penyerbukan silang"],
+    "jawaban": 0,
+    "penjelasan": "Setek adalah perkembangbiakan vegetatif buatan dengan cara memotong bagian tanaman (batang, daun, atau akar) dan menancapkannya ke media tanam. Berbeda dengan cangkok yang batangnya tidak diputus dahulu."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun, lebah terbang dari bunga ke bunga sambil mengambil nektar dan membawa serbuk sari. Kedua pihak saling diuntungkan. Hubungan ini termasuk simbiosis...",
+    "pilihan": ["Parasitisme", "Amensalisme", "Mutualisme", "Komensalisme"],
+    "jawaban": 2,
+    "penjelasan": "Mutualisme = hubungan di mana kedua pihak diuntungkan. Lebah mendapat nektar (makanan), bunga terbantu penyerbukannya. Berbeda: parasitisme (satu untung, satu rugi), komensalisme (satu untung, satu tidak rugi/untung)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Sinta mengamati sel daun dengan mikroskop di sudut kebun. Organel apa yang HANYA ditemukan pada sel tumbuhan, tidak ada di sel hewan?",
+    "pilihan": ["Mitokondria", "Nukleus", "Dinding sel", "Ribosom"],
+    "jawaban": 2,
+    "penjelasan": "Sel tumbuhan memiliki dinding sel (dari selulosa) yang memberi bentuk kaku, vakuola besar, dan kloroplas. Sel hewan tidak punya ketiganya. Mitokondria, nukleus, dan ribosom dimiliki keduanya."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Pohon jati di kebun petualangan menggugurkan semua daunnya saat musim kemarau. Tujuan adaptasi ini adalah...",
+    "pilihan": ["Menarik serangga penyerbuk", "Mengurangi penguapan air", "Mempercepat pertumbuhan", "Menyerap lebih banyak cahaya"],
+    "jawaban": 1,
+    "penjelasan": "Menggugurkan daun saat kemarau adalah adaptasi untuk mengurangi transpirasi (penguapan air melalui daun). Ini mencegah tanaman kekurangan air saat musim kering. Pohon jati termasuk tumbuhan yang disebut meranggas."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Air hujan yang diserap akar tanaman di kebun naik sampai ke daun melalui jaringan pengangkut. Jaringan yang mengangkut air dan mineral dari akar ke daun disebut...",
+    "pilihan": ["Floem", "Epidermis", "Xilem", "Kambium"],
+    "jawaban": 2,
+    "penjelasan": "Xilem mengangkut air dan mineral dari akar ke seluruh bagian tumbuhan (satu arah: bawah ke atas). Floem mengangkut hasil fotosintesis (gula) dari daun ke seluruh tubuh. Keduanya adalah jaringan pembuluh."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di sudut kebun ada kolam kecil berisi ganggang hijau, ikan-ikan kecil, dan katak. Air, tanah, dan udara juga ada. Kesatuan semua makhluk hidup dan lingkungan tak hidupnya ini disebut...",
+    "pilihan": ["Komunitas", "Ekosistem", "Populasi", "Biosfer"],
+    "jawaban": 1,
+    "penjelasan": "Ekosistem = makhluk hidup (biotik) + lingkungan tak hidup (abiotik) yang saling berinteraksi. Populasi = satu jenis makhluk di satu tempat. Komunitas = semua makhluk hidup di satu tempat. Biosfer = seluruh ekosistem di Bumi."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun, anggrek menempel di batang pohon besar untuk mendapat cahaya dan tempat tumbuh. Pohon tidak dirugikan maupun diuntungkan. Hubungan anggrek dan pohon ini disebut...",
+    "pilihan": ["Mutualisme", "Parasitisme", "Komensalisme", "Predasi"],
+    "jawaban": 2,
+    "penjelasan": "Komensalisme = satu pihak diuntungkan (anggrek mendapat tempat & cahaya), pihak lain tidak rugi dan tidak untung (pohon tidak terpengaruh). Berbeda dengan parasitisme di mana inang dirugikan."
+  }
+]

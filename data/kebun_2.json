@@ -1,0 +1,82 @@
+[
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun petualangan level 2, kamu menemukan tanaman dengan bunga berwarna-warni. Bagian bunga yang menghasilkan serbuk sari disebut...",
+    "pilihan": ["Putik", "Benang sari", "Kelopak", "Mahkota"],
+    "jawaban": 1,
+    "penjelasan": "Benang sari adalah alat kelamin jantan pada bunga yang menghasilkan serbuk sari (pollen). Putik adalah alat kelamin betina (tempat biji berkembang). Kelopak dan mahkota adalah bagian pelindung dan penarik penyerbuk."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Saat menggali tanah di kebun, kamu menemukan lapisan tanah berwarna gelap yang gembur. Lapisan ini kaya humus dan cocok untuk tanaman. Lapisan tanah ini disebut...",
+    "pilihan": ["Tanah laterit", "Topsoil (tanah atas)", "Subsoil", "Batuan dasar"],
+    "jawaban": 1,
+    "penjelasan": "Topsoil (lapisan tanah atas/horizon A) adalah lapisan paling subur karena kaya bahan organik dan humus hasil penguraian. Subsoil (horizon B) lebih keras dan miskin humus. Tanaman menyerap nutrisi terutama dari topsoil."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di sudut kebun ada sarang semut. Semut-semut mengambil makanan dari sisa tanaman dan membawanya ke koloni. Pernyataan yang benar tentang semut dalam ekosistem kebun adalah...",
+    "pilihan": [
+      "Semut adalah produsen karena membuat makanan",
+      "Semut adalah konsumen karena memakan organisme lain",
+      "Semut adalah dekomposer karena mengurai sisa organik",
+      "Semut tidak berperan dalam ekosistem"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Semut adalah konsumen (heterotrof) karena tidak bisa membuat makanan sendiri. Ia memakan sisa tanaman, biji, dan serangga lain. Produsen = tanaman (membuat makanan via fotosintesis). Dekomposer = bakteri dan jamur (mengurai sisa menjadi zat anorganik)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Kamu menemukan tanaman yang batangnya menyimpan banyak air dan berduri — cocok hidup di tempat kering. Ini contoh adaptasi...",
+    "pilihan": ["Mimikri", "Morfologi", "Autotomi", "Hibernasi"],
+    "jawaban": 1,
+    "penjelasan": "Adaptasi morfologi = penyesuaian bentuk/struktur tubuh. Batang menyimpan air dan duri pada kaktus adalah adaptasi morfologi untuk bertahan di lingkungan kering. Mimikri = menyamar, Autotomi = memutuskan bagian tubuh (cicak), Hibernasi = tidur musim dingin."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun terdapat berbagai serangga. Kamu mengamati kupu-kupu mengalami metamorfosis sempurna. Urutan yang benar adalah...",
+    "pilihan": [
+      "Telur → Nimfa → Dewasa",
+      "Telur → Larva → Pupa → Dewasa",
+      "Telur → Larva → Dewasa",
+      "Nimfa → Larva → Pupa → Dewasa"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Metamorfosis sempurna (holometabola): Telur → Larva (ulat) → Pupa (kepompong) → Imago (kupu-kupu dewasa). Ada 4 fase. Metamorfosis tidak sempurna (belalang, jangkrik): Telur → Nimfa → Dewasa (hanya 3 fase, tanpa pupa)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Petani kebun menggunakan pupuk kompos dari sisa sayuran. Pupuk kompos mengandung banyak...",
+    "pilihan": ["Nitrogen, fosfor, kalium (NPK)", "Silika dan besi", "Karbon dioksida dan air", "Pestisida alami"],
+    "jawaban": 0,
+    "penjelasan": "Pupuk mengandung unsur hara makro NPK: Nitrogen (N) untuk pertumbuhan daun, Fosfor (P) untuk akar dan bunga, Kalium (K) untuk batang dan buah. Kompos dari bahan organik mengandung NPK secara alami dan memperbaiki struktur tanah."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada pohon pisang yang menghasilkan tunas baru di samping pohon induk. Cara perkembangbiakan ini disebut...",
+    "pilihan": ["Rhizoma", "Stolon", "Tunas", "Spora"],
+    "jawaban": 2,
+    "penjelasan": "Pisang berkembang biak secara vegetatif alami melalui tunas (anakan) yang tumbuh dari pangkal batang. Rhizoma = batang bawah tanah (jahe, kunyit). Stolon = batang menjalar di atas tanah (strawberry). Spora = pada paku-pakuan dan lumut."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Kamu mengamati kolam kecil di kebun. Air yang jernih tiba-tiba berubah hijau karena banyak ganggang. Fenomena ini disebut...",
+    "pilihan": ["Eutrofikasi", "Sedimentasi", "Erosi", "Polusi udara"],
+    "jawaban": 0,
+    "penjelasan": "Eutrofikasi adalah pertumbuhan alga berlebihan akibat kelebihan nutrisi (terutama nitrogen dan fosfor dari pupuk/limbah). Alga yang mati menghabiskan oksigen dalam air, menyebabkan ikan mati. Ini adalah bentuk pencemaran air."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Penjaga kebun menjelaskan bahwa tanaman venus flytrap dapat menjebak dan memakan serangga. Tanaman ini disebut tanaman...",
+    "pilihan": ["Tanaman epifit", "Tanaman parasit", "Tanaman karnivora", "Tanaman saprofit"],
+    "jawaban": 2,
+    "penjelasan": "Tanaman karnivora (insektivora) adalah tanaman yang mendapat nutrisi (terutama nitrogen) dari serangga yang ditangkapnya. Ini terjadi karena tanah tempatnya tumbuh miskin nitrogen. Contoh: venus flytrap, kantong semar, sundew."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun penelitian, kamu belajar tentang jaringan tumbuhan. Jaringan yang berfungsi sebagai pelindung permukaan luar daun dan batang adalah...",
+    "pilihan": ["Jaringan meristem", "Jaringan epidermis", "Jaringan parenkim", "Jaringan sklerenkim"],
+    "jawaban": 1,
+    "penjelasan": "Jaringan epidermis melapisi permukaan luar tumbuhan sebagai pelindung dari kehilangan air, kerusakan mekanis, dan masuknya patogen. Meristem = jaringan pertumbuhan. Parenkim = jaringan dasar (penyimpan makanan). Sklerenkim = jaringan penguat (serat)."
+  }
+]

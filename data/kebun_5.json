@@ -1,0 +1,82 @@
+[
+  {
+    "mapel": "IPA",
+    "soal": "KEBUN GRAND FINAL! Sebuah benda bermassa 2 kg dijatuhkan dari ketinggian 5 m. Berapa energi potensialnya? (g = 10 m/s²)",
+    "pilihan": ["10 J", "50 J", "100 J", "200 J"],
+    "jawaban": 2,
+    "penjelasan": "Energi Potensial (Ep) = massa × gravitasi × tinggi = m × g × h = 2 × 10 × 5 = 100 J (Joule). Saat benda jatuh, Ep berubah menjadi Ek (Energi Kinetik). Total energi mekanik tetap (Ep + Ek = konstan) — Hukum Kekekalan Energi Mekanik."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Kebun level terakhir: kamu belajar tentang atom. Inti atom (nukleus) terdiri dari...",
+    "pilihan": ["Proton dan elektron", "Neutron dan elektron", "Proton dan neutron", "Proton, neutron, dan elektron"],
+    "jawaban": 2,
+    "penjelasan": "Inti atom (nukleus) terdiri dari proton (bermuatan +) dan neutron (tidak bermuatan). Elektron (bermuatan -) berada di luar inti pada orbit/kulit elektron. Nomor atom = jumlah proton. Nomor massa = proton + neutron."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Peneliti kebun menemukan zat X yang membuat kertas lakmus biru berubah menjadi merah. Zat X bersifat...",
+    "pilihan": ["Basa kuat", "Basa lemah", "Asam", "Netral"],
+    "jawaban": 2,
+    "penjelasan": "Lakmus biru berubah merah = asam. Lakmus merah berubah biru = basa. Cara mudah ingat: BIRU jadi merah = Asam (B-A, B=biru, A=asam). Contoh asam: cuka (asam asetat), jeruk (asam sitrat). Contoh basa: sabun, kapur sirih."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada panel surya untuk mengairi tanaman. Panel surya mengubah energi...",
+    "pilihan": ["Angin → listrik", "Cahaya matahari → listrik", "Panas → gerak", "Kimia → listrik"],
+    "jawaban": 1,
+    "penjelasan": "Panel surya (sel fotovoltaik) mengubah energi cahaya matahari langsung menjadi energi listrik melalui efek fotoelektrik. Ini berbeda dengan kolektor surya termal (panas → air panas). Sumber energi terbarukan: matahari, angin, air, panas bumi."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Kebun final! Pemuaian rel kereta api saat panas dapat menyebabkan kecelakaan. Untuk mencegahnya, rel dibuat dengan...",
+    "pilihan": [
+      "Sambungan rapat tanpa celah",
+      "Celah kecil di setiap sambungan",
+      "Material yang tidak bisa memuai",
+      "Dilapisi air agar tetap dingin"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Semua benda padat memuai (membesar) saat dipanaskan. Rel kereta diberi celah pada sambungan agar ada ruang untuk pemuaian panas. Tanpa celah, rel akan membengkok saat suhu naik. Prinsip pemuaian juga digunakan pada termometer dan termokupler."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Peneliti kebun mengamati pelangi setelah hujan. Pelangi terbentuk karena cahaya putih matahari mengalami...",
+    "pilihan": ["Pemantulan total", "Dispersi (penguraian cahaya)", "Difraksi", "Interferensi"],
+    "jawaban": 1,
+    "penjelasan": "Dispersi adalah penguraian cahaya putih menjadi spektrum warna (merah, jingga, kuning, hijau, biru, nila, ungu — MEJIKUHIBINIU) saat melewati prisma atau tetes hujan. Setiap warna memiliki frekuensi berbeda sehingga dibiaskan dengan sudut berbeda."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada generator kecil yang diputar kincir air. Generator mengubah energi...",
+    "pilihan": ["Listrik → gerak", "Kimia → panas", "Gerak (mekanik) → listrik", "Cahaya → listrik"],
+    "jawaban": 2,
+    "penjelasan": "Generator mengubah energi mekanik (gerak putaran) menjadi energi listrik berdasarkan prinsip induksi elektromagnetik (penemuan Michael Faraday). Motor listrik bekerja sebaliknya: listrik → gerak mekanik."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Penjaga kebun menjelaskan tentang perubahan iklim global. Gas utama yang menyebabkan efek rumah kaca dan pemanasan global adalah...",
+    "pilihan": ["Gas oksigen (O₂)", "Gas nitrogen (N₂)", "Gas karbon dioksida (CO₂)", "Gas mulia (Ar, He)"],
+    "jawaban": 2,
+    "penjelasan": "CO₂ adalah gas rumah kaca utama yang memerangkap panas di atmosfer. Sumbernya: pembakaran bahan bakar fosil, deforestasi. Gas rumah kaca lain: metana (CH₄), nitrous oxide (N₂O). Efek: suhu bumi naik, es kutub mencair, naiknya permukaan laut."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Final kebun: sel hewan dan sel tumbuhan keduanya memiliki mitokondria. Fungsi mitokondria adalah...",
+    "pilihan": [
+      "Tempat fotosintesis berlangsung",
+      "Pusat kendali sel (menyimpan DNA)",
+      "Menghasilkan energi (ATP) melalui respirasi seluler",
+      "Membuat protein untuk sel"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Mitokondria adalah 'pembangkit energi' sel — menghasilkan ATP melalui respirasi aerob (oksidasi glukosa + oksigen → CO₂ + air + ATP). Kloroplas untuk fotosintesis. Nukleus untuk kendali sel (DNA). Ribosom untuk sintesis protein."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "GRAND FINAL KEBUN! Spesies langka dapat punah karena habitatnya rusak. Upaya pelestarian yang dilakukan DI HABITAT ASLINYA disebut...",
+    "pilihan": ["Pelestarian ex-situ", "Pelestarian in-situ", "Domestikasi", "Kloning"],
+    "jawaban": 1,
+    "penjelasan": "In-situ = pelestarian di habitat asli (taman nasional, suaka margasatwa, cagar alam). Ex-situ = pelestarian di luar habitat asli (kebun binatang, kebun raya, bank benih). In-situ lebih ideal karena hewan tetap di lingkungan alaminya."
+  }
+]

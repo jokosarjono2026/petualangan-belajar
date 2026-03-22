@@ -1,0 +1,82 @@
+[
+  {
+    "mapel": "IPS",
+    "soal": "Ibu sedang menonton berita tentang bencana gempa di Jepang. Secara astronomis, Indonesia terletak di antara garis lintang...",
+    "pilihan": ["6°LU - 11°LS", "23°LU - 23°LS", "0° - 11°LS", "6°LU - 11°LU"],
+    "jawaban": 0,
+    "penjelasan": "Indonesia terletak antara 6°LU (Pulau Weh, Aceh) - 11°LS (Pulau Rote, NTT) dan 95°BT - 141°BT. Posisi ini menyebabkan Indonesia beriklim tropis (sepanjang tahun panas dan lembab, 2 musim)."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Kakak membaca buku sejarah di rumah tentang masa penjajahan. Belanda menjajah Indonesia selama kurang lebih...",
+    "pilihan": ["100 tahun", "200 tahun", "350 tahun", "500 tahun"],
+    "jawaban": 2,
+    "penjelasan": "Belanda secara efektif menjajah Indonesia sekitar 350 tahun (abad ke-17 hingga 1945), meski ada beberapa periode interupsi (penjajahan Inggris singkat 1811-1816 di bawah Raffles). Sebelumnya, VOC (1602) sudah mulai menguasai perdagangan Nusantara."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Nenek menceritakan tentang Sumpah Pemuda. Ikrar Sumpah Pemuda diucapkan pada tanggal...",
+    "pilihan": ["20 Mei 1908", "28 Oktober 1928", "17 Agustus 1945", "1 Juni 1945"],
+    "jawaban": 1,
+    "penjelasan": "Sumpah Pemuda diikrarkan pada Kongres Pemuda II tanggal 28 Oktober 1928. Isinya: (1) Kami putra-putri Indonesia mengaku bertumpah darah yang satu, Tanah Indonesia; (2) berbangsa yang satu, Bangsa Indonesia; (3) menjunjung bahasa persatuan, Bahasa Indonesia."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Ayah menjelaskan tentang kegiatan ekonomi. Kegiatan produksi, distribusi, dan konsumsi adalah tiga kegiatan ekonomi utama. Yang dimaksud distribusi adalah...",
+    "pilihan": [
+      "Membuat atau menghasilkan barang/jasa",
+      "Menyalurkan barang/jasa dari produsen ke konsumen",
+      "Menggunakan atau menghabiskan barang/jasa",
+      "Menyimpan barang di gudang"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Distribusi = menyalurkan barang/jasa dari produsen ke konsumen. Contoh: toko, pedagang grosir, ekspedisi. Produksi = membuat barang (pabrik, petani). Konsumsi = menggunakan/menghabiskan barang (kita membeli dan memakai)."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Di rumah ada kalender dengan tanggal 28 Oktober. Hari apa yang diperingati pada tanggal tersebut?",
+    "pilihan": ["Hari Pahlawan", "Hari Sumpah Pemuda", "Hari Pendidikan Nasional", "Hari Kebangkitan Nasional"],
+    "jawaban": 1,
+    "penjelasan": "Hari Sumpah Pemuda = 28 Oktober. Hari Pahlawan = 10 November (pertempuran Surabaya 1945). Hari Pendidikan Nasional = 2 Mei (HUT Ki Hajar Dewantara). Hari Kebangkitan Nasional = 20 Mei (HUT Budi Utomo 1908)."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Ibu mengajak belanja ke pasar tradisional dan menjelaskan perbedaannya dengan supermarket. Pasar berdasarkan bentuknya dibedakan menjadi pasar...",
+    "pilihan": ["Lokal dan nasional", "Konkret (nyata) dan abstrak", "Harian dan mingguan", "Tradisional dan modern"],
+    "jawaban": 1,
+    "penjelasan": "Pasar konkret = tempat nyata di mana penjual dan pembeli bertemu langsung (pasar tradisional, supermarket, mal). Pasar abstrak = transaksi tanpa pertemuan langsung (pasar saham, pasar valuta asing, e-commerce). Keduanya adalah jenis pasar berdasarkan wujudnya."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Ayah menjelaskan tentang Pancasila sebagai dasar negara. Pancasila disahkan sebagai dasar negara pada tanggal...",
+    "pilihan": ["1 Juni 1945", "17 Agustus 1945", "18 Agustus 1945", "22 Juni 1945"],
+    "jawaban": 2,
+    "penjelasan": "Pancasila disahkan sebagai dasar negara bersamaan dengan pengesahan UUD 1945 pada 18 Agustus 1945 oleh PPKI. Tanggal 1 Juni diperingati sebagai Hari Lahir Pancasila (saat Soekarno berpidato tentang Pancasila di BPUPKI). Proklamasi 17 Agustus 1945."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Keluarga di rumah mengamati globe. Garis yang membagi bumi menjadi belahan utara dan selatan disebut...",
+    "pilihan": ["Garis bujur", "Garis lintang khatulistiwa (ekuator)", "Meridian utama", "Garis balik"],
+    "jawaban": 1,
+    "penjelasan": "Garis khatulistiwa (ekuator) adalah garis lintang 0° yang membagi bumi menjadi belahan utara (LU) dan selatan (LS). Meridian utama (garis bujur 0°) membagi bumi menjadi belahan timur (BT) dan barat (BB), melewati kota Greenwich, Inggris."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Ibu membeli barang dari China melalui aplikasi belanja online. Kegiatan ini termasuk...",
+    "pilihan": ["Ekspor", "Impor", "Distribusi", "Konsumsi lokal"],
+    "jawaban": 1,
+    "penjelasan": "Impor = membeli/memasukkan barang dari luar negeri ke dalam negeri. Ekspor = menjual/mengirimkan barang ke luar negeri. Indonesia mengimpor banyak barang elektronik dan tekstil dari China, serta mengekspor kelapa sawit, karet, dan batubara."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Di rumah ada diskusi keluarga tentang pemilu. Asas pemilu Indonesia yang diwakili oleh LUBER JURDIL adalah...",
+    "pilihan": [
+      "Langsung, Umum, Bebas, Rahasia, Jujur, Adil",
+      "Langsung, Utama, Baik, Efektif, Jelas, Aktif, Independen, Loyal",
+      "Lugas, Berani, Rakyat, Jelas, Adil",
+      "Layak, Umum, Bebas, Efektif, Jujur, Demokratis, Independen, Legal"
+    ],
+    "jawaban": 0,
+    "penjelasan": "LUBER JURDIL = Langsung (memilih sendiri), Umum (semua WN 17+ berhak), Bebas (tidak dipaksa), Rahasia (pilihan dirahasiakan), JURjur (jujur), adIL (adil). Ini adalah asas penyelenggaraan pemilihan umum di Indonesia."
+  }
+]

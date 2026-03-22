@@ -1,0 +1,77 @@
+[
+  {
+    "mapel": "Matematika",
+    "soal": "BOSS LEVEL! Persamaan kuadrat x² - 5x + 6 = 0. Nilai-nilai x yang memenuhi adalah...",
+    "pilihan": ["x = 1 dan x = 6", "x = 2 dan x = 3", "x = -2 dan x = -3", "x = -1 dan x = -6"],
+    "jawaban": 1,
+    "penjelasan": "Faktorkan: x² - 5x + 6 = (x-2)(x-3) = 0. Maka x = 2 atau x = 3. Cara cek: cari dua bilangan yang hasil kali = 6 dan jumlah = 5 → 2 dan 3. Substitusi: 2²-5(2)+6 = 4-10+6 = 0 ✓ dan 3²-5(3)+6 = 9-15+6 = 0 ✓."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Tantangan matematika kelas 9! Dua buah lingkaran memiliki jari-jari 5 cm dan 3 cm. Berapa selisih luas keduanya? (π = 3,14)",
+    "pilihan": ["25,12 cm²", "50,24 cm²", "75,36 cm²", "100,48 cm²"],
+    "jawaban": 1,
+    "penjelasan": "Luas lingkaran besar = π × 5² = 3,14 × 25 = 78,5 cm². Luas lingkaran kecil = π × 3² = 3,14 × 9 = 28,26 cm². Selisih = 78,5 - 28,26 = 50,24 cm²."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Lomba menulis cerpen tingkat sekolah! Bagian cerpen yang memperkenalkan tokoh, latar, dan situasi awal disebut...",
+    "pilihan": ["Komplikasi", "Resolusi", "Orientasi", "Koda"],
+    "jawaban": 2,
+    "penjelasan": "Struktur cerpen/teks narasi: (1) Orientasi = perkenalan tokoh, latar waktu/tempat, situasi awal; (2) Komplikasi = munculnya masalah/konflik; (3) Resolusi = penyelesaian masalah; (4) Koda = pesan/nilai moral (opsional)."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Soal paling sulit semester ini: Fungsi f(x) = x² - 2x + 3. Nilai f(0) + f(4) adalah...",
+    "pilihan": ["7", "9", "11", "14"],
+    "jawaban": 3,
+    "penjelasan": "f(0) = 0² - 2(0) + 3 = 3. f(4) = 4² - 2(4) + 3 = 16 - 8 + 3 = 11. f(0) + f(4) = 3 + 11 = 14. Cara kerja fungsi: gantikan x dengan angka yang diberikan, lalu hitung hasilnya mengikuti operasi yang ada."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Dalam ujian akhir Bahasa Indonesia, siswa diminta menganalisis puisi. Irama dalam puisi yang terbentuk dari pengulangan bunyi vokal di akhir baris disebut...",
+    "pilihan": ["Rima", "Ritme", "Diksi", "Imaji"],
+    "jawaban": 0,
+    "penjelasan": "Rima (sajak) adalah persamaan bunyi, terutama di akhir baris puisi. Contoh rima a-b-a-b (silang) atau a-a-b-b (pasang). Ritme = irama/pola tekanan. Diksi = pilihan kata. Imaji = gambaran yang membangkitkan panca indera."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Soal geometri akhir tahun: Sebuah kerucut memiliki jari-jari alas 6 cm dan tinggi 8 cm. Berapa volume kerucut? (π = 3,14)",
+    "pilihan": ["100,48 cm³", "200,96 cm³", "301,44 cm³", "401,92 cm³"],
+    "jawaban": 2,
+    "penjelasan": "Volume kerucut = ⅓ × π × r² × t = ⅓ × 3,14 × 36 × 8 = ⅓ × 3,14 × 288 = ⅓ × 904,32 = 301,44 cm³. Ingat: volume kerucut = ⅓ × volume tabung dengan ukuran yang sama."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Kepala Sekolah meminta siswa menulis teks ulasan (review) buku. Struktur teks ulasan yang benar adalah...",
+    "pilihan": [
+      "Orientasi → Tafsiran → Evaluasi → Rangkuman",
+      "Pendahuluan → Isi → Penutup",
+      "Abstrak → Pendahuluan → Metode → Hasil → Kesimpulan",
+      "Latar belakang → Tujuan → Pembahasan"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Struktur teks ulasan: (1) Orientasi = identitas karya (judul, penulis, dll); (2) Tafsiran = ringkasan isi; (3) Evaluasi = penilaian kelebihan & kekurangan; (4) Rangkuman = kesimpulan dan rekomendasi. Ini berbeda dari laporan atau makalah ilmiah."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Final challenge! Koordinat titik A adalah (2, 5) dan titik B adalah (8, 13). Berapa panjang ruas garis AB?",
+    "pilihan": ["8 satuan", "10 satuan", "12 satuan", "14 satuan"],
+    "jawaban": 1,
+    "penjelasan": "Rumus jarak dua titik: d = √[(x₂-x₁)² + (y₂-y₁)²] = √[(8-2)² + (13-5)²] = √[6² + 8²] = √[36 + 64] = √100 = 10 satuan. Ini lagi-lagi tripel Pythagoras 6-8-10 (kelipatan 3-4-5)."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Ujian akhir tahun! Kata yang dicetak miring dalam kalimat: 'Ia membeli buku di toko buku Gramedia.' Kata 'di' yang pertama berfungsi sebagai...",
+    "pilihan": ["Kata depan (preposisi)", "Kata penghubung (konjungsi)", "Kata kerja (verba)", "Awalan (prefiks)"],
+    "jawaban": 0,
+    "penjelasan": "'Di' dalam 'di toko buku' adalah kata depan (preposisi) yang menunjukkan tempat. Preposisi ditulis TERPISAH dari kata berikutnya. Sedangkan 'di-' sebagai awalan (prefiks) ditulis MENYATU: 'dibeli', 'dimakan'. Ini sering menjadi kesalahan penulisan!"
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "GRAND FINAL! Sekolah membangun kolam ikan berbentuk setengah bola dengan diameter 2 m. Berapa volume air yang bisa diisi? (π = 3,14)",
+    "pilihan": ["2,09 m³", "4,19 m³", "6,28 m³", "12,56 m³"],
+    "jawaban": 0,
+    "penjelasan": "Volume bola penuh = 4/3 × π × r³ = 4/3 × 3,14 × 1³ = 4,19 m³. Volume setengah bola = 4,19 ÷ 2 = 2,09 m³. (r = 1 m karena diameter = 2 m). Rumus wajib hafal: V bola = 4/3 πr³, V setengah bola = 2/3 πr³."
+  }
+]
