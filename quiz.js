@@ -3,13 +3,15 @@
 // ── State Quiz ───────────────────────────────────────────────────────────────
 
 let quizState = {
-  lokasi:    null,
-  level:     null,
-  soalList:  [],
-  current:   0,
-  score:     0,
-  answered:  false,
-  results:   [],   // { benar: bool } per soal
+  lokasi:       null,
+  level:        null,
+  soalList:     [],
+  current:      0,
+  score:        0,
+  answered:     false,
+  results:      [],   // { benar: bool } per soal
+  streak:       0,    // jawaban benar berturut-turut
+  streakBonus:  0,    // XP bonus dari combo
 };
 
 // ── Load & mulai quiz ────────────────────────────────────────────────────────
@@ -24,13 +26,15 @@ async function startLevel(lokasiId, levelNum) {
     const shuffled = soal.sort(() => Math.random() - 0.5);
 
     quizState = {
-      lokasi:   lokasiId,
-      level:    levelNum,
-      soalList: shuffled,
-      current:  0,
-      score:    0,
-      answered: false,
-      results:  [],
+      lokasi:      lokasiId,
+      level:       levelNum,
+      soalList:    shuffled,
+      current:     0,
+      score:       0,
+      answered:    false,
+      results:     [],
+      streak:      0,
+      streakBonus: 0,
     };
 
     showScreen('quiz');
@@ -96,16 +100,87 @@ function pilihJawaban(idx) {
     else if (i === idx && !benar) btn.classList.add('wrong');
   });
 
+  // Update streak
+  if (benar) {
+    quizState.streak++;
+  } else {
+    quizState.streak = 0;
+  }
+
   // Feedback
   const feedbackEl = document.getElementById('quiz-feedback');
   feedbackEl.className = `quiz-feedback ${benar ? 'benar' : 'salah'}`;
+
+  const comboBadge = (benar && quizState.streak >= 3)
+    ? ` <span class="combo-badge">🔥 COMBO x${quizState.streak}</span>` : '';
+
   feedbackEl.innerHTML = `
-    <div class="feedback-icon">${benar ? '✅' : '❌'}</div>
+    <div class="feedback-icon">${benar ? '✅' : '❌'}${comboBadge}</div>
     <div class="feedback-result">${benar ? 'Benar!' : `Jawaban: ${labels[soal.jawaban]}`}</div>
     <div class="feedback-explain">${soal.penjelasan}</div>
   `;
   feedbackEl.classList.remove('hidden');
   document.getElementById('btn-next').classList.remove('hidden');
+
+  // Auto-scroll ke btn-next
+  setTimeout(() => {
+    const screen = document.getElementById('screen-quiz');
+    screen.scrollTo({ top: screen.scrollHeight, behavior: 'smooth' });
+  }, 80);
+
+  // Cek milestone (delay agar scroll selesai dulu)
+  setTimeout(() => checkMilestone(), 400);
+}
+
+// ── Milestone & Surprise ─────────────────────────────────────────────────────
+
+const MILESTONES = {
+  2: { emoji: '🔥', title: 'Keren!',         sub: '3 soal selesai, tetap fokus!' },
+  4: { emoji: '⭐', title: 'Setengah jalan!', sub: 'Kamu sudah sampai soal ke-5!' },
+  7: { emoji: '💪', title: 'Hampir selesai!', sub: 'Tinggal 3 soal lagi, ayo!' },
+};
+
+const COMBO_MILESTONES = {
+  3: { emoji: '🔥', title: 'COMBO x3!',  sub: '+15 XP Bonus!' },
+  5: { emoji: '🚀', title: 'COMBO x5!',  sub: '+25 XP Bonus! Luar biasa!' },
+  7: { emoji: '👑', title: 'COMBO x7!',  sub: '+35 XP Bonus! Jenius!' },
+  10:{ emoji: '🏆', title: 'PERFECT!',   sub: 'Semua benar! +50 XP Bonus!' },
+};
+
+function checkMilestone() {
+  const { current, streak } = quizState;
+
+  // Combo milestone
+  if (streak > 0 && COMBO_MILESTONES[streak]) {
+    const m = COMBO_MILESTONES[streak];
+    const bonus = streak * 5;
+    quizState.streakBonus += bonus;
+    showMilestone(m.emoji, m.title, m.sub);
+    return;
+  }
+
+  // Progress milestone
+  if (MILESTONES[current]) {
+    const m = MILESTONES[current];
+    showMilestone(m.emoji, m.title, m.sub);
+  }
+}
+
+function showMilestone(emoji, title, sub) {
+  const el = document.createElement('div');
+  el.className = 'milestone-popup';
+  el.innerHTML = `
+    <div class="milestone-emoji">${emoji}</div>
+    <div class="milestone-title">${title}</div>
+    <div class="milestone-sub">${sub}</div>
+  `;
+  document.body.appendChild(el);
+
+  // Auto-remove setelah 1.8 detik
+  setTimeout(() => {
+    el.classList.add('hiding');
+    setTimeout(() => el.remove(), 300);
+  }, 1800);
 }
 
 // ── Soal berikutnya ──────────────────────────────────────────────────────────
@@ -132,10 +207,10 @@ function hitungBintang(score, total) {
 // ── Hasil quiz ───────────────────────────────────────────────────────────────
 
 function showResult() {
-  const { score, soalList, lokasi, level } = quizState;
+  const { score, soalList, lokasi, level, streakBonus } = quizState;
   const total   = soalList.length;
   const bintang = hitungBintang(score, total);
-  const xpGain  = bintang * 30 + score * 5;
+  const xpGain  = bintang * 30 + score * 5 + streakBonus;
   const lulus   = bintang > 0;
 
   // Simpan progress jika lulus
@@ -144,7 +219,9 @@ function showResult() {
   // Render result
   document.getElementById('result-stars').textContent  = '⭐'.repeat(bintang) + '☆'.repeat(3 - bintang);
   document.getElementById('result-score').textContent  = `${score} / ${total} benar`;
-  document.getElementById('result-xp').textContent     = lulus ? `+${xpGain} XP` : '';
+  document.getElementById('result-xp').textContent     = lulus
+    ? `+${xpGain} XP${streakBonus > 0 ? ` (termasuk +${streakBonus} combo bonus!)` : ''}`
+    : '';
   document.getElementById('result-msg').textContent    = resultMsg(bintang);
 
   const btnNext = document.getElementById('btn-result-next');

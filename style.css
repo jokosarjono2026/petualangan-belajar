@@ -42,6 +42,7 @@ html, body {
   flex-direction: column;
   height: 100vh;
   overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
   /* Fallback 48px untuk device tanpa safe-area support */
   padding: max(48px, env(safe-area-inset-top)) 16px
            max(24px, env(safe-area-inset-bottom)) 16px;
@@ -857,3 +858,50 @@ html, body {
 }
 
 .btn-onboard-next:active { opacity: 0.85; transform: scale(0.98); }
+
+/* ── Milestone Popup ── */
+.milestone-popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.5);
+  background: linear-gradient(135deg, var(--purple), var(--blue));
+  border-radius: 24px;
+  padding: 28px 36px;
+  text-align: center;
+  z-index: 1000;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.5);
+  pointer-events: none;
+  animation: milestoneIn 0.35s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+}
+
+.milestone-popup.hiding {
+  animation: milestoneOut 0.25s ease-in forwards;
+}
+
+@keyframes milestoneIn {
+  from { transform: translate(-50%, -50%) scale(0.5); opacity: 0; }
+  to   { transform: translate(-50%, -50%) scale(1);   opacity: 1; }
+}
+
+@keyframes milestoneOut {
+  from { transform: translate(-50%, -50%) scale(1);   opacity: 1; }
+  to   { transform: translate(-50%, -50%) scale(0.8); opacity: 0; }
+}
+
+.milestone-emoji { font-size: 52px; line-height: 1; margin-bottom: 10px; }
+.milestone-title { font-size: 20px; font-weight: 800; color: white; margin-bottom: 4px; }
+.milestone-sub   { font-size: 14px; color: rgba(255,255,255,0.8); }
+
+/* ── Combo badge inline ── */
+.combo-badge {
+  display: inline-block;
+  background: linear-gradient(135deg, #F59E0B, #EF4444);
+  color: white;
+  font-size: 12px;
+  font-weight: 800;
+  padding: 2px 10px;
+  border-radius: 20px;
+  letter-spacing: 0.5px;
+  animation: pop 0.3s ease;
+}
