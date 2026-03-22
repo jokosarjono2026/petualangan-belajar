@@ -4,18 +4,18 @@
     "soal": "Di kebun petualangan level 2, kamu menemukan tanaman dengan bunga berwarna-warni. Bagian bunga yang menghasilkan serbuk sari disebut...",
     "pilihan": ["Putik", "Benang sari", "Kelopak", "Mahkota"],
     "jawaban": 1,
-    "penjelasan": "Benang sari adalah alat kelamin jantan pada bunga yang menghasilkan serbuk sari (pollen). Putik adalah alat kelamin betina (tempat biji berkembang). Kelopak dan mahkota adalah bagian pelindung dan penarik penyerbuk."
+    "penjelasan": "Benang sari adalah alat kelamin jantan pada bunga yang menghasilkan serbuk sari (pollen). Putik adalah alat kelamin betina. Kelopak dan mahkota adalah bagian pelindung dan penarik penyerbuk."
   },
   {
     "mapel": "IPA",
-    "soal": "Saat menggali tanah di kebun, kamu menemukan lapisan tanah berwarna gelap yang gembur. Lapisan ini kaya humus dan cocok untuk tanaman. Lapisan tanah ini disebut...",
+    "soal": "Saat menggali tanah di kebun, kamu menemukan lapisan tanah berwarna gelap yang gembur dan kaya humus. Lapisan tanah ini disebut...",
     "pilihan": ["Tanah laterit", "Topsoil (tanah atas)", "Subsoil", "Batuan dasar"],
     "jawaban": 1,
-    "penjelasan": "Topsoil (lapisan tanah atas/horizon A) adalah lapisan paling subur karena kaya bahan organik dan humus hasil penguraian. Subsoil (horizon B) lebih keras dan miskin humus. Tanaman menyerap nutrisi terutama dari topsoil."
+    "penjelasan": "Topsoil (lapisan tanah atas/horizon A) adalah lapisan paling subur karena kaya bahan organik dan humus. Subsoil (horizon B) lebih keras dan miskin humus."
   },
   {
     "mapel": "IPA",
-    "soal": "Di sudut kebun ada sarang semut. Semut-semut mengambil makanan dari sisa tanaman dan membawanya ke koloni. Pernyataan yang benar tentang semut dalam ekosistem kebun adalah...",
+    "soal": "Di sudut kebun ada sarang semut. Semut-semut mengambil makanan dari sisa tanaman. Pernyataan yang benar tentang semut dalam ekosistem kebun adalah...",
     "pilihan": [
       "Semut adalah produsen karena membuat makanan",
       "Semut adalah konsumen karena memakan organisme lain",
@@ -23,14 +23,14 @@
       "Semut tidak berperan dalam ekosistem"
     ],
     "jawaban": 1,
-    "penjelasan": "Semut adalah konsumen (heterotrof) karena tidak bisa membuat makanan sendiri. Ia memakan sisa tanaman, biji, dan serangga lain. Produsen = tanaman (membuat makanan via fotosintesis). Dekomposer = bakteri dan jamur (mengurai sisa menjadi zat anorganik)."
+    "penjelasan": "Semut adalah konsumen (heterotrof) karena tidak bisa membuat makanan sendiri. Ia memakan sisa tanaman, biji, dan serangga lain. Produsen = tanaman (fotosintesis)."
   },
   {
     "mapel": "IPA",
-    "soal": "Kamu menemukan tanaman yang batangnya menyimpan banyak air dan berduri — cocok hidup di tempat kering. Ini contoh adaptasi...",
+    "soal": "Kamu menemukan tanaman yang batangnya menyimpan banyak air dan berduri. Ini contoh adaptasi...",
     "pilihan": ["Mimikri", "Morfologi", "Autotomi", "Hibernasi"],
     "jawaban": 1,
-    "penjelasan": "Adaptasi morfologi = penyesuaian bentuk/struktur tubuh. Batang menyimpan air dan duri pada kaktus adalah adaptasi morfologi untuk bertahan di lingkungan kering. Mimikri = menyamar, Autotomi = memutuskan bagian tubuh (cicak), Hibernasi = tidur musim dingin."
+    "penjelasan": "Adaptasi morfologi = penyesuaian bentuk/struktur tubuh. Batang menyimpan air dan duri pada kaktus adalah adaptasi morfologi untuk bertahan di lingkungan kering."
   },
   {
     "mapel": "IPA",
@@ -42,41 +42,186 @@
       "Nimfa → Larva → Pupa → Dewasa"
     ],
     "jawaban": 1,
-    "penjelasan": "Metamorfosis sempurna (holometabola): Telur → Larva (ulat) → Pupa (kepompong) → Imago (kupu-kupu dewasa). Ada 4 fase. Metamorfosis tidak sempurna (belalang, jangkrik): Telur → Nimfa → Dewasa (hanya 3 fase, tanpa pupa)."
+    "penjelasan": "Metamorfosis sempurna (holometabola): Telur → Larva (ulat) → Pupa (kepompong) → Imago (dewasa). Metamorfosis tidak sempurna (belalang): Telur → Nimfa → Dewasa."
   },
   {
     "mapel": "IPA",
     "soal": "Petani kebun menggunakan pupuk kompos dari sisa sayuran. Pupuk kompos mengandung banyak...",
     "pilihan": ["Nitrogen, fosfor, kalium (NPK)", "Silika dan besi", "Karbon dioksida dan air", "Pestisida alami"],
     "jawaban": 0,
-    "penjelasan": "Pupuk mengandung unsur hara makro NPK: Nitrogen (N) untuk pertumbuhan daun, Fosfor (P) untuk akar dan bunga, Kalium (K) untuk batang dan buah. Kompos dari bahan organik mengandung NPK secara alami dan memperbaiki struktur tanah."
+    "penjelasan": "Pupuk mengandung unsur hara makro NPK: Nitrogen (N) untuk daun, Fosfor (P) untuk akar dan bunga, Kalium (K) untuk batang dan buah. Kompos mengandung NPK secara alami."
   },
   {
     "mapel": "IPA",
     "soal": "Di kebun ada pohon pisang yang menghasilkan tunas baru di samping pohon induk. Cara perkembangbiakan ini disebut...",
     "pilihan": ["Rhizoma", "Stolon", "Tunas", "Spora"],
     "jawaban": 2,
-    "penjelasan": "Pisang berkembang biak secara vegetatif alami melalui tunas (anakan) yang tumbuh dari pangkal batang. Rhizoma = batang bawah tanah (jahe, kunyit). Stolon = batang menjalar di atas tanah (strawberry). Spora = pada paku-pakuan dan lumut."
+    "penjelasan": "Pisang berkembang biak vegetatif alami melalui tunas (anakan) dari pangkal batang. Rhizoma = batang bawah tanah (jahe). Stolon = batang menjalar (strawberry). Spora = paku-pakuan."
   },
   {
     "mapel": "IPA",
-    "soal": "Kamu mengamati kolam kecil di kebun. Air yang jernih tiba-tiba berubah hijau karena banyak ganggang. Fenomena ini disebut...",
+    "soal": "Kamu mengamati kolam kecil di kebun. Air jernih berubah hijau karena banyak ganggang berkembang pesat. Fenomena ini disebut...",
     "pilihan": ["Eutrofikasi", "Sedimentasi", "Erosi", "Polusi udara"],
     "jawaban": 0,
-    "penjelasan": "Eutrofikasi adalah pertumbuhan alga berlebihan akibat kelebihan nutrisi (terutama nitrogen dan fosfor dari pupuk/limbah). Alga yang mati menghabiskan oksigen dalam air, menyebabkan ikan mati. Ini adalah bentuk pencemaran air."
+    "penjelasan": "Eutrofikasi adalah pertumbuhan alga berlebihan akibat kelebihan nutrisi (nitrogen dan fosfor dari pupuk/limbah). Alga yang mati menghabiskan oksigen dalam air sehingga ikan mati."
   },
   {
     "mapel": "IPA",
     "soal": "Penjaga kebun menjelaskan bahwa tanaman venus flytrap dapat menjebak dan memakan serangga. Tanaman ini disebut tanaman...",
     "pilihan": ["Tanaman epifit", "Tanaman parasit", "Tanaman karnivora", "Tanaman saprofit"],
     "jawaban": 2,
-    "penjelasan": "Tanaman karnivora (insektivora) adalah tanaman yang mendapat nutrisi (terutama nitrogen) dari serangga yang ditangkapnya. Ini terjadi karena tanah tempatnya tumbuh miskin nitrogen. Contoh: venus flytrap, kantong semar, sundew."
+    "penjelasan": "Tanaman karnivora (insektivora) mendapat nutrisi dari serangga yang ditangkapnya karena tanah tempat tumbuhnya miskin nitrogen. Contoh: venus flytrap, kantong semar."
   },
   {
     "mapel": "IPA",
     "soal": "Di kebun penelitian, kamu belajar tentang jaringan tumbuhan. Jaringan yang berfungsi sebagai pelindung permukaan luar daun dan batang adalah...",
     "pilihan": ["Jaringan meristem", "Jaringan epidermis", "Jaringan parenkim", "Jaringan sklerenkim"],
     "jawaban": 1,
-    "penjelasan": "Jaringan epidermis melapisi permukaan luar tumbuhan sebagai pelindung dari kehilangan air, kerusakan mekanis, dan masuknya patogen. Meristem = jaringan pertumbuhan. Parenkim = jaringan dasar (penyimpan makanan). Sklerenkim = jaringan penguat (serat)."
+    "penjelasan": "Jaringan epidermis melapisi permukaan luar tumbuhan sebagai pelindung dari kehilangan air dan kerusakan. Meristem = pertumbuhan. Parenkim = penyimpan makanan. Sklerenkim = penguat."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun, kamu mengamati reaksi perubahan kimia. Besi pagar kebun yang berkarat termasuk perubahan...",
+    "pilihan": ["Fisika, karena tidak ada zat baru", "Kimia, karena terbentuk zat baru (besi oksida)", "Fisika, karena bisa dikembalikan", "Kimia, karena memerlukan panas"],
+    "jawaban": 1,
+    "penjelasan": "Karat besi (Fe₂O₃) adalah perubahan kimia karena terbentuk zat baru yang berbeda dari besi aslinya dan tidak bisa dikembalikan ke bentuk semula. Perubahan fisika = tidak ada zat baru (air membeku, dll)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Saat kamu menyiram tanaman di kebun dengan air, air di dalam tanah diserap akar dan menguap dari daun. Proses penguapan air melalui daun disebut...",
+    "pilihan": ["Gutasi", "Transpirasi", "Evaporasi", "Kondensasi"],
+    "jawaban": 1,
+    "penjelasan": "Transpirasi adalah penguapan air dari tumbuhan terutama melalui stomata (pori-pori) di daun. Gutasi = pengeluaran air dalam bentuk cair melalui ujung daun. Evaporasi = penguapan dari permukaan air."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Petani kebun menggunakan tuas (batang kayu) untuk mencabut tanaman berakar kuat. Tuas termasuk jenis pesawat sederhana. Jika titik tumpu dekat dengan beban, maka...",
+    "pilihan": ["Gaya yang diperlukan semakin besar", "Gaya yang diperlukan semakin kecil", "Gaya tidak berubah", "Tuas tidak bekerja"],
+    "jawaban": 1,
+    "penjelasan": "Semakin dekat titik tumpu ke beban (semakin jauh dari kuasa/gaya), semakin kecil gaya yang diperlukan. Ini adalah prinsip keuntungan mekanis tuas: KM = lengan kuasa ÷ lengan beban."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di laboratorium kebun, peneliti menguji tanah dengan kertas lakmus. Tanah kebun yang berwarna merah saat diuji dengan kertas lakmus biru menunjukkan tanah bersifat...",
+    "pilihan": ["Basa", "Netral", "Asam", "Garam"],
+    "jawaban": 2,
+    "penjelasan": "Kertas lakmus biru berubah merah dalam larutan asam. Kertas lakmus merah berubah biru dalam larutan basa. Tanah yang terlalu asam kurang baik untuk banyak tanaman — bisa dinetralkan dengan kapur."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada kolam ikan. Ikan bernapas menggunakan insang yang menyaring oksigen terlarut dari air. Oksigen terlarut dalam air berasal dari...",
+    "pilihan": ["Tanah di dasar kolam", "Fotosintesis ganggang dan difusi udara", "Air hujan saja", "Metabolisme ikan sendiri"],
+    "jawaban": 1,
+    "penjelasan": "Oksigen dalam air berasal dari: (1) fotosintesis fitoplankton/ganggang yang menghasilkan O₂; (2) difusi O₂ dari udara ke permukaan air. Kadar O₂ terlarut sangat penting untuk kehidupan ikan."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Penjaga kebun memasak air untuk minum. Saat air mendidih dan berubah menjadi uap, ini adalah perubahan wujud yang disebut...",
+    "pilihan": ["Membeku", "Menguap (evaporasi/penguapan)", "Mengembun", "Menyublim"],
+    "jawaban": 1,
+    "penjelasan": "Menguap = perubahan wujud dari cair ke gas karena dipanaskan. Membeku = cair ke padat. Mengembun = gas ke cair. Menyublim = padat langsung ke gas (kapur barus). Semua perubahan wujud adalah perubahan fisika."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada tanaman padi yang terkena hama wereng. Petani menggunakan pestisida. Dampak negatif penggunaan pestisida berlebihan pada ekosistem adalah...",
+    "pilihan": [
+      "Menyuburkan tanah secara alami",
+      "Membunuh hama dan organisme berguna lainnya, merusak keseimbangan ekosistem",
+      "Meningkatkan keanekaragaman hayati",
+      "Mempercepat fotosintesis"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Pestisida berlebihan membunuh organisme berguna (predator alami hama, lebah penyerbuk, cacing tanah), mencemari tanah dan air, serta merusak keseimbangan ekosistem jangka panjang."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Kamu mengamati gerak tanaman di kebun. Ujung akar selalu tumbuh ke bawah menuju pusat bumi (gravitasi). Gerak ini disebut...",
+    "pilihan": ["Fototropisme positif", "Geotropisme positif", "Tigmotropisme", "Hidrotropisme"],
+    "jawaban": 1,
+    "penjelasan": "Geotropisme positif = pertumbuhan bagian tanaman menuju pusat gravitasi bumi (akar tumbuh ke bawah). Fototropisme = respons terhadap cahaya. Tigmotropisme = respons terhadap sentuhan. Hidrotropisme = respons terhadap air."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada pohon mangga dan benalu yang menempel di batangnya. Benalu menyerap air dan mineral dari pohon mangga. Pohon mangga melemah. Hubungan ini adalah simbiosis...",
+    "pilihan": ["Mutualisme", "Komensalisme", "Parasitisme", "Netralisme"],
+    "jawaban": 2,
+    "penjelasan": "Parasitisme = satu pihak diuntungkan (benalu mendapat air dan mineral), pihak lain dirugikan (pohon mangga melemah). Benalu tidak bisa hidup tanpa inang sehingga disebut parasit obligat."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di laboratorium mini kebun, peneliti menganalisis darah serangga di bawah mikroskop. Fungsi utama sistem sirkulasi pada serangga berbeda dengan manusia karena serangga tidak memiliki...",
+    "pilihan": ["Jantung", "Hemolimfa (cairan tubuh)", "Hemoglobin untuk mengangkut O₂", "Pembuluh darah sama sekali"],
+    "jawaban": 2,
+    "penjelasan": "Serangga tidak memiliki hemoglobin. Oksigen diedarkan langsung ke sel melalui sistem trakea (saluran udara), bukan lewat darah. Darah serangga (hemolimfa) hanya membawa nutrisi dan hormon."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Petani kebun mengamati bahwa tanaman tomat lebih cepat tumbuh di dekat pupuk nitrogen. Nitrogen penting untuk tanaman karena merupakan komponen utama dari...",
+    "pilihan": ["Karbohidrat", "Protein dan klorofil", "Lemak", "Air"],
+    "jawaban": 1,
+    "penjelasan": "Nitrogen (N) adalah komponen utama protein dan klorofil. Protein dibutuhkan untuk pertumbuhan jaringan baru, dan klorofil untuk fotosintesis. Kekurangan N = daun menguning (klorosis)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ditemukan batu-batuan. Batu yang terbentuk dari magma yang mendingin dan mengeras disebut batu...",
+    "pilihan": ["Batu sedimen", "Batu metamorf", "Batu beku", "Batu kapur"],
+    "jawaban": 2,
+    "penjelasan": "Batu beku (igneous rock) terbentuk dari magma/lava yang mendingin dan mengeras. Batu sedimen terbentuk dari endapan. Batu metamorf terbentuk dari batu yang mengalami tekanan/panas tinggi. Contoh batu beku: granit, basalt."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Peneliti mengukur massa jenis tanah di kebun. Benda dapat terapung di air jika massa jenisnya...",
+    "pilihan": ["Sama dengan massa jenis air (1 g/cm³)", "Lebih besar dari massa jenis air", "Lebih kecil dari massa jenis air", "Tidak bergantung pada massa jenis"],
+    "jawaban": 2,
+    "penjelasan": "Benda terapung jika massa jenisnya < massa jenis air (1 g/cm³). Benda tenggelam jika massa jenisnya > 1 g/cm³. Benda melayang jika massa jenisnya = 1 g/cm³. Prinsip ini ditemukan Archimedes."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada termometer untuk mengukur suhu udara. Suhu udara di pagi hari 20°C. Berapa dalam skala Fahrenheit? (F = (9/5 × C) + 32)",
+    "pilihan": ["52°F", "58°F", "68°F", "72°F"],
+    "jawaban": 2,
+    "penjelasan": "F = (9/5 × 20) + 32 = 36 + 32 = 68°F. Konversi penting: 0°C = 32°F (titik beku air), 100°C = 212°F (titik didih air). Tubuh manusia normal = 37°C = 98,6°F."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Kamu mengamati proses pembusukan buah yang jatuh di kebun. Pembusukan buah disebabkan oleh aktivitas...",
+    "pilihan": ["Tanaman lain yang bersaing", "Sinar ultraviolet matahari", "Mikroorganisme seperti bakteri dan jamur", "Serangga karnivora"],
+    "jawaban": 2,
+    "penjelasan": "Pembusukan adalah proses penguraian bahan organik oleh mikroorganisme (bakteri, jamur, kapang). Ini adalah bagian dari siklus materi dalam ekosistem. Produk pembusukan berupa nutrisi yang kembali ke tanah."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Petani kebun menggunakan selang untuk mengairi tanaman. Air mengalir dari tempat tinggi ke tempat rendah karena pengaruh...",
+    "pilihan": ["Tegangan permukaan", "Gaya gravitasi", "Gaya magnet", "Tekanan udara"],
+    "jawaban": 1,
+    "penjelasan": "Gaya gravitasi bumi menarik semua benda (termasuk air) ke bawah, sehingga air mengalir dari tempat tinggi ke rendah. Ini juga yang menyebabkan air terjun, hujan, dan sistem irigasi dapat bekerja."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada kawat listrik yang menghubungkan lampu taman. Bahan yang tidak dapat menghantarkan listrik (isolator) adalah...",
+    "pilihan": ["Tembaga", "Aluminium", "Karet/plastik", "Besi"],
+    "jawaban": 2,
+    "penjelasan": "Isolator = bahan yang tidak menghantarkan listrik: karet, plastik, kayu kering, kaca, udara. Konduktor = menghantarkan listrik: tembaga, aluminium, besi, air asin. Kabel listrik menggunakan tembaga (konduktor) dibungkus plastik (isolator)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ditemukan hewan seperti siput, cacing, dan laba-laba. Hewan yang termasuk kelompok Arachnida (berkaki 8) adalah...",
+    "pilihan": ["Siput", "Cacing", "Laba-laba", "Kumbang"],
+    "jawaban": 2,
+    "penjelasan": "Arachnida = hewan berbuku-buku berkaki 8: laba-laba, kalajengking, tungau. Insekta (serangga) berkaki 6: kumbang, semut, kupu-kupu. Moluska: siput, kerang. Annelida: cacing tanah."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Peneliti kebun mengamati sel bawang merah di bawah mikroskop. Organel yang mengandung pigmen dan berperan dalam warna buah/bunga (tetapi bukan klorofil) disebut...",
+    "pilihan": ["Kloroplas", "Kromoplas", "Leukoplas", "Mitokondria"],
+    "jawaban": 1,
+    "penjelasan": "Kromoplas mengandung pigmen karotenoid yang memberi warna merah, kuning, dan oranye pada buah/bunga. Kloroplas = plastida mengandung klorofil (hijau). Leukoplas = plastida penyimpan pati (tak berwarna)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Petani kebun mengalami masalah tanah longsor setelah hujan deras. Salah satu cara terbaik mencegah longsor di lereng kebun adalah...",
+    "pilihan": ["Menebang pohon di lereng", "Menutup lereng dengan beton", "Menanam pohon di lereng (penghijauan)", "Membuat sumur di puncak lereng"],
+    "jawaban": 2,
+    "penjelasan": "Akar pohon mengikat tanah dan menyerap air hujan, mencegah erosi dan longsor. Penghijauan/reboisasi adalah cara alami dan berkelanjutan untuk menjaga kestabilan lereng. Menebang pohon justru menyebabkan longsor."
   }
 ]

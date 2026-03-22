@@ -2,71 +2,901 @@
   {
     "mapel": "IPA",
     "soal": "Di kebun petualangan, daun-daun tampak hijau segar di bawah sinar matahari. Proses apa yang membuat tanaman menghasilkan makanan dari sinar matahari dan CO₂?",
-    "pilihan": ["Respirasi", "Fotosintesis", "Transpirasi", "Fermentasi"],
+    "pilihan": [
+      "Respirasi",
+      "Fotosintesis",
+      "Transpirasi",
+      "Fermentasi"
+    ],
     "jawaban": 1,
-    "penjelasan": "Fotosintesis adalah proses tanaman mengubah CO₂ + H₂O + cahaya matahari menjadi glukosa (makanan) dan O₂. Klorofil di daun yang menyebabkan warna hijau sekaligus menyerap cahaya."
+    "penjelasan": "Fotosintesis adalah proses tanaman mengubah CO₂ + H₂O + cahaya matahari menjadi glukosa (makanan) dan O₂. Klorofil di daun menyerap cahaya."
   },
   {
     "mapel": "IPA",
     "soal": "Adi menemukan rantai makanan di kebun: rumput → belalang → katak → ular. Jika semua belalang tiba-tiba habis, apa yang terjadi pada populasi katak?",
-    "pilihan": ["Bertambah pesat", "Berkurang karena kehilangan makanan", "Tetap sama", "Pindah ke kebun lain"],
+    "pilihan": [
+      "Bertambah pesat",
+      "Berkurang karena kehilangan makanan",
+      "Tetap sama",
+      "Pindah ke kebun lain"
+    ],
     "jawaban": 1,
-    "penjelasan": "Katak bergantung pada belalang sebagai sumber makanan. Jika belalang habis, katak kekurangan pakan sehingga populasinya berkurang. Ini menunjukkan ketergantungan antar organisme dalam rantai makanan."
+    "penjelasan": "Katak bergantung pada belalang sebagai makanan. Jika belalang habis, katak kekurangan pakan sehingga populasinya berkurang."
   },
   {
     "mapel": "IPA",
     "soal": "Kak Nisa melihat cacing tanah di kebun sedang menguraikan daun-daun mati menjadi humus. Dalam ekosistem, cacing tanah berperan sebagai...",
-    "pilihan": ["Produsen", "Konsumen primer", "Dekomposer", "Predator"],
+    "pilihan": [
+      "Produsen",
+      "Konsumen primer",
+      "Dekomposer",
+      "Predator"
+    ],
     "jawaban": 2,
-    "penjelasan": "Dekomposer (pengurai) adalah organisme yang menguraikan sisa-sisa makhluk hidup mati menjadi zat-zat anorganik yang bisa diserap tanaman. Cacing tanah, bakteri, dan jamur termasuk dekomposer."
+    "penjelasan": "Dekomposer (pengurai) adalah organisme yang menguraikan sisa-sisa makhluk hidup mati menjadi zat anorganik yang bisa diserap tanaman. Contoh: cacing, bakteri, jamur."
   },
   {
     "mapel": "IPA",
     "soal": "Budi ingin memperbanyak tanaman mint di kebunnya. Ia memotong bagian batang dan menancapkannya ke tanah agar tumbuh akar baru. Cara perkembangbiakan ini disebut...",
-    "pilihan": ["Setek", "Okulasi", "Cangkok", "Penyerbukan silang"],
+    "pilihan": [
+      "Setek",
+      "Okulasi",
+      "Cangkok",
+      "Penyerbukan silang"
+    ],
     "jawaban": 0,
-    "penjelasan": "Setek adalah perkembangbiakan vegetatif buatan dengan cara memotong bagian tanaman (batang, daun, atau akar) dan menancapkannya ke media tanam. Berbeda dengan cangkok yang batangnya tidak diputus dahulu."
+    "penjelasan": "Setek adalah perkembangbiakan vegetatif buatan dengan memotong bagian tanaman (batang, daun, atau akar) dan menancapkannya ke media tanam. Berbeda dengan cangkok yang batangnya tidak diputus dahulu."
   },
   {
     "mapel": "IPA",
     "soal": "Di kebun, lebah terbang dari bunga ke bunga sambil mengambil nektar dan membawa serbuk sari. Kedua pihak saling diuntungkan. Hubungan ini termasuk simbiosis...",
-    "pilihan": ["Parasitisme", "Amensalisme", "Mutualisme", "Komensalisme"],
+    "pilihan": [
+      "Parasitisme",
+      "Amensalisme",
+      "Mutualisme",
+      "Komensalisme"
+    ],
     "jawaban": 2,
-    "penjelasan": "Mutualisme = hubungan di mana kedua pihak diuntungkan. Lebah mendapat nektar (makanan), bunga terbantu penyerbukannya. Berbeda: parasitisme (satu untung, satu rugi), komensalisme (satu untung, satu tidak rugi/untung)."
+    "penjelasan": "Mutualisme = kedua pihak diuntungkan. Lebah mendapat nektar (makanan), bunga terbantu penyerbukannya. Berbeda: parasitisme (satu untung, satu rugi)."
   },
   {
     "mapel": "IPA",
     "soal": "Sinta mengamati sel daun dengan mikroskop di sudut kebun. Organel apa yang HANYA ditemukan pada sel tumbuhan, tidak ada di sel hewan?",
-    "pilihan": ["Mitokondria", "Nukleus", "Dinding sel", "Ribosom"],
+    "pilihan": [
+      "Mitokondria",
+      "Nukleus",
+      "Dinding sel",
+      "Ribosom"
+    ],
     "jawaban": 2,
-    "penjelasan": "Sel tumbuhan memiliki dinding sel (dari selulosa) yang memberi bentuk kaku, vakuola besar, dan kloroplas. Sel hewan tidak punya ketiganya. Mitokondria, nukleus, dan ribosom dimiliki keduanya."
+    "penjelasan": "Sel tumbuhan memiliki dinding sel (dari selulosa) yang memberi bentuk kaku, vakuola besar, dan kloroplas. Sel hewan tidak punya ketiganya."
   },
   {
     "mapel": "IPA",
     "soal": "Pohon jati di kebun petualangan menggugurkan semua daunnya saat musim kemarau. Tujuan adaptasi ini adalah...",
-    "pilihan": ["Menarik serangga penyerbuk", "Mengurangi penguapan air", "Mempercepat pertumbuhan", "Menyerap lebih banyak cahaya"],
+    "pilihan": [
+      "Menarik serangga penyerbuk",
+      "Mengurangi penguapan air",
+      "Mempercepat pertumbuhan",
+      "Menyerap lebih banyak cahaya"
+    ],
     "jawaban": 1,
-    "penjelasan": "Menggugurkan daun saat kemarau adalah adaptasi untuk mengurangi transpirasi (penguapan air melalui daun). Ini mencegah tanaman kekurangan air saat musim kering. Pohon jati termasuk tumbuhan yang disebut meranggas."
+    "penjelasan": "Menggugurkan daun saat kemarau adalah adaptasi untuk mengurangi transpirasi (penguapan air melalui daun). Pohon jati disebut tumbuhan meranggas."
   },
   {
     "mapel": "IPA",
     "soal": "Air hujan yang diserap akar tanaman di kebun naik sampai ke daun melalui jaringan pengangkut. Jaringan yang mengangkut air dan mineral dari akar ke daun disebut...",
-    "pilihan": ["Floem", "Epidermis", "Xilem", "Kambium"],
+    "pilihan": [
+      "Floem",
+      "Epidermis",
+      "Xilem",
+      "Kambium"
+    ],
     "jawaban": 2,
-    "penjelasan": "Xilem mengangkut air dan mineral dari akar ke seluruh bagian tumbuhan (satu arah: bawah ke atas). Floem mengangkut hasil fotosintesis (gula) dari daun ke seluruh tubuh. Keduanya adalah jaringan pembuluh."
+    "penjelasan": "Xilem mengangkut air dan mineral dari akar ke seluruh bagian tumbuhan (satu arah: bawah ke atas). Floem mengangkut hasil fotosintesis (gula) dari daun ke seluruh tubuh."
   },
   {
     "mapel": "IPA",
     "soal": "Di sudut kebun ada kolam kecil berisi ganggang hijau, ikan-ikan kecil, dan katak. Air, tanah, dan udara juga ada. Kesatuan semua makhluk hidup dan lingkungan tak hidupnya ini disebut...",
-    "pilihan": ["Komunitas", "Ekosistem", "Populasi", "Biosfer"],
+    "pilihan": [
+      "Komunitas",
+      "Ekosistem",
+      "Populasi",
+      "Biosfer"
+    ],
     "jawaban": 1,
-    "penjelasan": "Ekosistem = makhluk hidup (biotik) + lingkungan tak hidup (abiotik) yang saling berinteraksi. Populasi = satu jenis makhluk di satu tempat. Komunitas = semua makhluk hidup di satu tempat. Biosfer = seluruh ekosistem di Bumi."
+    "penjelasan": "Ekosistem = makhluk hidup (biotik) + lingkungan tak hidup (abiotik) yang saling berinteraksi. Populasi = satu jenis makhluk. Komunitas = semua makhluk hidup di satu tempat."
   },
   {
     "mapel": "IPA",
     "soal": "Di kebun, anggrek menempel di batang pohon besar untuk mendapat cahaya dan tempat tumbuh. Pohon tidak dirugikan maupun diuntungkan. Hubungan anggrek dan pohon ini disebut...",
-    "pilihan": ["Mutualisme", "Parasitisme", "Komensalisme", "Predasi"],
+    "pilihan": [
+      "Mutualisme",
+      "Parasitisme",
+      "Komensalisme",
+      "Predasi"
+    ],
     "jawaban": 2,
-    "penjelasan": "Komensalisme = satu pihak diuntungkan (anggrek mendapat tempat & cahaya), pihak lain tidak rugi dan tidak untung (pohon tidak terpengaruh). Berbeda dengan parasitisme di mana inang dirugikan."
+    "penjelasan": "Komensalisme = satu pihak diuntungkan (anggrek mendapat tempat & cahaya), pihak lain tidak rugi dan tidak untung (pohon tidak terpengaruh)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun, tanaman bernapas di malam hari. Proses tanaman menggunakan glukosa dan oksigen untuk menghasilkan energi disebut...",
+    "pilihan": [
+      "Fotosintesis",
+      "Fermentasi",
+      "Respirasi aerob",
+      "Transpirasi"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Respirasi aerob: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energi (ATP). Terjadi di mitokondria. Berbeda dengan fotosintesis yang membutuhkan cahaya dan menghasilkan glukosa."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun, penyerbukan terjadi saat serbuk sari sampai ke putik. Penyerbukan yang terjadi oleh bantuan serangga disebut penyerbukan...",
+    "pilihan": [
+      "Anemogami",
+      "Entomogami",
+      "Hidrogami",
+      "Ornitogami"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Entomogami = penyerbukan oleh serangga (entomo = serangga). Anemogami = oleh angin. Hidrogami = oleh air. Ornitogami = oleh burung. Bunga yang diserbuki serangga biasanya berwarna cerah dan harum."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Penjaga kebun menemukan jamur tumbuh di batang pohon yang sudah mati. Jamur berbeda dari tumbuhan karena jamur tidak memiliki...",
+    "pilihan": [
+      "Dinding sel",
+      "Nukleus",
+      "Klorofil (tidak bisa fotosintesis)",
+      "Membran sel"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Jamur tidak memiliki klorofil sehingga tidak bisa fotosintesis. Jamur adalah heterotrof yang mendapatkan makanan dengan menguraikan bahan organik (saprofit) atau menumpang pada organisme lain."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun, biji bunga matahari jatuh ke tanah dan tumbuh. Proses perkecambahan biji membutuhkan kondisi...",
+    "pilihan": [
+      "Gelap, kering, dan dingin",
+      "Cahaya matahari langsung saja",
+      "Air, oksigen, dan suhu yang tepat",
+      "Tanah bebas mineral"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Perkecambahan membutuhkan: air (untuk mengaktifkan enzim dalam biji), oksigen (untuk respirasi energi pertumbuhan), dan suhu optimal (berbeda tiap tanaman). Cahaya tidak selalu diperlukan saat berkecambah."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Siswa mengamati kucing di kebun. Kucing termasuk kelas Mammalia. Ciri utama Mammalia yang membedakannya dari hewan lain adalah...",
+    "pilihan": [
+      "Berdarah dingin",
+      "Menyusui anaknya dan berbulu",
+      "Bertelur seperti reptil",
+      "Bernapas dengan insang"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Ciri utama Mammalia: (1) menyusui (menghasilkan susu untuk anak), (2) berbulu, (3) berdarah panas (homoiterm), (4) bernafas dengan paru-paru. Contoh: kucing, sapi, kelelawar, paus."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada pohon dengan batang kayu keras dan telah hidup lebih dari 100 tahun. Bagian tumbuhan yang menunjukkan usia pohon saat dipotong melintang adalah...",
+    "pilihan": [
+      "Epidermis",
+      "Kambium",
+      "Lingkaran tahun",
+      "Floem"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Lingkaran tahun (annual ring) pada penampang melintang batang pohon menunjukkan usianya — satu cincin = satu tahun pertumbuhan. Terbentuk karena pertumbuhan tidak merata antara musim hujan dan kemarau."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Anak-anak bermain di kebun dan menemukan kodok. Kodok berbeda dari katak karena kodok...",
+    "pilihan": [
+      "Hidup di air saja",
+      "Kulitnya kasar dan berbintil, lebih banyak di darat",
+      "Mengalami metamorfosis sempurna",
+      "Tidak bertelur"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Kodok: kulit kasar/berbintil, lebih banyak di darat, racun pada kulit. Katak: kulit halus dan lembap, lebih sering di dekat air. Keduanya adalah Amphibia yang mengalami metamorfosis dan bertelur."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Peneliti mengamati akar tanaman di kebun. Fungsi rambut akar (bulu-bulu akar) adalah...",
+    "pilihan": [
+      "Menyimpan makanan",
+      "Menyerap air dan mineral dari tanah",
+      "Melakukan fotosintesis",
+      "Mengangkut makanan ke seluruh tubuh"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Rambut akar memperluas permukaan akar untuk menyerap air dan mineral dari tanah secara maksimal. Tanpa rambut akar, penyerapan tidak efisien."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada berbagai serangga. Belalang mengalami metamorfosis tidak sempurna. Tahapan yang benar adalah...",
+    "pilihan": [
+      "Telur → Larva → Pupa → Dewasa",
+      "Telur → Nimfa → Dewasa",
+      "Telur → Dewasa",
+      "Larva → Pupa → Dewasa"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Metamorfosis tidak sempurna (hemimetabola): Telur → Nimfa (mirip dewasa tapi belum bersayap) → Dewasa. Contoh: belalang, jangkrik, kecoak. Tanpa tahap pupa (kepompong)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada berbagai jenis rumput. Rumput termasuk tanaman yang berkembang biak dengan stolon, yaitu...",
+    "pilihan": [
+      "Akar yang menyimpan makanan",
+      "Batang yang menjalar di atas atau bawah tanah",
+      "Biji yang dihasilkan dari bunga",
+      "Spora dari daun"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Stolon (geragih) adalah batang yang menjalar di permukaan tanah dan membentuk tunas baru di setiap buku (nodus). Contoh: rumput, strawberry, semanggi. Berbeda dengan rhizoma yang ada di bawah tanah."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Saat berkebun, petani menemukan tanah yang sangat keras dan tidak menyerap air. Jenis tanah ini kemungkinan adalah...",
+    "pilihan": [
+      "Tanah humus",
+      "Tanah liat",
+      "Tanah berpasir",
+      "Tanah gambut"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Tanah liat memiliki partikel sangat halus yang rapat, sehingga sulit menyerap air (impermeabel), mudah retak saat kering, dan keras. Tanah berpasir mudah menyerap air tapi miskin nutrisi."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun, ada kupu-kupu yang berwarna mirip daun. Kemampuan makhluk hidup untuk menyerupai lingkungannya agar tidak terlihat musuh disebut...",
+    "pilihan": [
+      "Autotomi",
+      "Kamuflase",
+      "Mimikri",
+      "Adaptasi fisiologi"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Kamuflase = kemampuan menyamarkan diri dengan menyesuaikan warna/bentuk dengan lingkungan. Mimikri = meniru penampilan makhluk lain yang berbahaya/tidak dimangsa. Autotomi = memutuskan bagian tubuh (cicak)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Siswa mengamati bahwa tanaman kacang tumbuh melilit batang penyangga. Gerakan tumbuhan ini disebut...",
+    "pilihan": [
+      "Fototropisme",
+      "Geotropisme",
+      "Tigmotropisme",
+      "Hidrotropisme"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Tigmotropisme = gerakan tumbuhan karena rangsang sentuhan/rabaan. Tanaman kacang melilit penyangga karena merespons sentuhan. Contoh lain: sulur mentimun, markisa."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada ulat yang memakan daun. Ulat adalah...",
+    "pilihan": [
+      "Produsen",
+      "Konsumen tingkat 1",
+      "Konsumen tingkat 2",
+      "Dekomposer"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Ulat memakan daun tumbuhan (produsen) sehingga ulat adalah konsumen tingkat 1 (konsumen primer). Tumbuhan → Ulat (konsumen 1) → Burung (konsumen 2) → dst."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun, petani melihat tanaman tomat yang kekurangan air layu. Proses yang bertanggung jawab atas kelayuan tanaman akibat kekurangan air adalah...",
+    "pilihan": [
+      "Plasmolisis",
+      "Osmosis balik",
+      "Turgor menurun",
+      "Difusi terganggu"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Tekanan turgor adalah tekanan air dalam sel yang membuat sel tumbuhan kaku dan segar. Saat kekurangan air, turgor menurun sehingga sel dan jaringan kehilangan kekakuannya → tanaman layu."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Petani kebun melihat awan mendung dan tahu akan hujan. Proses penguapan air dari permukaan bumi yang membentuk awan disebut...",
+    "pilihan": [
+      "Kondensasi",
+      "Presipitasi",
+      "Evaporasi",
+      "Infiltrasi"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Siklus air: Evaporasi (penguapan dari permukaan air/tanah) → Kondensasi (uap air menjadi tetes air di awan) → Presipitasi (hujan/salju) → Infiltrasi (air meresap ke tanah)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Siswa mengamati sarang lebah di pohon kebun. Sarang lebah berbentuk heksagonal (segi enam) adalah contoh adaptasi makhluk hidup terhadap...",
+    "pilihan": [
+      "Mangsa",
+      "Predator",
+      "Lingkungan fisik untuk efisiensi ruang",
+      "Perubahan iklim"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Bentuk heksagonal sarang lebah adalah adaptasi struktural yang efisien: menggunakan lilin paling sedikit untuk ruang terbesar, tanpa celah antar sel. Ini adalah contoh optimasi alam."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada berbagai warna bunga. Warna-warni bunga berfungsi untuk...",
+    "pilihan": [
+      "Melakukan fotosintesis lebih cepat",
+      "Menyimpan cadangan makanan",
+      "Menarik penyerbuk (serangga/burung)",
+      "Melindungi dari hama"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Warna cerah bunga berfungsi menarik penyerbuk (lebah, kupu-kupu, burung) agar datang dan membantu penyerbukan. Serbuk sari menempel pada tubuh penyerbuk dan dibawa ke bunga lain."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Peneliti di kebun menjelaskan bahwa tanaman Venus flytrap mendapat nitrogen dari serangga. Nitrogen digunakan tanaman untuk membentuk...",
+    "pilihan": [
+      "Karbohidrat",
+      "Lemak",
+      "Protein dan asam nukleat",
+      "Air"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Nitrogen adalah komponen utama protein dan asam nukleat (DNA, RNA). Tanaman yang tumbuh di tanah miskin nitrogen (seperti Venus flytrap) mengkompensasi dengan memakan serangga."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada burung yang memakan biji-biji buah. Ini adalah contoh hubungan antara burung dan tanaman berupa...",
+    "pilihan": [
+      "Parasitisme",
+      "Mutualisme",
+      "Predasi",
+      "Komensalisme"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Predasi = hubungan di mana satu organisme (predator/pemangsa) memakan organisme lain (mangsa). Burung memakan biji = predator/konsumen, biji adalah mangsa. Ini berbeda dari mutualisme."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada pohon mangga yang menghasilkan buah setelah berbunga. Pembentukan buah terjadi setelah proses...",
+    "pilihan": [
+      "Fotosintesis",
+      "Pembuahan (fertilisasi)",
+      "Perkecambahan",
+      "Transpirasi"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Pembuahan (fertilisasi) = penyatuan sel sperma (dari serbuk sari) dengan sel telur (di dalam bakal biji). Setelah fertilisasi: bakal biji berkembang menjadi biji, bakal buah berkembang menjadi buah."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Siswa mengamati berbagai tumbuhan di kebun. Tumbuhan yang berkembang biak dengan spora (bukan biji) adalah...",
+    "pilihan": [
+      "Mangga",
+      "Padi",
+      "Pakis/Tumbuhan paku",
+      "Jagung"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Tumbuhan paku (Pteridophyta) berkembang biak dengan spora. Spora adalah sel reproduksi kecil di bawah daun (sorus). Tumbuhan berbiji (Spermatophyta) seperti mangga, padi, jagung berkembang biak dengan biji."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada kolam ikan. Ikan bernapas menggunakan insang untuk menyerap... yang larut dalam air.",
+    "pilihan": [
+      "Karbondioksida",
+      "Nitrogen",
+      "Oksigen",
+      "Hidrogen"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Insang ikan menyaring oksigen (O₂) yang terlarut dalam air. Air masuk dari mulut → melewati insang → O₂ diserap masuk ke darah → CO₂ dari darah dilepas ke air. Ini adalah respirasi eksternal ikan."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Petani kebun mengamati bahwa tanaman yang kekurangan cahaya matahari memiliki batang yang pucat dan memanjang. Fenomena ini disebut...",
+    "pilihan": [
+      "Plagiotropisme",
+      "Etiolasi",
+      "Dorsiventralitas",
+      "Nasti"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Etiolasi adalah pertumbuhan abnormal tanaman akibat kekurangan cahaya: batang memanjang cepat tapi lemah dan pucat (klorosis). Ini upaya tanaman 'mencari' cahaya untuk fotosintesis."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun penelitian, ilmuwan mempelajari daur nitrogen. Bakteri yang mengubah nitrogen bebas (N₂) dari udara menjadi senyawa yang bisa diserap tanaman disebut bakteri...",
+    "pilihan": [
+      "Nitrifikasi",
+      "Denitrifikasi",
+      "Pengikat nitrogen (fiksasi)",
+      "Pembusuk"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Bakteri pengikat nitrogen (fiksasi N₂) seperti Rhizobium (di akar legum) dan Azotobacter mengubah N₂ dari udara menjadi NH₃ atau nitrat yang bisa diserap tanaman. Penting untuk kesuburan tanah."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada berbagai serangga. Lalat termasuk ordo Diptera (dua sayap). Contoh hewan Diptera lainnya adalah...",
+    "pilihan": [
+      "Lebah",
+      "Nyamuk",
+      "Kupu-kupu",
+      "Kumbang"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Diptera = hewan dengan 2 sayap fungsional: lalat dan nyamuk. Lebah dan kumbang punya 4 sayap (ordo berbeda). Kupu-kupu juga 4 sayap (Lepidoptera). Nyamuk = Diptera, sama seperti lalat."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di pinggir kebun ada pohon bambu yang tumbuh dari batang bawah tanah (rhizoma). Rhizoma adalah...",
+    "pilihan": [
+      "Akar yang menyimpan makanan",
+      "Batang yang tumbuh horizontal di bawah tanah",
+      "Daun yang berubah fungsi",
+      "Tunas yang muncul dari bunga"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Rhizoma adalah batang yang tumbuh horizontal di bawah tanah dan menghasilkan tunas baru. Contoh: bambu, jahe, kunyit, lengkuas. Berbeda dengan umbi akar (wortel) dan umbi batang (kentang)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Peneliti kebun menemukan bakteri menguntungkan di nodula akar kacang-kacangan. Bakteri ini memiliki hubungan simbiosis mutualisme dengan tanaman karena...",
+    "pilihan": [
+      "Bakteri mengambil gula dari tanaman tanpa memberi manfaat",
+      "Bakteri mengikat nitrogen udara untuk tanaman, tanaman memberi gula pada bakteri",
+      "Bakteri melindungi tanaman dari hama",
+      "Bakteri mengurai tanah menjadi mineral"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Bakteri Rhizobium di nodula akar legum (kacang): mengikat N₂ dari udara menjadi ammonia untuk tanaman. Tanaman memberi gula (hasil fotosintesis) pada bakteri. Keduanya diuntungkan = mutualisme."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Anak-anak bermain di kebun dan menemukan siput. Siput termasuk filum...",
+    "pilihan": [
+      "Arthropoda",
+      "Annelida",
+      "Mollusca",
+      "Echinodermata"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Mollusca = hewan bertubuh lunak, biasanya bercangkang. Contoh: siput, keong, cumi, gurita, kerang. Arthropoda = berbuku-buku (serangga, laba-laba). Annelida = cacing bersegmen."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada berbagai jenis akar. Tanaman singkong memiliki akar yang membesar karena menyimpan cadangan makanan. Jenis akar ini disebut...",
+    "pilihan": [
+      "Akar gantung",
+      "Akar napas",
+      "Akar tunggang biasa",
+      "Akar umbi"
+    ],
+    "jawaban": 3,
+    "penjelasan": "Akar umbi adalah akar yang mengalami modifikasi untuk menyimpan cadangan makanan (amilum). Contoh: singkong, wortel, lobak, bit. Tidak sama dengan umbi batang (kentang, ubi jalar)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada tanaman kaktus dan tanaman eceng gondok yang hidup di kolam. Ini menunjukkan bahwa makhluk hidup beradaptasi terhadap...",
+    "pilihan": [
+      "Predator saja",
+      "Lingkungan hidupnya (habitat)",
+      "Mangsa saja",
+      "Musim saja"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Makhluk hidup beradaptasi terhadap lingkungan hidupnya (habitat). Kaktus adaptasi di gurun (kering), eceng gondok adaptasi di air. Adaptasi = ciri-ciri yang membantu organisme bertahan di habitatnya."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Petani kebun mengamati pertumbuhan tanaman. Faktor dalam (internal) yang mempengaruhi pertumbuhan tanaman adalah...",
+    "pilihan": [
+      "Curah hujan",
+      "Intensitas cahaya",
+      "Hormon tumbuhan (auksin, giberelin)",
+      "Jenis tanah"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Faktor internal = dari dalam tanaman: gen (faktor keturunan) dan hormon (auksin, giberelin, sitokinin, dll). Faktor eksternal = dari luar: cahaya, air, suhu, nutrisi, tanah."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ditemukan batu yang terasa berat. Jika batu itu memiliki massa 600 gram dan volumenya 200 cm³, berapa massa jenisnya?",
+    "pilihan": [
+      "0,33 g/cm³",
+      "3 g/cm³",
+      "120.000 g/cm³",
+      "400 g/cm³"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Massa jenis (ρ) = massa / volume = 600 g / 200 cm³ = 3 g/cm³. Air memiliki massa jenis 1 g/cm³, jadi batu ini lebih padat dari air dan akan tenggelam."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Siswa mengamati proses penyebaran biji di kebun. Biji dandelion yang terbawa angin adalah contoh penyebaran biji dengan bantuan...",
+    "pilihan": [
+      "Air (hidrokori)",
+      "Angin (anemokori)",
+      "Hewan (zookori)",
+      "Sendiri (autokori)"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Anemokori = penyebaran biji oleh angin. Ciri biji: ringan, bersayap atau berbulu halus. Contoh: dandelion, mahoni, kapas. Hidrokori = oleh air (kelapa). Zookori = oleh hewan."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada tanaman yang berduri. Duri pada tanaman mawar berasal dari modifikasi...",
+    "pilihan": [
+      "Akar",
+      "Batang/kulit batang",
+      "Daun",
+      "Bunga"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Duri mawar adalah tonjolan dari permukaan batang (epidermis batang yang mengeras). Berbeda dengan duri sejati yang berasal dari modifikasi daun (kaktus) atau batang (jeruk). Fungsinya melindungi dari herbivora."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada kolam dengan berbagai organisme air. Organisme yang mampu membuat makanan sendiri dengan fotosintesis dalam air kolam adalah...",
+    "pilihan": [
+      "Ikan",
+      "Katak",
+      "Fitoplankton/ganggang",
+      "Cacing air"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Fitoplankton (plankton nabati) dan ganggang adalah organisme fotosintetik di air yang berfungsi sebagai produsen dalam ekosistem perairan. Mereka menghasilkan O₂ dan menjadi makanan konsumen pertama."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Petani menyemprot tanaman dengan air dingin saat matahari terik. Mengapa hal ini dapat merusak daun tanaman?",
+    "pilihan": [
+      "Air dingin mengandung racun",
+      "Perbedaan suhu mendadak menyebabkan kerusakan sel (stres termal)",
+      "Air menghalangi fotosintesis",
+      "Tanaman tidak membutuhkan air saat panas"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Menyiram dengan air dingin saat terik menyebabkan perbedaan suhu mendadak (stres termal) yang dapat merusak sel daun. Lebih baik menyiram di pagi atau sore hari saat suhu lebih rendah."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada pohon yang memiliki akar gantung dari batangnya. Akar gantung berfungsi untuk...",
+    "pilihan": [
+      "Menyerap mineral dari dalam tanah",
+      "Menyerap oksigen dan air dari udara, serta memperkuat pohon",
+      "Melakukan fotosintesis",
+      "Menyimpan cadangan air"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Akar gantung (akar adventif udara) pada pohon beringin berfungsi: menyerap uap air dan oksigen dari udara, serta memberi penyangga tambahan bagi pohon besar. Jika menyentuh tanah, akar ini akan menyerap mineral."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di sudut kebun ada lumut yang tumbuh di atas batu lembap. Lumut termasuk divisi Bryophyta. Ciri khas lumut yang membedakannya dari tumbuhan tingkat tinggi adalah...",
+    "pilihan": [
+      "Memiliki akar sejati",
+      "Tidak memiliki pembuluh angkut (xilem/floem)",
+      "Berkembang biak dengan biji",
+      "Memiliki bunga"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Lumut (Bryophyta) tidak memiliki jaringan pembuluh (xilem dan floem) sehingga air dan nutrisi hanya berdifusi. Karena itu lumut hidup di tempat lembap dan bertubuh kecil. Tumbuhan berbiji dan paku punya pembuluh."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Siswa di kebun mengamati pertumbuhan jamur pada roti busuk. Cara jamur mendapatkan makanan adalah dengan...",
+    "pilihan": [
+      "Fotosintesis dengan klorofil",
+      "Menyerap zat organik dari substrat (saproba)",
+      "Berburu serangga seperti karnivora",
+      "Simbiosis obligat dengan tumbuhan"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Jamur adalah saprofit/saproba: mendapat makanan dengan mengeluarkan enzim pencerna ke substrat lalu menyerap hasilnya. Jamur tidak bisa fotosintesis (tidak punya klorofil). Peran penting sebagai dekomposer."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada berbagai makhluk hidup. Salah satu ciri makhluk hidup yang membedakannya dari benda mati adalah...",
+    "pilihan": [
+      "Bisa bergerak (benda mati pun bisa bergerak karena angin)",
+      "Bereaksi terhadap rangsang (iritabilitas)",
+      "Memiliki bentuk yang pasti",
+      "Terbuat dari bahan organik"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Ciri makhluk hidup: bernafas, bergerak, tumbuh, reproduksi, ekskresi, nutrisi, dan iritabilitas (bereaksi terhadap rangsang). Iritabilitas adalah ciri khas: tanaman menutup daun saat disentuh (putri malu)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Petani mengamati bahwa buah yang sudah matang rasanya manis karena mengandung gula. Glukosa hasil fotosintesis diubah menjadi fruktosa dan sukrosa melalui proses metabolisme di...",
+    "pilihan": [
+      "Akar tanaman",
+      "Seluruh jaringan tanaman",
+      "Daun saja",
+      "Bunga saja"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Glukosa hasil fotosintesis di daun diangkut oleh floem ke seluruh bagian tanaman dan dapat diubah menjadi sukrosa (gula tebu) untuk transport, fruktosa di buah, atau pati untuk penyimpanan."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada berbagai hewan berdarah dingin (poikiloterm). Yang dimaksud berdarah dingin adalah...",
+    "pilihan": [
+      "Suhu tubuhnya selalu rendah/dingin",
+      "Suhu tubuhnya mengikuti suhu lingkungan",
+      "Hewan yang hanya hidup di lingkungan dingin",
+      "Hewan yang tidak membutuhkan matahari"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Poikiloterm (berdarah dingin) = suhu tubuh mengikuti suhu lingkungan sekitar. Contoh: ular, katak, ikan, buaya. Homoiterm (berdarah panas) = suhu tubuh konstan: burung, mamalia."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Peneliti mengukur pH tanah di kebun. Nilai pH netral adalah...",
+    "pilihan": [
+      "0",
+      "7",
+      "14",
+      "10"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Skala pH: 0-6 = asam, 7 = netral, 8-14 = basa. Tanah netral (pH 6,5-7,5) cocok untuk kebanyakan tanaman. Air murni pH = 7. Cuka = pH 3 (asam). Sabun = pH 9-10 (basa)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ditemukan hewan bercangkang spiral yang berjalan dengan kaki perut. Hewan ini adalah...",
+    "pilihan": [
+      "Udang",
+      "Siput darat (Gastropoda)",
+      "Laba-laba",
+      "Belalang"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Siput darat termasuk kelas Gastropoda (kaki perut), filum Mollusca. Ciri: cangkang spiral, bergerak dengan kaki otot yang pipih dan lebar. Mengeluarkan lendir untuk meluncur."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Petani kebun mencangkok tanaman jeruk dengan membungkus luka batang dengan tanah basah. Keuntungan mencangkok dibanding menanam biji adalah...",
+    "pilihan": [
+      "Tanaman lebih kuat",
+      "Tanaman baru cepat berbuah dan sifatnya sama dengan induk",
+      "Menghasilkan tanaman yang lebih beragam",
+      "Lebih murah dari menanam biji"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Keuntungan cangkok: (1) sifat keturunan sama persis dengan induk (termasuk kualitas buah), (2) lebih cepat berbuah karena sudah dewasa. Kelemahan: akarnya tidak sekuat tanaman dari biji."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada tanaman putri malu (Mimosa pudica) yang menutup daunnya saat disentuh. Gerakan ini disebut...",
+    "pilihan": [
+      "Tropisme",
+      "Taksis",
+      "Nasti (Seismonasti)",
+      "Nutasi"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Nasti = gerakan tumbuhan karena rangsang dari luar, namun arahnya tidak ditentukan oleh arah datang rangsang. Seismonasti = nasti karena rangsang getaran/sentuhan. Terjadi karena perubahan tekanan turgor cepat di pangkal daun."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Penjaga kebun menjelaskan daur hidup kupu-kupu kepada siswa. Setelah menjadi imago (kupu-kupu dewasa), tahap selanjutnya dalam siklus hidupnya adalah...",
+    "pilihan": [
+      "Menjadi pupa kembali",
+      "Bertelur dan siklus dimulai lagi",
+      "Menjadi larva lagi",
+      "Mati tanpa bereproduksi"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Setelah menjadi imago (dewasa), kupu-kupu kawin dan betina bertelur. Telur → Larva (ulat) → Pupa (kepompong) → Imago → bertelur lagi. Siklus ini berlanjut terus (metamorfosis sempurna)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada pohon kelapa yang menghasilkan buah. Buah kelapa disebarkan oleh air (hidrokori). Ciri buah yang disebarkan air adalah...",
+    "pilihan": [
+      "Ringan, bersayap, dan banyak mengandung serat udara",
+      "Berdaging, manis, dan berwarna cerah untuk menarik hewan",
+      "Tahan air, mengandung banyak serat dan ruang udara agar mengapung",
+      "Memiliki kait untuk menempel pada bulu hewan"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Buah/biji yang disebarkan air memiliki ciri: tahan air, lapisan sabut/serat melindungi biji, mengandung ruang udara agar bisa mengapung dan terbawa arus. Contoh: kelapa, nyamplung, bakau."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di sudut kebun ada batu besar yang ditumbuhi lumut. Lumut merupakan pelopor (pioneer) dalam proses suksesi ekosistem karena...",
+    "pilihan": [
+      "Lumut adalah tanaman tertinggi di ekosistem",
+      "Lumut bisa tumbuh di tempat ekstrem dan mempersiapkan lahan untuk organisme lain",
+      "Lumut menghasilkan oksigen terbanyak",
+      "Lumut tidak membutuhkan air sama sekali"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Lumut adalah organisme pelopor (pioneer) karena mampu tumbuh di batu gundul. Lumut menguraikan batu menjadi tanah dan menambah bahan organik, sehingga tanaman lain bisa tumbuh. Ini adalah awal suksesi ekosistem."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Ilmuwan kebun menjelaskan tentang seleksi alam. Konsep seleksi alam menyatakan bahwa...",
+    "pilihan": [
+      "Semua individu dalam populasi mati pada saat bersamaan",
+      "Individu dengan sifat yang menguntungkan lebih berpeluang bertahan dan bereproduksi",
+      "Evolusi terjadi sangat cepat dalam satu generasi",
+      "Lingkungan tidak mempengaruhi kelangsungan hidup"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Seleksi alam (Charles Darwin): individu dengan sifat yang lebih cocok dengan lingkungan ('survival of the fittest') lebih berpeluang bertahan hidup dan mewariskan sifatnya ke keturunan. Ini mekanisme evolusi."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada tanaman yang mengeluarkan bau tidak sedap untuk menarik lalat sebagai penyerbuk. Ini adalah adaptasi...",
+    "pilihan": [
+      "Morfologi",
+      "Fisiologi",
+      "Tingkah laku",
+      "Biokimia"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Adaptasi fisiologi = penyesuaian pada fungsi/proses tubuh (kimia/biologi). Mengeluarkan bau adalah proses fisiologis (produksi senyawa kimia). Contoh: bunga Rafflesia berbau busuk untuk menarik lalat penyerbuk."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada berbagai kelompok hewan. Hewan yang termasuk Reptilia ditandai dengan ciri...",
+    "pilihan": [
+      "Berbulu dan berdarah panas",
+      "Bersisik, berdarah dingin, dan bertelur bercangkang keras",
+      "Bernafas dengan insang",
+      "Memiliki 6 kaki"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Reptilia (reptil): bersisik, berdarah dingin (poikiloterm), bertelur bercangkang keras, bernafas dengan paru-paru. Contoh: ular, buaya, kura-kura, cicak, iguana."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Petani kebun mengamati bahwa tanaman di dekat lampu taman tumbuh condong ke arah lampu. Ini disebabkan hormon tumbuhan yang menyebabkan pemanjangan sel di sisi yang lebih gelap, yaitu hormon...",
+    "pilihan": [
+      "Giberelin",
+      "Sitokinin",
+      "Auksin",
+      "Etilen"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Auksin adalah hormon pertumbuhan yang menyebabkan pemanjangan sel. Di sisi yang terkena cahaya, auksin bergerak ke sisi gelap, menyebabkan sisi gelap tumbuh lebih panjang → batang membengkok ke arah cahaya (fototropisme)."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada berbagai jenis tanah. Tanah yang paling subur untuk pertanian umumnya adalah tanah...",
+    "pilihan": [
+      "Pasir murni",
+      "Lempung berpasir (loam)",
+      "Tanah liat murni",
+      "Kerikil dan batu"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Tanah loam (lempung berpasir) adalah campuran pasir, liat, dan lanau yang ideal untuk pertanian: drainase baik, mampu menahan air dan nutrisi, gembur dan mudah diolah. Pasir murni terlalu porous, liat murni terlalu padat."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Siswa mengamati proses penyerapan air oleh akar melalui mekanisme osmosis. Osmosis adalah...",
+    "pilihan": [
+      "Perpindahan zat terlarut dari konsentrasi tinggi ke rendah",
+      "Perpindahan air dari larutan encer (konsentrasi rendah) ke larutan pekat (konsentrasi tinggi) melalui membran semipermeabel",
+      "Perpindahan semua zat melalui membran sel",
+      "Proses penyerapan cahaya oleh klorofil"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Osmosis = perpindahan pelarut (air) dari larutan encer (hipotonik) ke larutan pekat (hipertonik) melalui membran semipermeabel. Air tanah yang konsentrasinya lebih rendah dari cairan sel → masuk ke sel akar."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun penelitian, ilmuwan mempelajari fotosintesis. Persamaan kimia fotosintesis yang benar adalah...",
+    "pilihan": [
+      "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energi",
+      "6CO₂ + 6H₂O + cahaya → C₆H₁₂O₆ + 6O₂",
+      "CO₂ + H₂O → O₂ + glukosa (tanpa cahaya)",
+      "6O₂ + cahaya → C₆H₁₂O₆ + CO₂"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Fotosintesis: 6CO₂ + 6H₂O + energi cahaya → C₆H₁₂O₆ (glukosa) + 6O₂. Ini adalah proses anabolisme (membangun molekul kompleks dari sederhana). Respirasi adalah kebalikannya."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Petani kebun menanam jagung dengan teknik polikultur (banyak jenis tanaman). Keuntungan polikultur dibanding monokultur adalah...",
+    "pilihan": [
+      "Lebih mudah dipanen secara mekanik",
+      "Lebih tahan terhadap hama dan penyakit, menjaga kesuburan tanah",
+      "Menghasilkan panen lebih banyak per tanaman",
+      "Tidak membutuhkan pupuk sama sekali"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Polikultur (berbagai jenis tanaman) menguntungkan: keanekaragaman hayati lebih tinggi, hama sulit menyebar, beberapa tanaman dapat menyuburkan tanah (legum mengikat nitrogen). Monokultur = rentan hama dan menutup nutrisi tanah."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada batu kapur yang bereaksi dengan asam humus dari tanah. Batu kapur (CaCO₃) bereaksi dengan asam klorida (HCl) menghasilkan gelembung gas. Gas yang dihasilkan adalah...",
+    "pilihan": [
+      "Oksigen (O₂)",
+      "Hidrogen (H₂)",
+      "Karbon dioksida (CO₂)",
+      "Nitrogen (N₂)"
+    ],
+    "jawaban": 2,
+    "penjelasan": "CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂. Gas gelembung yang dihasilkan adalah karbon dioksida (CO₂). Ini adalah reaksi antara basa/garam karbonat dengan asam yang menghasilkan CO₂."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Di kebun ada sumber air bersih. Ciri-ciri air bersih yang layak minum secara fisik adalah...",
+    "pilihan": [
+      "Tidak berwarna, tidak berbau, tidak berasa, dan jernih",
+      "Berwarna biru dan terasa segar",
+      "Berbau klorin ringan dan berwarna putih susu",
+      "Tidak perlu dimasak karena sudah dari mata air"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Air bersih secara fisik: tidak berwarna (jernih), tidak berbau, tidak berasa, dan bebas partikel tersuspensi. Syarat kimia: bebas zat berbahaya. Syarat biologi: bebas kuman patogen."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Tumbuhan yang menghasilkan biji terbungkus buah (biji tertutup) disebut...",
+    "pilihan": [
+      "Gymnospermae",
+      "Angiospermae",
+      "Pteridophyta",
+      "Bryophyta"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Angiospermae = tumbuhan berbiji tertutup (biji di dalam buah). Contoh: mangga, rambutan, padi. Gymnospermae = berbiji terbuka. Contoh: pinus, melinjo."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Bagian bunga yang berfungsi sebagai alat kelamin betina adalah...",
+    "pilihan": [
+      "Benang sari",
+      "Mahkota",
+      "Putik",
+      "Kelopak"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Putik adalah alat kelamin betina pada bunga. Terdiri dari: kepala putik (stigma), tangkai putik (stilus), dan bakal buah (ovarium) yang berisi bakal biji."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Faktor yang MEMPERCEPAT penguapan air adalah...",
+    "pilihan": [
+      "Suhu rendah",
+      "Tekanan udara tinggi",
+      "Suhu tinggi dan angin kencang",
+      "Kelembapan udara tinggi"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Penguapan dipercepat oleh: suhu tinggi, angin kencang (membawa uap air pergi), permukaan luas, dan kelembapan udara rendah."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Akar tanaman tumbuh menuju air di dalam tanah. Gerak ini disebut...",
+    "pilihan": [
+      "Fototropisme",
+      "Geotropisme",
+      "Hidrotropisme",
+      "Tigmotropisme"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Hidrotropisme = gerak tumbuhan menuju atau menjauhi air. Akar tumbuh ke arah air = hidrotropisme positif. Fototropisme = respons terhadap cahaya."
+  },
+  {
+    "mapel": "IPA",
+    "soal": "Ciri organisme yang termasuk kelompok fungi (jamur) adalah...",
+    "pilihan": [
+      "Memiliki klorofil dan bisa berfotosintesis",
+      "Tidak memiliki klorofil, dinding sel dari kitin, heterotrof",
+      "Bersel satu dan memiliki flagela",
+      "Berkembang biak dengan spora dan memiliki akar sejati"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Ciri fungi: tidak punya klorofil (tidak bisa fotosintesis), dinding sel dari kitin, heterotrof (saprofit/parasit), berkembang biak dengan spora."
   }
 ]

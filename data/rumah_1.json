@@ -4,69 +4,209 @@
     "soal": "Ayah Dika menunjuk peta Indonesia di dinding ruang keluarga. Berdasarkan letak geografis, Indonesia diapit oleh dua samudra yaitu...",
     "pilihan": ["Samudra Hindia dan Samudra Pasifik", "Samudra Atlantik dan Samudra Hindia", "Samudra Pasifik dan Samudra Arktik", "Samudra Antartika dan Samudra Pasifik"],
     "jawaban": 0,
-    "penjelasan": "Secara geografis, Indonesia terletak di antara Samudra Hindia (sebelah barat dan selatan) dan Samudra Pasifik (sebelah utara dan timur). Posisi ini membuat Indonesia memiliki iklim tropis dan kaya sumber daya laut."
+    "penjelasan": "Secara geografis, Indonesia terletak di antara Samudra Hindia (barat dan selatan) dan Samudra Pasifik (utara dan timur). Posisi ini membuat Indonesia kaya sumber daya laut."
   },
   {
     "mapel": "IPS",
     "soal": "Saat berkunjung ke rumah nenek di Yogyakarta, Rina menonton pertunjukan wayang kulit semalam suntuk. Wayang kulit merupakan seni budaya yang berasal dari daerah...",
     "pilihan": ["Bali", "Jawa", "Sumatra", "Kalimantan"],
     "jawaban": 1,
-    "penjelasan": "Wayang kulit adalah seni pertunjukan tradisional yang berasal dari Jawa (khususnya Jawa Tengah dan Yogyakarta). Wayang kulit telah diakui UNESCO sebagai Warisan Budaya Tak Benda pada tahun 2003."
+    "penjelasan": "Wayang kulit adalah seni pertunjukan tradisional yang berasal dari Jawa (khususnya Jawa Tengah dan Yogyakarta). Wayang kulit diakui UNESCO sebagai Warisan Budaya Tak Benda pada 2003."
   },
   {
     "mapel": "IPS",
     "soal": "Bu Dewi mengajar Dani di rumah tentang kewajiban warga negara. Manakah yang BUKAN merupakan kewajiban warga negara Indonesia?",
     "pilihan": ["Membayar pajak", "Menaati hukum yang berlaku", "Dipilih menjadi presiden", "Membela negara"],
     "jawaban": 2,
-    "penjelasan": "Dipilih menjadi presiden adalah hak, bukan kewajiban, dan hanya berlaku bagi warga negara yang memenuhi syarat. Kewajiban warga negara antara lain: membayar pajak, menaati hukum, membela negara, dan menghormati hak orang lain."
+    "penjelasan": "Dipilih menjadi presiden adalah hak, bukan kewajiban, dan hanya berlaku bagi warga negara yang memenuhi syarat. Kewajiban: membayar pajak, menaati hukum, membela negara."
   },
   {
     "mapel": "IPS",
-    "soal": "Di rumah, keluarga Pak Budi berdiskusi tentang harga sembako yang terus naik setiap bulan. Naiknya harga barang secara umum dan terus-menerus dalam jangka waktu tertentu disebut...",
+    "soal": "Di rumah, keluarga Pak Budi berdiskusi tentang harga sembako yang terus naik setiap bulan. Naiknya harga barang secara umum dan terus-menerus disebut...",
     "pilihan": ["Deflasi", "Inflasi", "Devaluasi", "Revaluasi"],
     "jawaban": 1,
-    "penjelasan": "Inflasi adalah kenaikan harga barang secara umum dan terus-menerus. Lawannya adalah deflasi (penurunan harga). Devaluasi adalah penurunan nilai mata uang oleh pemerintah, sedangkan revaluasi adalah kenaikannya."
+    "penjelasan": "Inflasi adalah kenaikan harga barang secara umum dan terus-menerus. Lawannya adalah deflasi (penurunan harga umum)."
   },
   {
     "mapel": "IPS",
     "soal": "Nenek membacakan cerita sejarah kepada cucu-cucunya di rumah. Ia menceritakan bahwa Proklamasi Kemerdekaan Indonesia dibacakan pada tanggal...",
     "pilihan": ["17 Agustus 1945", "20 Mei 1908", "28 Oktober 1928", "1 Juni 1945"],
     "jawaban": 0,
-    "penjelasan": "Proklamasi Kemerdekaan Indonesia dibacakan oleh Ir. Soekarno dan Drs. Mohammad Hatta pada 17 Agustus 1945 di Jalan Pegangsaan Timur No. 56, Jakarta. Tanggal ini diperingati sebagai Hari Kemerdekaan RI setiap tahunnya."
+    "penjelasan": "Proklamasi Kemerdekaan Indonesia dibacakan Soekarno-Hatta pada 17 Agustus 1945 di Jalan Pegangsaan Timur No. 56, Jakarta."
   },
   {
     "mapel": "IPS",
     "soal": "Kakak mengerjakan PR IPS di meja belajar tentang lembaga negara. Lembaga negara yang memiliki tugas utama membuat undang-undang di Indonesia adalah...",
     "pilihan": ["Presiden", "Mahkamah Agung", "DPR (Dewan Perwakilan Rakyat)", "BPK (Badan Pemeriksa Keuangan)"],
     "jawaban": 2,
-    "penjelasan": "DPR bertugas membuat undang-undang bersama Presiden, menyusun APBN, dan mengawasi jalannya pemerintahan. Mahkamah Agung bertugas di bidang peradilan, sedangkan BPK memeriksa pengelolaan keuangan negara."
+    "penjelasan": "DPR bertugas membuat undang-undang bersama Presiden, menyusun APBN, dan mengawasi jalannya pemerintahan."
   },
   {
     "mapel": "IPS",
     "soal": "Pak RT mengundang warga berkumpul di rumahnya untuk bermusyawarah memutuskan jadwal kerja bakti. Musyawarah untuk mufakat adalah pengamalan Pancasila sila ke-...",
     "pilihan": ["Sila ke-2", "Sila ke-3", "Sila ke-4", "Sila ke-5"],
     "jawaban": 2,
-    "penjelasan": "Sila ke-4: 'Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan.' Sila ini mengajarkan pengambilan keputusan secara musyawarah mufakat dan menghargai pendapat orang lain."
+    "penjelasan": "Sila ke-4: 'Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan.' Mengajarkan musyawarah mufakat dan menghargai pendapat orang lain."
   },
   {
     "mapel": "IPS",
     "soal": "Di peta dinding rumah, skala tertulis 1:500.000. Jarak dua kota pada peta adalah 4 cm. Berapa jarak sebenarnya antara dua kota tersebut?",
     "pilihan": ["2 km", "20 km", "200 km", "2.000 km"],
     "jawaban": 1,
-    "penjelasan": "Jarak sebenarnya = jarak di peta × skala = 4 cm × 500.000 = 2.000.000 cm = 20.000 m = 20 km. Skala 1:500.000 artinya 1 cm di peta mewakili 500.000 cm (= 5 km) jarak sebenarnya."
+    "penjelasan": "Jarak sebenarnya = jarak peta × skala = 4 cm × 500.000 = 2.000.000 cm = 20 km. Skala 1:500.000 berarti 1 cm di peta = 5 km sebenarnya."
   },
   {
     "mapel": "IPS",
-    "soal": "Adik bertanya kepada ibu, 'Apa pekerjaan yang langsung mengolah sumber daya alam?' Contoh mata pencaharian di sektor primer (sektor pertama) adalah...",
+    "soal": "Adik bertanya kepada ibu, 'Apa pekerjaan yang langsung mengolah sumber daya alam?' Contoh mata pencaharian di sektor primer adalah...",
     "pilihan": ["Guru", "Pedagang", "Petani", "Arsitek"],
     "jawaban": 2,
-    "penjelasan": "Sektor primer adalah kegiatan ekonomi yang langsung mengambil atau mengolah hasil alam, contoh: petani, nelayan, penambang, peternak. Sektor sekunder: industri/manufaktur. Sektor tersier: jasa (guru, pedagang, arsitek)."
+    "penjelasan": "Sektor primer langsung mengambil/mengolah hasil alam: petani, nelayan, penambang, peternak. Sektor sekunder: industri/manufaktur. Sektor tersier: jasa (guru, pedagang, arsitek)."
   },
   {
     "mapel": "IPS",
-    "soal": "Di rumah, ada pigura foto pahlawan. Tokoh yang dijuluki 'Bapak Pendidikan Nasional' dan lahir pada 2 Mei yang kini diperingati sebagai Hari Pendidikan Nasional adalah...",
+    "soal": "Di rumah, ada pigura foto pahlawan. Tokoh yang dijuluki 'Bapak Pendidikan Nasional' dan lahir pada 2 Mei adalah...",
     "pilihan": ["Ir. Soekarno", "Mohammad Hatta", "Ki Hajar Dewantara", "Jenderal Sudirman"],
     "jawaban": 2,
-    "penjelasan": "Ki Hajar Dewantara (Raden Mas Soewardi Soerjaningrat) adalah Bapak Pendidikan Nasional. Ia mendirikan Taman Siswa (1922) dan lahir 2 Mei 1889 — diperingati sebagai Hari Pendidikan Nasional. Semboyannya: 'Ing ngarsa sung tulada, ing madya mangun karsa, tut wuri handayani.'"
+    "penjelasan": "Ki Hajar Dewantara adalah Bapak Pendidikan Nasional. Ia mendirikan Taman Siswa (1922) dan lahir 2 Mei 1889 — diperingati sebagai Hari Pendidikan Nasional."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Adik melihat bendera Merah Putih di depan rumah. Warna merah pada bendera Indonesia melambangkan...",
+    "pilihan": ["Kemurnian dan kesucian", "Keberanian", "Kemakmuran", "Perdamaian"],
+    "jawaban": 1,
+    "penjelasan": "Pada bendera Indonesia, merah melambangkan keberanian dan putih melambangkan kesucian/kemurnian. Keduanya mencerminkan semangat perjuangan bangsa Indonesia."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Keluarga menonton berita tentang negara-negara tetangga. Negara yang berbatasan langsung dengan Indonesia di pulau Kalimantan adalah...",
+    "pilihan": ["Filipina", "Malaysia", "Singapura", "Brunei Darussalam"],
+    "jawaban": 1,
+    "penjelasan": "Malaysia berbatasan langsung dengan Indonesia di Kalimantan (perbatasan darat). Brunei Darussalam juga ada di Kalimantan tapi merupakan negara enclave. Singapura dan Filipina tidak berbatasan darat langsung."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Ibu menjelaskan jenis kebutuhan. Kebutuhan yang harus dipenuhi untuk bertahan hidup, seperti makan, minum, dan pakaian, disebut kebutuhan...",
+    "pilihan": ["Sekunder", "Tersier", "Primer", "Mewah"],
+    "jawaban": 2,
+    "penjelasan": "Kebutuhan primer (pokok) adalah kebutuhan mendasar untuk bertahan hidup: sandang (pakaian), pangan (makan), papan (tempat tinggal). Sekunder = keinginan tambahan. Tersier = kebutuhan mewah."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Ayah menunjukkan simbol pada peta dinding. Simbol yang menunjukkan kedalaman laut pada peta biasanya menggunakan warna...",
+    "pilihan": ["Hijau", "Cokelat", "Biru", "Merah"],
+    "jawaban": 2,
+    "penjelasan": "Warna biru pada peta menunjukkan perairan (laut, danau, sungai). Makin tua biru = makin dalam. Hijau = dataran rendah. Cokelat = pegunungan/dataran tinggi. Kuning = padang pasir."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Kakak menggambar peta Indonesia di rumah. Indonesia terdiri dari sekitar... pulau.",
+    "pilihan": ["5.000 pulau", "10.000 pulau", "17.000 pulau", "25.000 pulau"],
+    "jawaban": 2,
+    "penjelasan": "Indonesia adalah negara kepulauan terbesar di dunia dengan sekitar 17.000 pulau (sekitar 7.000 pulau berpenghuni). Lima pulau terbesar: Sumatra, Kalimantan, Sulawesi, Papua, Jawa."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Ibu menceritakan tentang pahlawan yang berjuang melawan penjajah. Pahlawan yang dikenal dengan strategi perang gerilya melawan Belanda adalah...",
+    "pilihan": ["Ir. Soekarno", "Jenderal Sudirman", "Ki Hajar Dewantara", "Cut Nyak Dien"],
+    "jawaban": 1,
+    "penjelasan": "Jenderal Sudirman memimpin perang gerilya melawan Belanda meski sedang sakit paru-paru berat. Ia disebut Panglima Besar TNI pertama Indonesia dan simbol keteguhan perjuangan."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Keluarga mendiskusikan kegiatan gotong royong di kampung. Gotong royong adalah pengamalan nilai Pancasila terutama sila ke-...",
+    "pilihan": ["Sila ke-1", "Sila ke-2", "Sila ke-3", "Sila ke-5"],
+    "jawaban": 2,
+    "penjelasan": "Gotong royong mencerminkan persatuan dan kebersamaan = sila ke-3 (Persatuan Indonesia). Gotong royong juga mencerminkan sila ke-4 (musyawarah) dan ke-5 (keadilan sosial)."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Nenek bercerita tentang organisasi pergerakan nasional. Organisasi pemuda pertama di Indonesia yang berdiri pada tahun 1908 adalah...",
+    "pilihan": ["Sarekat Islam", "Budi Utomo", "Perhimpunan Indonesia", "Indische Partij"],
+    "jawaban": 1,
+    "penjelasan": "Budi Utomo didirikan pada 20 Mei 1908 oleh Dr. Wahidin Sudirohusodo dan para mahasiswa STOVIA. Ini dianggap tonggak kebangkitan nasional sehingga 20 Mei diperingati sebagai Hari Kebangkitan Nasional."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Kakak mempelajari unsur-unsur peta di rumah. Unsur peta yang menjelaskan arti simbol-simbol yang digunakan pada peta disebut...",
+    "pilihan": ["Judul peta", "Skala peta", "Legenda/keterangan", "Orientasi/arah mata angin"],
+    "jawaban": 2,
+    "penjelasan": "Legenda (keterangan) adalah daftar simbol beserta artinya yang ada pada peta. Skala = perbandingan jarak peta dengan jarak nyata. Orientasi = petunjuk arah (biasanya panah utara)."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Ibu menjelaskan bentuk negara Indonesia. Indonesia adalah negara kesatuan yang berbentuk republik. Hal ini tercantum dalam UUD 1945 pasal...",
+    "pilihan": ["Pasal 1 ayat 1", "Pasal 1 ayat 2", "Pasal 2 ayat 1", "Pasal 3"],
+    "jawaban": 0,
+    "penjelasan": "UUD 1945 Pasal 1 ayat 1: 'Negara Indonesia ialah Negara Kesatuan, yang berbentuk Republik.' NKRI = Negara Kesatuan Republik Indonesia."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Dina belajar tentang kebutuhan. Kebutuhan yang berbeda-beda tergantung jenis kelamin, usia, dan selera seseorang termasuk faktor... yang mempengaruhi kebutuhan.",
+    "pilihan": ["Penghasilan", "Kodrat manusia/perbedaan individu", "Lingkungan alam", "Perkembangan zaman"],
+    "jawaban": 1,
+    "penjelasan": "Perbedaan individu (jenis kelamin, usia, selera, kebiasaan) mempengaruhi kebutuhan seseorang. Misalnya: ibu butuh pakaian berbeda dari ayah; anak kecil butuh susu, lansia butuh obat."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Ibu kota negara Indonesia adalah Jakarta. Namun sejak 2024, ibu kota resmi Indonesia mulai dipindahkan ke...",
+    "pilihan": ["Surabaya", "Bandung", "Nusantara (Kalimantan Timur)", "Makassar"],
+    "jawaban": 2,
+    "penjelasan": "Ibu kota baru Indonesia bernama Nusantara, berlokasi di Penajam Paser Utara, Kalimantan Timur. Pemindahan dilakukan bertahap. Jakarta tetap menjadi pusat bisnis dan ekonomi."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Ayah menonton berita tentang ASEAN. Sekretariat tetap ASEAN berkedudukan di kota...",
+    "pilihan": ["Bangkok, Thailand", "Manila, Filipina", "Jakarta, Indonesia", "Kuala Lumpur, Malaysia"],
+    "jawaban": 2,
+    "penjelasan": "Sekretariat ASEAN berkedudukan di Jakarta, Indonesia. Ini merupakan kebanggaan Indonesia sebagai salah satu pendiri dan anggota terbesar ASEAN. Sekretaris Jenderal ASEAN dipilih secara bergilir."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Di rumah kakek, ada foto pahlawan wanita. Pahlawan wanita dari Aceh yang terkenal gigih melawan Belanda adalah...",
+    "pilihan": ["Raden Ajeng Kartini", "Cut Nyak Dien", "Dewi Sartika", "Martha Christina Tiahahu"],
+    "jawaban": 1,
+    "penjelasan": "Cut Nyak Dien adalah pahlawan nasional wanita dari Aceh yang terus berjuang melawan Belanda meski dalam keadaan sakit dan usia tua. Ia dijuluki 'Singa Betina dari Aceh'."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Adik bertanya, 'Apa nama mata uang Indonesia?' Mata uang resmi Indonesia adalah...",
+    "pilihan": ["Dolar", "Ringgit", "Rupiah", "Baht"],
+    "jawaban": 2,
+    "penjelasan": "Rupiah (Rp) adalah mata uang resmi Indonesia, dikeluarkan oleh Bank Indonesia. Ringgit = Malaysia, Baht = Thailand, Dolar = Amerika Serikat/Singapura/Australia, dll."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Kakak mempelajari pembagian waktu Indonesia. Indonesia dibagi menjadi... zona waktu.",
+    "pilihan": ["2 zona waktu", "3 zona waktu", "4 zona waktu", "5 zona waktu"],
+    "jawaban": 1,
+    "penjelasan": "Indonesia dibagi 3 zona waktu: WIB (Waktu Indonesia Barat, UTC+7), WITA (Waktu Indonesia Tengah, UTC+8), WIT (Waktu Indonesia Timur, UTC+9). Ini karena Indonesia membentang dari barat ke timur."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Ibu membayar listrik dan air ke kantor PLN dan PDAM. Listrik dan air bersih termasuk contoh...",
+    "pilihan": ["Barang bebas", "Barang ekonomi", "Barang substitusi", "Barang komplementer"],
+    "jawaban": 1,
+    "penjelasan": "Barang ekonomi = barang yang memiliki nilai dan membutuhkan pengorbanan (uang/usaha) untuk mendapatkannya. Barang bebas = tersedia melimpah tanpa biaya (udara, sinar matahari)."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Keluarga menonton dokumenter tentang Sumpah Pemuda. Salah satu isi Sumpah Pemuda adalah mengakui bahasa persatuan yaitu...",
+    "pilihan": ["Bahasa Jawa", "Bahasa Melayu", "Bahasa Indonesia", "Bahasa Sunda"],
+    "jawaban": 2,
+    "penjelasan": "Isi Sumpah Pemuda ke-3: 'Kami putra-putri Indonesia menjunjung bahasa persatuan, Bahasa Indonesia.' Bahasa Indonesia dipilih sebagai pemersatu karena netral dan sudah digunakan luas."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Dina membantu ibu berbelanja di warung. Warung Bu Tini menjual berbagai kebutuhan sehari-hari. Bu Tini berperan sebagai...",
+    "pilihan": ["Produsen saja", "Konsumen saja", "Distributor saja", "Produsen sekaligus distributor"],
+    "jawaban": 2,
+    "penjelasan": "Bu Tini sebagai pemilik warung berperan sebagai distributor: ia membeli barang dari produsen/grosir lalu menjualnya ke konsumen. Ia bisa juga produsen jika membuat sendiri (seperti kue/jajanan)."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Di rumah ada atlas. Benua terluas di dunia adalah...",
+    "pilihan": ["Amerika", "Afrika", "Eropa", "Asia"],
+    "jawaban": 3,
+    "penjelasan": "Asia adalah benua terluas di dunia dengan luas sekitar 44,6 juta km². Urutan benua dari terluas: Asia > Amerika > Afrika > Antartika > Eropa > Australia/Oseania. Indonesia berada di benua Asia."
   }
 ]

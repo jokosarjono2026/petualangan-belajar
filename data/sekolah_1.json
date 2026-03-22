@@ -2,14 +2,24 @@
   {
     "mapel": "Matematika",
     "soal": "Bu Guru membawa 96 pensil untuk dibagikan rata kepada 8 kelompok belajar. Berapa pensil yang diterima setiap kelompok?",
-    "pilihan": ["10 pensil", "12 pensil", "14 pensil", "16 pensil"],
+    "pilihan": [
+      "10 pensil",
+      "12 pensil",
+      "14 pensil",
+      "16 pensil"
+    ],
     "jawaban": 1,
     "penjelasan": "96 ÷ 8 = 12. Pembagian: 8 × 12 = 96, jadi setiap kelompok mendapat 12 pensil."
   },
   {
     "mapel": "Matematika",
     "soal": "Di perpustakaan sekolah terdapat 24 buku Matematika dan 36 buku IPA. Pak Pustakawan ingin menyusunnya di rak dengan jumlah buku per rak sama. Berapa paling banyak buku per rak?",
-    "pilihan": ["6 buku", "8 buku", "12 buku", "18 buku"],
+    "pilihan": [
+      "6 buku",
+      "8 buku",
+      "12 buku",
+      "18 buku"
+    ],
     "jawaban": 2,
     "penjelasan": "FPB dari 24 dan 36 = 12. Berarti setiap rak bisa diisi 12 buku (2 rak Matematika, 3 rak IPA)."
   },
@@ -28,50 +38,1165 @@
   {
     "mapel": "Matematika",
     "soal": "Jadwal piket kelas A setiap 4 hari, kelas B setiap 6 hari. Hari ini keduanya piket bersamaan. Berapa hari lagi mereka piket bersamaan?",
-    "pilihan": ["8 hari", "10 hari", "12 hari", "24 hari"],
+    "pilihan": [
+      "8 hari",
+      "10 hari",
+      "12 hari",
+      "24 hari"
+    ],
     "jawaban": 2,
     "penjelasan": "KPK dari 4 dan 6 = 12. Kelipatan 4: 4,8,12... Kelipatan 6: 6,12... Keduanya bertemu di angka 12."
   },
   {
     "mapel": "Bahasa Indonesia",
     "soal": "Pak Guru berkata, 'Kalian harus rajin belajar agar meraih prestasi.' Antonim kata 'rajin' dalam kalimat tersebut adalah...",
-    "pilihan": ["Tekun", "Giat", "Malas", "Pandai"],
+    "pilihan": [
+      "Tekun",
+      "Giat",
+      "Malas",
+      "Pandai"
+    ],
     "jawaban": 2,
     "penjelasan": "Antonim = lawan kata. Lawan dari 'rajin' adalah 'malas'. Tekun dan giat adalah sinonim rajin."
   },
   {
     "mapel": "Matematika",
     "soal": "Suhu ruang kelas pagi hari 18°C. Siang hari naik 9°C, lalu sore hari turun 12°C. Suhu sore hari adalah...",
-    "pilihan": ["13°C", "15°C", "17°C", "21°C"],
+    "pilihan": [
+      "13°C",
+      "15°C",
+      "17°C",
+      "21°C"
+    ],
     "jawaban": 1,
     "penjelasan": "18 + 9 = 27°C (siang). 27 - 12 = 15°C (sore). Operasi bilangan bulat: tambah lalu kurang."
   },
   {
     "mapel": "Bahasa Indonesia",
     "soal": "Ketua OSIS menulis teks untuk upacara bendera. Sinonim kata 'semangat' yang paling tepat untuk teks resmi adalah...",
-    "pilihan": ["Garang", "Gairah", "Antusias", "Ribut"],
+    "pilihan": [
+      "Garang",
+      "Gairah",
+      "Antusias",
+      "Ribut"
+    ],
     "jawaban": 2,
     "penjelasan": "'Antusias' adalah sinonim 'semangat' yang tepat untuk konteks formal seperti teks upacara."
   },
   {
     "mapel": "Matematika",
     "soal": "Lapangan upacara sekolah berbentuk persegi panjang, panjang 45 m dan lebar 30 m. Berapa luas lapangan tersebut?",
-    "pilihan": ["1.200 m²", "1.350 m²", "1.500 m²", "1.800 m²"],
+    "pilihan": [
+      "1.200 m²",
+      "1.350 m²",
+      "1.500 m²",
+      "1.800 m²"
+    ],
     "jawaban": 1,
     "penjelasan": "Luas persegi panjang = panjang × lebar = 45 × 30 = 1.350 m²."
   },
   {
     "mapel": "Bahasa Indonesia",
     "soal": "Budi membuat paragraf tentang kantin sekolah. Kalimat yang berisi IDE POKOK paragraf disebut...",
-    "pilihan": ["Kalimat penjelas", "Kalimat utama", "Kalimat majemuk", "Kalimat perintah"],
+    "pilihan": [
+      "Kalimat penjelas",
+      "Kalimat utama",
+      "Kalimat majemuk",
+      "Kalimat perintah"
+    ],
     "jawaban": 1,
     "penjelasan": "Kalimat utama (kalimat topik) adalah kalimat yang mengandung ide pokok atau gagasan utama sebuah paragraf."
   },
   {
     "mapel": "Matematika",
     "soal": "Nilai ulangan Matematika 5 siswa: 70, 80, 75, 90, 85. Berapa nilai rata-rata kelas?",
-    "pilihan": ["78", "80", "82", "85"],
+    "pilihan": [
+      "78",
+      "80",
+      "82",
+      "85"
+    ],
     "jawaban": 1,
     "penjelasan": "Rata-rata = jumlah ÷ banyak data = (70+80+75+90+85) ÷ 5 = 400 ÷ 5 = 80."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di toko koperasi sekolah, harga 5 penggaris adalah Rp 12.500. Berapa harga 8 penggaris?",
+    "pilihan": [
+      "Rp 18.000",
+      "Rp 20.000",
+      "Rp 22.500",
+      "Rp 25.000"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Harga 1 penggaris = 12.500 ÷ 5 = Rp 2.500. Harga 8 penggaris = 2.500 × 8 = Rp 20.000."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Guru meminta siswa membuat kalimat perintah yang sopan untuk dipajang di kelas. Manakah kalimat perintah yang paling sopan?",
+    "pilihan": [
+      "Buang sampah sekarang!",
+      "Harap buang sampah pada tempatnya.",
+      "Kalian harus buang sampah!",
+      "Kenapa tidak buang sampah?"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Kalimat perintah yang sopan menggunakan kata 'harap', 'mohon', atau 'tolong'. 'Harap buang sampah pada tempatnya' lebih sopan dari kalimat perintah tanpa kata sapaan."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Keliling lapangan basket sekolah berbentuk persegi panjang adalah 56 m. Jika panjangnya 18 m, berapa lebarnya?",
+    "pilihan": [
+      "8 m",
+      "10 m",
+      "12 m",
+      "14 m"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Keliling = 2 × (panjang + lebar) → 56 = 2 × (18 + lebar) → 28 = 18 + lebar → lebar = 10 m."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Di perpustakaan, Rini menemukan kata 'absen' dalam kamus. Kata 'absen' memiliki arti...",
+    "pilihan": [
+      "Hadir di sekolah",
+      "Tidak hadir/tidak masuk",
+      "Terlambat masuk kelas",
+      "Pulang lebih awal"
+    ],
+    "jawaban": 1,
+    "penjelasan": "'Absen' berasal dari kata Inggris 'absent' yang berarti tidak hadir atau tidak ada. Daftar absen = daftar kehadiran/ketidakhadiran."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Siswa membeli 3 buku tulis seharga Rp 4.500 per buku dan 2 pensil seharga Rp 1.500 per pensil. Berapa total belanjanya?",
+    "pilihan": [
+      "Rp 13.500",
+      "Rp 15.000",
+      "Rp 16.500",
+      "Rp 18.000"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Total buku = 3 × Rp 4.500 = Rp 13.500. Total pensil = 2 × Rp 1.500 = Rp 3.000. Total = 13.500 + 3.000 = Rp 16.500."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Guru membacakan pengumuman: 'Seluruh siswa diharap berkumpul di aula pukul 08.00.' Tujuan kalimat tersebut adalah...",
+    "pilihan": [
+      "Menggambarkan suasana aula",
+      "Menyuruh/memerintah siswa untuk berkumpul",
+      "Bertanya tentang jadwal",
+      "Melarang siswa masuk aula"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Kalimat pengumuman ini bertujuan memerintah (imperatif) — meminta siswa untuk melakukan sesuatu (berkumpul). Kata 'diharap' adalah bentuk perintah yang halus/sopan."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Pak Guru menggambar segitiga sama sisi dengan panjang sisi 9 cm. Berapa keliling segitiga tersebut?",
+    "pilihan": [
+      "18 cm",
+      "24 cm",
+      "27 cm",
+      "36 cm"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Keliling segitiga sama sisi = 3 × panjang sisi = 3 × 9 = 27 cm. Semua sisi segitiga sama sisi memiliki panjang yang sama."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Saat lomba menulis di sekolah, Dian diminta membuat puisi. Ciri-ciri puisi yang membedakannya dari prosa adalah...",
+    "pilihan": [
+      "Ditulis dalam paragraf panjang",
+      "Menggunakan kalimat yang lengkap dengan subjek dan predikat",
+      "Terdiri dari baris dan bait, mengutamakan keindahan bahasa",
+      "Menceritakan peristiwa secara runtut"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Puisi terdiri dari baris dan bait, menggunakan bahasa yang padat, indah, dan bermakna kiasan. Prosa ditulis dalam kalimat dan paragraf biasa. Puisi mengutamakan irama, rima, dan estetika bahasa."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di kelas ada 16 siswa laki-laki dan 24 siswa perempuan. Berapa persen jumlah siswa laki-laki dari total siswa?",
+    "pilihan": [
+      "30%",
+      "40%",
+      "50%",
+      "60%"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Total siswa = 16 + 24 = 40. Persen laki-laki = (16 ÷ 40) × 100% = 0,4 × 100% = 40%."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Di kelas, guru menjelaskan kata berimbuhan. Imbuhan 'me-' pada kata 'membaca' berfungsi membentuk kata...",
+    "pilihan": [
+      "Kata benda",
+      "Kata kerja aktif",
+      "Kata sifat",
+      "Kata keterangan"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Imbuhan 'me-' umumnya membentuk kata kerja aktif transitif (memerlukan objek). Membaca = me- + baca. Kata kerja aktif: subjek melakukan pekerjaan (Andi membaca buku)."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di kantin sekolah ada 48 potong pizza yang dibagi rata ke 6 meja. Tiap meja berisi 4 siswa. Berapa potong pizza yang diterima setiap siswa?",
+    "pilihan": [
+      "1 potong",
+      "2 potong",
+      "3 potong",
+      "4 potong"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Pizza per meja = 48 ÷ 6 = 8 potong. Pizza per siswa = 8 ÷ 4 = 2 potong."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Siswa membaca teks di perpustakaan tentang cara merawat tanaman. Jenis teks ini adalah teks...",
+    "pilihan": [
+      "Narasi",
+      "Deskripsi",
+      "Prosedur",
+      "Argumentasi"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Teks prosedur berisi langkah-langkah atau cara melakukan sesuatu. Ciri: menggunakan kata kerja imperatif (siapkan, masukkan, aduk), kata urutan (pertama, kemudian, terakhir)."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Pak Guru menuliskan bilangan pecahan di papan: 3/4. Berapa nilai desimalnya?",
+    "pilihan": [
+      "0,34",
+      "0,70",
+      "0,75",
+      "0,80"
+    ],
+    "jawaban": 2,
+    "penjelasan": "3/4 = 3 ÷ 4 = 0,75. Cara lain: 3/4 = 75/100 = 0,75. Pecahan desimal: 1/4=0,25; 1/2=0,5; 3/4=0,75."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Siswa mendapat tugas membuat karangan deskripsi tentang ruang kelas. Karangan deskripsi yang baik bertujuan untuk...",
+    "pilihan": [
+      "Meyakinkan pembaca agar setuju dengan pendapat penulis",
+      "Menceritakan pengalaman secara runtut waktu",
+      "Menggambarkan keadaan objek sehingga pembaca seolah melihat sendiri",
+      "Menjelaskan langkah-langkah membuat sesuatu"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Karangan deskripsi menggambarkan suatu objek (tempat, benda, orang) secara detail dan hidup, menggunakan panca indra, sehingga pembaca merasa seolah-olah ada di sana."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Jam di dinding kelas menunjukkan pukul 07.45. Pukul berapa 2 jam 30 menit kemudian?",
+    "pilihan": [
+      "09.45",
+      "10.15",
+      "10.30",
+      "11.15"
+    ],
+    "jawaban": 1,
+    "penjelasan": "07.45 + 2 jam = 09.45. 09.45 + 30 menit = 10.15."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Saat lomba debat di sekolah, Andi berpendapat bahwa PR harus dihapuskan. Jenis tulisan yang berisi pendapat disertai alasan dan bukti disebut...",
+    "pilihan": [
+      "Narasi",
+      "Deskripsi",
+      "Eksposisi",
+      "Argumentasi"
+    ],
+    "jawaban": 3,
+    "penjelasan": "Argumentasi adalah karangan yang berisi pendapat/gagasan penulis disertai bukti dan alasan untuk meyakinkan pembaca. Berbeda dengan eksposisi yang hanya menjelaskan tanpa mempengaruhi."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Dalam ekskul matematika, siswa belajar bilangan prima. Manakah yang bukan bilangan prima di bawah 20?",
+    "pilihan": [
+      "7",
+      "11",
+      "13",
+      "15"
+    ],
+    "jawaban": 3,
+    "penjelasan": "Bilangan prima hanya punya 2 faktor (1 dan dirinya sendiri). 15 = 3 × 5 = bukan prima. 7, 11, 13 masing-masing hanya bisa dibagi 1 dan dirinya sendiri = prima."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Bu Guru meminta siswa menulis kata baku. Manakah penulisan kata yang benar (baku)?",
+    "pilihan": [
+      "Praktek",
+      "Hafal",
+      "Nasehat",
+      "Ijazah"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Kata baku sesuai KBBI: hafal (bukan hapal), praktik (bukan praktek), nasihat (bukan nasehat), ijazah (sudah baku). Pilihan B 'hafal' adalah bentuk yang benar."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di kelas ada papan tulis berbentuk persegi dengan panjang sisi 120 cm. Berapa kelilingnya?",
+    "pilihan": [
+      "240 cm",
+      "360 cm",
+      "480 cm",
+      "14.400 cm"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Keliling persegi = 4 × sisi = 4 × 120 = 480 cm. Luas persegi = sisi² = 120² = 14.400 cm²."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Siswa kelas 7 belajar tentang huruf kapital. Kalimat yang menggunakan huruf kapital dengan benar adalah...",
+    "pilihan": [
+      "kami belajar di SMP Negeri 3.",
+      "Kami belajar di smp negeri 3.",
+      "Kami belajar di SMP Negeri 3.",
+      "kami Belajar Di Smp Negeri 3."
+    ],
+    "jawaban": 2,
+    "penjelasan": "Huruf kapital digunakan di awal kalimat dan pada nama diri/institusi. 'Kami' (awal kalimat) dan 'SMP Negeri 3' (nama institusi) harus menggunakan huruf kapital."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Bu Guru memberi soal: Jika satu lusin pensil harganya Rp 18.000, berapa harga 4 pensil?",
+    "pilihan": [
+      "Rp 4.000",
+      "Rp 5.000",
+      "Rp 6.000",
+      "Rp 7.500"
+    ],
+    "jawaban": 2,
+    "penjelasan": "1 lusin = 12 pensil. Harga 1 pensil = 18.000 ÷ 12 = Rp 1.500. Harga 4 pensil = 1.500 × 4 = Rp 6.000."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Di sekolah, guru menjelaskan tanda baca. Tanda koma (,) digunakan untuk memisahkan...",
+    "pilihan": [
+      "Akhir kalimat berita",
+      "Rincian dalam sebuah kalimat",
+      "Kalimat perintah",
+      "Nama penulis di bawah karya"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Tanda koma digunakan untuk memisahkan: rincian (A, B, dan C), anak kalimat, keterangan tambahan. Titik (.) untuk akhir kalimat. Tanda seru (!) untuk kalimat perintah/seru."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di sekolah ada tangga dengan 15 anak tangga. Setiap anak tangga setinggi 20 cm. Berapa tinggi total tangga dalam meter?",
+    "pilihan": [
+      "0,3 m",
+      "3 m",
+      "30 m",
+      "300 m"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Tinggi total = 15 × 20 cm = 300 cm = 3 m. Konversi: 300 cm ÷ 100 = 3 m."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Pak Guru menjelaskan bahwa ada kata yang berlawanan makna. Pasangan antonim yang tepat adalah...",
+    "pilihan": [
+      "Besar — Lebar",
+      "Tinggi — Panjang",
+      "Senang — Sedih",
+      "Cepat — Gesit"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Antonim = kata yang berlawanan makna. Senang ↔ Sedih. Besar ↔ Kecil. Tinggi ↔ Rendah. Cepat ↔ Lambat. 'Besar-Lebar', 'Tinggi-Panjang', dan 'Cepat-Gesit' bukan pasangan antonim."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di ekskul memasak, siswa membuat 3 loyang kue. Setiap loyang dipotong menjadi 12 bagian. Berapa total potong kue yang dibuat?",
+    "pilihan": [
+      "30 potong",
+      "36 potong",
+      "40 potong",
+      "48 potong"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Total potong kue = 3 loyang × 12 potong = 36 potong kue."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Saat upacara, pembawa acara mengucapkan 'Hadirin yang kami hormati.' Kata 'kami' dalam kalimat ini digunakan karena...",
+    "pilihan": [
+      "Menunjuk satu orang saja",
+      "Menunjukkan bentuk sopan",
+      "Pembicara lebih dari satu orang atau orang pertama yang tidak menyertakan lawan bicara",
+      "Menunjuk lawan bicara"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Kata 'kami' = kata ganti orang pertama jamak (eksklusif): tidak menyertakan lawan bicara. Berbeda dengan 'kita' = inklusif (menyertakan lawan bicara juga). Pembawa acara mewakili panitia, bukan pendengar."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Pak Guru memiliki uang Rp 100.000. Ia membeli 3 buku seharga Rp 8.500 per buku. Sisa uangnya adalah...",
+    "pilihan": [
+      "Rp 72.500",
+      "Rp 74.500",
+      "Rp 75.500",
+      "Rp 76.500"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Total buku = 3 × Rp 8.500 = Rp 25.500. Sisa = 100.000 - 25.500 = Rp 74.500."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Siswa kelas 7 belajar tentang kata ulang. Kata 'sayur-mayur' termasuk kata ulang jenis...",
+    "pilihan": [
+      "Kata ulang murni",
+      "Kata ulang berimbuhan",
+      "Kata ulang berubah bunyi",
+      "Kata ulang sebagian"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Kata ulang berubah bunyi = kata yang diulang dengan perubahan bunyi. Sayur-mayur (s→m), bolak-balik, lauk-pauk, warna-warni. Kata ulang murni = persis sama: meja-meja, buku-buku."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Dalam kelas ada 30 siswa. Sepertiganya mendapat nilai di atas 80. Berapa siswa yang mendapat nilai di atas 80?",
+    "pilihan": [
+      "8 siswa",
+      "10 siswa",
+      "12 siswa",
+      "15 siswa"
+    ],
+    "jawaban": 1,
+    "penjelasan": "1/3 dari 30 = 30 ÷ 3 = 10 siswa mendapat nilai di atas 80."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Guru menjelaskan tentang paragraf. Paragraf yang kalimat utamanya ada di akhir disebut paragraf...",
+    "pilihan": [
+      "Deduktif",
+      "Induktif",
+      "Campuran",
+      "Deskriptif"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Paragraf induktif: kalimat utama di AKHIR, didahului kalimat-kalimat penjelas. Seolah menarik kesimpulan di akhir. Kebalikannya adalah paragraf deduktif (kalimat utama di awal)."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Siswa belajar tentang kelipatan persekutuan. KPK dari 8 dan 12 adalah...",
+    "pilihan": [
+      "16",
+      "24",
+      "32",
+      "48"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Kelipatan 8: 8, 16, 24, 32... Kelipatan 12: 12, 24, 36... KPK = kelipatan persekutuan terkecil = 24."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Di kelas, siswa belajar membuat kalimat. Kalimat 'Adik membeli buku di toko' memiliki pola kalimat...",
+    "pilihan": [
+      "S-P",
+      "S-P-O",
+      "S-P-O-K",
+      "K-S-P-O"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Adik (S) membeli (P) buku (O) di toko (K/keterangan tempat). Pola = S-P-O-K. S=subjek, P=predikat, O=objek, K=keterangan."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Dalam pelajaran geografi, siswa tahu bahwa 1 km = 1.000 m. Jarak rumah Adi ke sekolah adalah 2,5 km. Berapa meter jaraknya?",
+    "pilihan": [
+      "250 m",
+      "2.500 m",
+      "25.000 m",
+      "250.000 m"
+    ],
+    "jawaban": 1,
+    "penjelasan": "2,5 km × 1.000 = 2.500 m. Konversi: km → m dikali 1.000; m → km dibagi 1.000."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Pak Guru meminta siswa mencari kalimat tanya. Manakah kalimat tanya yang benar?",
+    "pilihan": [
+      "Andi pergi ke sekolah.",
+      "Tolong ambilkan buku itu!",
+      "Di mana kamu meletakkan pensil itu?",
+      "Sekolah kita sangat bersih."
+    ],
+    "jawaban": 2,
+    "penjelasan": "Kalimat tanya (interogatif) meminta informasi, biasanya diawali kata tanya (apa, siapa, di mana, mengapa, kapan, bagaimana) dan diakhiri tanda tanya (?). Pilihan A = berita, B = perintah, D = berita."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di laboratorium komputer, terdapat 5 baris meja. Setiap baris ada 6 komputer. Berapa total komputer di laboratorium?",
+    "pilihan": [
+      "25 komputer",
+      "30 komputer",
+      "35 komputer",
+      "36 komputer"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Total komputer = 5 baris × 6 komputer = 30 komputer. Perkalian sederhana: 5 × 6 = 30."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Saat pelajaran Bahasa Indonesia, guru menjelaskan kata sifat (adjektiva). Manakah yang merupakan kata sifat?",
+    "pilihan": [
+      "Berlari",
+      "Rumah",
+      "Bersih",
+      "Dengan"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Kata sifat (adjektiva) menerangkan kualitas/keadaan benda atau orang. 'Bersih' adalah kata sifat. Berlari = kata kerja (verba). Rumah = kata benda (nomina). Dengan = kata depan (preposisi)."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di kelas, guru menjelaskan FPB. FPB dari 18 dan 27 adalah...",
+    "pilihan": [
+      "3",
+      "6",
+      "9",
+      "18"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Faktor 18: 1,2,3,6,9,18. Faktor 27: 1,3,9,27. FPB (faktor persekutuan terbesar) = 9. Cara lain: 18 = 2×3², 27 = 3³. FPB = 3² = 9."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Siswa membuat ringkasan teks berita tentang lomba sains sekolah. Ringkasan yang baik harus...",
+    "pilihan": [
+      "Memuat semua detail dan informasi dari teks asli",
+      "Memuat ide pokok dan informasi penting dengan kalimat lebih singkat",
+      "Lebih panjang dari teks aslinya",
+      "Menggunakan kata-kata yang berbeda sama sekali dari teks asli"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Ringkasan (rangkuman) yang baik: memuat ide pokok dan informasi penting dari teks asli, ditulis lebih singkat dengan bahasa sendiri, tanpa menambah pendapat baru."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di kelas 7, ada ulangan harian. Nilai tertinggi 95, nilai terendah 55. Berapa selisih nilai tertinggi dan terendah (jangkauan data)?",
+    "pilihan": [
+      "30",
+      "40",
+      "45",
+      "50"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Jangkauan (range) = nilai tertinggi - nilai terendah = 95 - 55 = 40."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Lomba menulis cerita diadakan di sekolah. Tokoh dalam cerita yang berwatak baik dan menjadi pusat cerita disebut...",
+    "pilihan": [
+      "Antagonis",
+      "Tritagonis",
+      "Protagonis",
+      "Figuran"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Protagonis = tokoh utama berwatak baik, menjadi pusat cerita. Antagonis = tokoh yang berwatak jahat/melawan protagonis. Tritagonis = tokoh penengah. Figuran = tokoh pembantu/pelengkap."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di kelas, siswa belajar membandingkan pecahan. Manakah urutan pecahan dari yang terkecil ke terbesar: 1/2, 1/3, 3/4?",
+    "pilihan": [
+      "1/3, 1/2, 3/4",
+      "1/2, 1/3, 3/4",
+      "3/4, 1/2, 1/3",
+      "1/3, 3/4, 1/2"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Samakan penyebut: 1/3 = 4/12, 1/2 = 6/12, 3/4 = 9/12. Urutan terkecil ke terbesar: 4/12, 6/12, 9/12 = 1/3, 1/2, 3/4."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Di kelas, guru menjelaskan majas. Kalimat 'Sekolah kita adalah rumah kedua kita' menggunakan majas...",
+    "pilihan": [
+      "Simile",
+      "Hiperbola",
+      "Metafora",
+      "Personifikasi"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Metafora = perbandingan langsung tanpa kata 'seperti' atau 'bagaikan'. 'Sekolah adalah rumah kedua' membandingkan sekolah dengan rumah secara langsung. Simile menggunakan 'seperti' atau 'bagaikan'."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Bu Guru mengajarkan bilangan pangkat dua. Berapa nilai dari 7²?",
+    "pilihan": [
+      "14",
+      "21",
+      "42",
+      "49"
+    ],
+    "jawaban": 3,
+    "penjelasan": "7² = 7 × 7 = 49. Bilangan pangkat dua berarti dikali dirinya sendiri dua kali. Contoh: 1²=1, 2²=4, 3²=9, 4²=16, 5²=25, 6²=36, 7²=49."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Ketua kelas membacakan pengumuman dengan suara keras dan jelas. Dalam komunikasi, berbicara dengan jelas dan dapat didengar semua orang termasuk kemampuan...",
+    "pilihan": [
+      "Membaca nyaring",
+      "Berbicara efektif",
+      "Menulis persuasif",
+      "Menyimak kritis"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Berbicara efektif meliputi: volume suara yang tepat, lafal jelas, intonasi bervariasi, dan pesan tersampaikan dengan baik kepada pendengar. Ini adalah keterampilan berbicara (speaking skill)."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di sekolah, lonceng berbunyi setiap 45 menit. Jika pertama berbunyi pukul 07.00, pukul berapa lonceng berbunyi untuk ketiga kalinya?",
+    "pilihan": [
+      "08.15",
+      "08.30",
+      "08.45",
+      "09.00"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Pertama: 07.00. Kedua: 07.00 + 45 menit = 07.45. Ketiga: 07.45 + 45 menit = 08.30."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Pak Guru menjelaskan peribahasa. Peribahasa 'Bersatu kita teguh, bercerai kita runtuh' bermakna...",
+    "pilihan": [
+      "Kita harus selalu bersama ke mana saja",
+      "Persatuan membuat kita kuat, perpecahan melemahkan",
+      "Runtuhnya bangunan karena tidak dijaga",
+      "Teguh pendirian adalah hal yang penting"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Peribahasa 'Bersatu kita teguh, bercerai kita runtuh' menekankan pentingnya persatuan dan kerjasama. Jika bersatu, kita kuat; jika bercerai/berpisah, kita lemah dan mudah dikalahkan."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di perpustakaan ada 5 rak buku. Setiap rak memuat 80 buku. Berapa total buku di perpustakaan?",
+    "pilihan": [
+      "350 buku",
+      "380 buku",
+      "400 buku",
+      "450 buku"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Total buku = 5 rak × 80 buku = 400 buku."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Saat belajar tentang kosakata, guru menjelaskan kata berimbuhan. Kata 'keindahan' mendapat imbuhan...",
+    "pilihan": [
+      "ke-",
+      "ke-an",
+      "-an",
+      "in-"
+    ],
+    "jawaban": 1,
+    "penjelasan": "'Keindahan' = ke- + indah + -an (konfiks/imbuhan gabungan ke-an). Konfiks ke-an biasanya membentuk kata benda abstrak: kebaikan, kejujuran, keberhasilan."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di kelas, guru membagi siswa menjadi kelompok. Dari 35 siswa, dibentuk kelompok masing-masing 5 orang. Berapa banyak kelompok yang terbentuk?",
+    "pilihan": [
+      "5 kelompok",
+      "6 kelompok",
+      "7 kelompok",
+      "8 kelompok"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Jumlah kelompok = 35 ÷ 5 = 7 kelompok."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Di sekolah, siswa belajar jenis-jenis kalimat. Kalimat 'Alangkah indahnya halaman sekolah kita!' adalah kalimat...",
+    "pilihan": [
+      "Berita (deklaratif)",
+      "Tanya (interogatif)",
+      "Perintah (imperatif)",
+      "Seru (eksklamatif)"
+    ],
+    "jawaban": 3,
+    "penjelasan": "Kalimat seru (eksklamatif) mengungkapkan perasaan (kagum, kecewa, takut, dll) dan biasanya diakhiri tanda seru (!). Ciri: diawali 'Alangkah, Betapa, Sungguh...'"
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di kelas, siswa belajar menentukan besar sudut. Jarum jam menunjukkan pukul 03.00. Berapa besar sudut antara jarum panjang dan jarum pendek?",
+    "pilihan": [
+      "60°",
+      "75°",
+      "90°",
+      "120°"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Pukul 03.00: jarum panjang (menit) di angka 12, jarum pendek (jam) di angka 3. Setiap angka = 30°. Dari angka 12 ke 3 = 3 × 30° = 90°."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Siswa membaca teks narasi tentang pengalaman pertama kali tampil di pentas seni sekolah. Unsur yang TIDAK harus ada dalam teks narasi adalah...",
+    "pilihan": [
+      "Tokoh dan penokohan",
+      "Alur/urutan peristiwa",
+      "Latar (tempat, waktu, suasana)",
+      "Argumen dan fakta pendukung"
+    ],
+    "jawaban": 3,
+    "penjelasan": "Teks narasi berisi: tokoh, alur (kronologi peristiwa), latar (tempat/waktu/suasana), dan sudut pandang. Argumen dan fakta adalah ciri teks argumentasi/eksposisi, bukan narasi."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Siswa kelas 7 belajar tentang satuan berat. Tas sekolah Adi beratnya 2 kg 350 gram. Berapa gram berat tas tersebut?",
+    "pilihan": [
+      "235 gram",
+      "2.035 gram",
+      "2.350 gram",
+      "23.500 gram"
+    ],
+    "jawaban": 2,
+    "penjelasan": "2 kg = 2.000 gram. 2 kg 350 gram = 2.000 + 350 = 2.350 gram. Konversi: 1 kg = 1.000 gram."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Di kelas, guru menjelaskan perbedaan antara fakta dan opini. Manakah kalimat yang merupakan FAKTA?",
+    "pilihan": [
+      "Sekolah ini adalah yang terbaik di kota.",
+      "Guru-guru di sini sangat menyenangkan.",
+      "Sekolah ini berdiri pada tahun 2010.",
+      "Menurut saya, perpustakaan kita terlalu kecil."
+    ],
+    "jawaban": 2,
+    "penjelasan": "Fakta = pernyataan yang bisa dibuktikan kebenarannya (objek, dapat diverifikasi). 'Berdiri pada tahun 2010' bisa dicek kebenarannya. Opini = pendapat/penilaian subjektif: terbaik, menyenangkan, menurut saya."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di sekolah ada kegiatan menabung. Rina menabung Rp 5.000 per hari selama sebulan (30 hari). Berapa total tabungannya?",
+    "pilihan": [
+      "Rp 100.000",
+      "Rp 125.000",
+      "Rp 150.000",
+      "Rp 175.000"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Total tabungan = Rp 5.000 × 30 hari = Rp 150.000."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Siswa belajar tentang pantun. Pantun yang berisi nasihat atau pesan moral disebut pantun...",
+    "pilihan": [
+      "Jenaka",
+      "Muda-mudi",
+      "Nasehat",
+      "Teka-teki"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Jenis pantun berdasarkan isi: pantun nasihat (berisi pesan moral/pendidikan), pantun jenaka (humor), pantun muda-mudi (percintaan), pantun teka-teki (pertanyaan). Pantun nasehat sering dipakai dalam pendidikan."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Siswa kelas 7 belajar perkalian pecahan. Hasil dari 2/5 × 15 adalah...",
+    "pilihan": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "jawaban": 1,
+    "penjelasan": "2/5 × 15 = (2 × 15) / 5 = 30 / 5 = 6. Cara lain: 15 × 2/5 = 3 × 2 = 6 (karena 15/5 = 3 dulu)."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Guru menjelaskan tanda petik (\"). Tanda petik digunakan untuk...",
+    "pilihan": [
+      "Mengakhiri kalimat berita",
+      "Mengapit kalimat langsung atau judul karya/istilah khusus",
+      "Memisahkan anak kalimat dari induk kalimat",
+      "Menunjukkan perincian"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Tanda petik (\") digunakan untuk: mengapit kalimat langsung ('Selamat pagi,' kata guru), judul artikel/puisi/bab dalam tulisan, dan kata/istilah yang diperlakukan khusus."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di kelas, ada 3 papan pengumuman. Papan pertama berisi 12 lembar, papan kedua 15 lembar, papan ketiga 9 lembar. Berapa rata-rata lembar pengumuman per papan?",
+    "pilihan": [
+      "10 lembar",
+      "12 lembar",
+      "13 lembar",
+      "15 lembar"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Rata-rata = jumlah total ÷ banyak papan = (12 + 15 + 9) ÷ 3 = 36 ÷ 3 = 12 lembar."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Siswa membaca teks tentang sejarah sekolah. Kata 'mendirikan' memiliki makna yang sama dengan kata...",
+    "pilihan": [
+      "Menghancurkan",
+      "Meruntuhkan",
+      "Membangun",
+      "Memindahkan"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Sinonim 'mendirikan' = membangun, membuat, mengereksi. Berlawanan (antonim) = menghancurkan, meruntuhkan, merobohkan."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di kelas, ada kotak pensil berbentuk balok dengan panjang 20 cm, lebar 8 cm, tinggi 5 cm. Berapa volume kotak pensil tersebut?",
+    "pilihan": [
+      "600 cm³",
+      "800 cm³",
+      "820 cm³",
+      "1.600 cm³"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Volume balok = panjang × lebar × tinggi = 20 × 8 × 5 = 800 cm³."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Siswa kelas 7 membuat laporan kegiatan kunjungan perpustakaan. Bagian laporan yang berisi tujuan kegiatan terletak di bagian...",
+    "pilihan": [
+      "Penutup/Simpulan",
+      "Pendahuluan/Latar belakang",
+      "Pembahasan isi",
+      "Daftar pustaka"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Struktur laporan: Pendahuluan (latar belakang, tujuan, waktu/tempat) → Isi/Pembahasan (hasil kegiatan) → Penutup (simpulan dan saran) → Lampiran/Daftar pustaka."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Saat pelajaran matematika, guru bertanya: Jika x + 12 = 20, maka nilai x adalah...",
+    "pilihan": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "jawaban": 2,
+    "penjelasan": "x + 12 = 20 → x = 20 - 12 = 8. Cek: 8 + 12 = 20 ✓. Ini adalah persamaan linear satu variabel yang sederhana."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Pak Guru menjelaskan kata hubung (konjungsi). Kata hubung 'tetapi' menunjukkan hubungan...",
+    "pilihan": [
+      "Sebab-akibat",
+      "Penambahan",
+      "Pertentangan/perlawanan",
+      "Urutan waktu"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Konjungsi pertentangan: tetapi, namun, akan tetapi, padahal, sedangkan. Konjungsi penambahan: dan, serta. Konjungsi sebab: karena, sebab. Konjungsi urutan: kemudian, lalu, setelah itu."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di kelas olahraga, guru mengukur berat badan siswa. Rata-rata berat 4 siswa adalah 45 kg. Jika ditambah 1 siswa baru dengan berat 50 kg, berapa rata-rata berat badan sekarang?",
+    "pilihan": [
+      "45 kg",
+      "46 kg",
+      "47 kg",
+      "48 kg"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Total berat 4 siswa = 4 × 45 = 180 kg. Ditambah 50 kg = 230 kg. Rata-rata baru = 230 ÷ 5 = 46 kg."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Siswa diminta mencari sinonim untuk penulisan esai sekolah. Sinonim kata 'cerdas' yang paling tepat adalah...",
+    "pilihan": [
+      "Bodoh",
+      "Pandai",
+      "Ceroboh",
+      "Malas"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Sinonim 'cerdas' = pandai, pintar, brilian, cakap, inteligen. 'Bodoh' dan 'malas' adalah antonim. 'Ceroboh' tidak berhubungan."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di pelajaran IPS, siswa belajar tentang koordinat. Titik yang berada di koordinat (4, -3) terdapat di kuadran...",
+    "pilihan": [
+      "Kuadran I (+,+)",
+      "Kuadran II (-,+)",
+      "Kuadran III (-,-)",
+      "Kuadran IV (+,-)"
+    ],
+    "jawaban": 3,
+    "penjelasan": "Koordinat (4, -3): x = 4 (positif), y = -3 (negatif) → Kuadran IV. Kuadran I: (+,+). Kuadran II: (-,+). Kuadran III: (-,-). Kuadran IV: (+,-)."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Dalam kelas, ada diskusi tentang kalimat majemuk. Kalimat 'Andi belajar dan Budi bermain' adalah kalimat majemuk...",
+    "pilihan": [
+      "Setara dengan hubungan penguatan",
+      "Setara dengan hubungan penjumlahan",
+      "Bertingkat",
+      "Rapatan"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Kalimat majemuk setara dengan hubungan penjumlahan menggunakan konjungsi 'dan', 'serta', atau 'juga'. Kedua klausa memiliki kedudukan setara (tidak ada yang bergantung pada yang lain)."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di perpustakaan, ada 150 buku yang dibagi dalam 3 kategori sama rata. Setiap kategori dipinjam 15 buku. Berapa total buku yang tersisa?",
+    "pilihan": [
+      "90 buku",
+      "95 buku",
+      "100 buku",
+      "105 buku"
+    ],
+    "jawaban": 3,
+    "penjelasan": "Setiap kategori = 150 ÷ 3 = 50 buku. Dipinjam = 3 × 15 = 45 buku. Sisa = 150 - 45 = 105 buku."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Guru meminta siswa membuat kalimat dengan pola S-P-O. Kalimat yang benar dengan pola S-P-O adalah...",
+    "pilihan": [
+      "Di sekolah, Andi belajar.",
+      "Belajar adalah kewajiban siswa.",
+      "Andi membaca buku.",
+      "Dengan rajin, siswa berprestasi."
+    ],
+    "jawaban": 2,
+    "penjelasan": "Pola S-P-O: Andi (S) membaca (P) buku (O). Pilihan A = K-S-P. Pilihan B = S-P (O berupa klausa). Pilihan D = K-S-P."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Siswa mengikuti lomba matematika di sekolah. Soal: Manakah bilangan yang tidak habis dibagi 3?",
+    "pilihan": [
+      "18",
+      "24",
+      "27",
+      "32"
+    ],
+    "jawaban": 3,
+    "penjelasan": "Cek habis dibagi 3: jumlahkan digit-digitnya. 18: 1+8=9 ✓. 24: 2+4=6 ✓. 27: 2+7=9 ✓. 32: 3+2=5 (tidak habis dibagi 3) ✗. Jadi 32 tidak habis dibagi 3."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Di kelas, guru menjelaskan kata ganti. Kata 'mereka' adalah kata ganti orang...",
+    "pilihan": [
+      "Pertama tunggal",
+      "Pertama jamak",
+      "Ketiga tunggal",
+      "Ketiga jamak"
+    ],
+    "jawaban": 3,
+    "penjelasan": "Kata ganti: Orang I (tunggal: aku/saya; jamak: kami/kita). Orang II (tunggal: kamu/engkau; jamak: kalian). Orang III (tunggal: dia/ia; jamak: mereka)."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Bu Guru mengajarkan tentang pecahan desimal. 0,6 + 0,35 = ...",
+    "pilihan": [
+      "0,35",
+      "0,65",
+      "0,90",
+      "0,95"
+    ],
+    "jawaban": 3,
+    "penjelasan": "0,6 + 0,35 = 0,60 + 0,35 = 0,95. Tambahkan nol agar sama banyak angka desimal, lalu jumlahkan seperti bilangan bulat."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Siswa membaca cerpen di perpustakaan tentang perjuangan seorang siswa miskin yang berhasil meraih beasiswa. Unsur intrinsik cerpen yang menggambarkan 'perjuangan' adalah...",
+    "pilihan": [
+      "Latar",
+      "Tema",
+      "Sudut pandang",
+      "Gaya bahasa"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Tema adalah gagasan pokok/inti yang menjadi dasar cerita. Tema cerpen ini adalah 'perjuangan dan ketekunan'. Latar = tempat/waktu/suasana. Sudut pandang = posisi penceritaan (orang 1, 3, dll)."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Saat lomba sains di sekolah, soal: Berapa hasil 15% dari 200?",
+    "pilihan": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "jawaban": 2,
+    "penjelasan": "15% dari 200 = (15/100) × 200 = 15 × 2 = 30. Cara mudah: 10% dari 200 = 20; 5% dari 200 = 10; total = 20 + 10 = 30."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Di kelas, guru mencontohkan kalimat bermajas: 'Bibirnya semerah delima.' Ini adalah majas...",
+    "pilihan": [
+      "Metafora",
+      "Personifikasi",
+      "Simile (perumpamaan)",
+      "Hiperbola"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Simile (perumpamaan) = perbandingan menggunakan kata 'se-' (setinggi, semerah, sebesar), 'seperti', 'bagai', atau 'laksana'. 'Semerah delima' = seperti merahnya buah delima."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Dalam kelas ada 12 meja yang disusun dalam 3 baris. Jika ditambah 1 baris lagi (berisi 4 meja), berapa total meja sekarang?",
+    "pilihan": [
+      "14 meja",
+      "16 meja",
+      "18 meja",
+      "20 meja"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Meja awal = 12. Ditambah 4. Total = 12 + 4 = 16 meja."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Pak Guru menjelaskan penggunaan kata 'di' sebagai awalan (imbuhan) dan sebagai kata depan. 'Di- (imbuhan)' pada kata kerja ditulis...",
+    "pilihan": [
+      "Terpisah dari kata dasarnya",
+      "Disambung dengan kata dasarnya",
+      "Diikuti tanda hubung",
+      "Selalu dengan huruf kapital"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Di- (imbuhan/awalan) = disambung dengan kata dasar: dibaca, ditulis, dimakan. Di (kata depan/preposisi tempat) = dipisah: di sekolah, di sini, di mana. Cara membedakan: jika menunjukkan tempat = pisah."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Guru menggambar segitiga siku-siku di papan. Sisi-sisi yang tegak lurus (siku-siku) disebut...",
+    "pilihan": [
+      "Hipotenusa",
+      "Median",
+      "Kaki segitiga",
+      "Garis bagi"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Segitiga siku-siku memiliki: kaki segitiga = dua sisi yang membentuk sudut 90°; hipotenusa = sisi miring (sisi terpanjang, di hadapan sudut 90°). Teorema Pythagoras: hipotenusa² = kaki₁² + kaki₂²."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Guru meminta siswa meringkas berita tentang lomba pidato antar sekolah. Langkah pertama meringkas teks adalah...",
+    "pilihan": [
+      "Langsung menulis ringkasan",
+      "Membaca dan memahami seluruh teks untuk menemukan ide pokok",
+      "Menghapus semua kalimat penjelas",
+      "Menulis ulang teks dengan kata berbeda"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Langkah meringkas: (1) Baca teks secara keseluruhan, (2) Tentukan ide pokok tiap paragraf, (3) Tulis kembali ide pokok dengan bahasa sendiri secara singkat dan padu."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di kelas, Bu Guru menulis: 2³ + 4² = ... di papan tulis. Berapa hasilnya?",
+    "pilihan": [
+      "20",
+      "24",
+      "26",
+      "32"
+    ],
+    "jawaban": 1,
+    "penjelasan": "2³ = 2×2×2 = 8. 4² = 4×4 = 16. Jadi 8 + 16 = 24."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Siswa kelas 7 belajar imbuhan di-. Kalimat mana yang menggunakan imbuhan 'di-' sebagai awalan (bukan kata depan)?",
+    "pilihan": [
+      "Buku itu di rak pojok.",
+      "Tasnya ditinggal di kelas.",
+      "Pena itu di meja guru.",
+      "Pensil itu di lantai."
+    ],
+    "jawaban": 1,
+    "penjelasan": "'Ditinggal' = di- (awalan/imbuhan) + tinggal → kata kerja pasif, ditulis sambung. 'Di rak', 'di kelas', 'di meja' = di (kata depan/preposisi tempat), ditulis terpisah."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Pada pelajaran geometri, siswa belajar sudut. Dua sudut yang jumlahnya 90° disebut sudut...",
+    "pilihan": [
+      "Berpelurus",
+      "Berpenyiku",
+      "Bertolak belakang",
+      "Sepihak"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Dua sudut yang berjumlah 90° disebut saling berpenyiku (komplementer). Dua sudut yang berjumlah 180° disebut saling berpelurus (suplemen). Sudut bertolak belakang = sama besar, berlawanan arah."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Guru meminta siswa menyebutkan contoh kata benda konkret. Manakah yang merupakan kata benda konkret?",
+    "pilihan": [
+      "Keberanian",
+      "Kejujuran",
+      "Meja",
+      "Kecantikan"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Kata benda konkret = bisa ditangkap panca indra (bisa dilihat/diraba): meja, buku, pensil, sekolah. Kata benda abstrak = tidak dapat ditangkap panca indra: keberanian, kejujuran, kecantikan, cinta."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di koperasi sekolah, Rina membeli buku dengan harga Rp 12.000 dan mendapat diskon 25%. Berapa harga yang harus dibayar?",
+    "pilihan": [
+      "Rp 8.000",
+      "Rp 9.000",
+      "Rp 9.500",
+      "Rp 10.000"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Diskon 25% = 25% × 12.000 = Rp 3.000. Harga bayar = 12.000 - 3.000 = Rp 9.000."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Pak Guru menjelaskan jenis-jenis paragraf berdasarkan isinya. Paragraf yang berisi penjelasan untuk menerangkan sesuatu secara objektif disebut paragraf...",
+    "pilihan": [
+      "Narasi",
+      "Eksposisi",
+      "Argumentasi",
+      "Persuasi"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Paragraf eksposisi bertujuan menjelaskan atau memaparkan informasi secara objektif. Narasi = bercerita. Argumentasi = meyakinkan dengan alasan. Persuasi = membujuk pembaca melakukan sesuatu."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di kantin, harga jus jeruk Rp 3.500. Nani membayar dengan uang Rp 20.000 dan membeli 4 gelas jus. Berapa kembaliannya?",
+    "pilihan": [
+      "Rp 5.000",
+      "Rp 6.000",
+      "Rp 7.000",
+      "Rp 8.000"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Total 4 jus = 4 × Rp 3.500 = Rp 14.000. Kembalian = Rp 20.000 - Rp 14.000 = Rp 6.000."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Saat pelajaran Bahasa Indonesia, guru menjelaskan istilah 'diksi'. Diksi dalam penulisan adalah...",
+    "pilihan": [
+      "Cara membaca puisi dengan benar",
+      "Pilihan kata yang tepat sesuai konteks",
+      "Teknik menyusun kalimat",
+      "Aturan ejaan yang baku"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Diksi = pemilihan kata yang tepat, akurat, dan sesuai konteks untuk mengungkapkan pikiran. Diksi yang baik membuat tulisan lebih jelas, indah, dan efektif."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Bu Guru menjelaskan bilangan bulat. Dari urutan berikut, manakah yang benar dari yang terkecil ke terbesar: -5, 3, -2, 0, 7?",
+    "pilihan": [
+      "-5, -2, 0, 3, 7",
+      "3, -2, 0, -5, 7",
+      "0, -2, -5, 3, 7",
+      "-5, 0, -2, 3, 7"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Urutan bilangan bulat dari terkecil ke terbesar: bilangan negatif terkecil dulu, naik ke nol, lalu positif. -5 < -2 < 0 < 3 < 7. Semakin kiri di garis bilangan = semakin kecil."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Di sekolah ada lomba membaca puisi. Cara membaca puisi yang baik memperhatikan...",
+    "pilihan": [
+      "Kecepatan membaca saja",
+      "Lafal, intonasi, tekanan, dan ekspresi",
+      "Panjang pendek kata saja",
+      "Jumlah baris yang dibacakan"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Membaca puisi yang baik memperhatikan: lafal (pengucapan bunyi yang jelas), intonasi (naik-turun suara), tekanan (penekanan pada kata penting), ekspresi (penjiwaan/perasaan sesuai isi puisi)."
   }
 ]

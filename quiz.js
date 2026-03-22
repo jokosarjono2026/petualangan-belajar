@@ -22,8 +22,8 @@ async function startLevel(lokasiId, levelNum) {
     if (!res.ok) throw new Error('Soal belum tersedia');
     const soal = await res.json();
 
-    // Acak urutan soal
-    const shuffled = soal.sort(() => Math.random() - 0.5);
+    // Acak urutan soal, ambil 10 soal dari pool
+    const shuffled = soal.sort(() => Math.random() - 0.5).slice(0, 10);
 
     quizState = {
       lokasi:      lokasiId,
@@ -67,7 +67,8 @@ function renderQuiz() {
   const optionsEl = document.getElementById('quiz-options');
   const labels    = ['A', 'B', 'C', 'D'];
   optionsEl.innerHTML = soal.pilihan.map((p, i) => `
-    <button class="option-btn" id="opt-${i}" onclick="pilihJawaban(${i})">
+    <button class="option-btn" id="opt-${i}" onclick="pilihJawaban(${i})"
+      aria-label="Pilihan ${labels[i]}: ${p.replace(/"/g, '&quot;')}">
       <span class="option-label">${labels[i]}</span>
       <span class="option-text">${p}</span>
     </button>
@@ -169,18 +170,27 @@ function checkMilestone() {
 function showMilestone(emoji, title, sub) {
   const el = document.createElement('div');
   el.className = 'milestone-popup';
+  el.setAttribute('role', 'status');
+  el.setAttribute('aria-label', `${title} — ${sub}`);
   el.innerHTML = `
     <div class="milestone-emoji">${emoji}</div>
     <div class="milestone-title">${title}</div>
     <div class="milestone-sub">${sub}</div>
   `;
-  document.body.appendChild(el);
-
-  // Auto-remove setelah 1.8 detik
-  setTimeout(() => {
+  // Tap to dismiss
+  el.addEventListener('click', () => {
     el.classList.add('hiding');
     setTimeout(() => el.remove(), 300);
-  }, 1800);
+  });
+  document.body.appendChild(el);
+
+  // Auto-remove setelah 1.2 detik
+  setTimeout(() => {
+    if (document.body.contains(el)) {
+      el.classList.add('hiding');
+      setTimeout(() => el.remove(), 300);
+    }
+  }, 1200);
 }
 
 // ── Soal berikutnya ──────────────────────────────────────────────────────────
@@ -238,6 +248,28 @@ function showResult() {
   }
 
   showScreen('result');
+
+  // Tampilkan upgrade screen setelah level 2 selesai di tiap lokasi
+  if (lulus && level === 2) {
+    setTimeout(() => showUpgradeScreen(lokasi), 800);
+  }
+}
+
+// ── Upgrade Screen ────────────────────────────────────────────────────────────
+
+const LOKASI_LABEL = {
+  sekolah: 'SEKOLAH',
+  kebun:   'KEBUN',
+  rumah:   'RUMAH',
+  taman:   'TAMAN',
+};
+
+function showUpgradeScreen(lokasiId) {
+  const label = LOKASI_LABEL[lokasiId] || lokasiId.toUpperCase();
+  document.getElementById('upgrade-congrats').textContent  = `Level 2 ${label} Selesai! 🎉`;
+  document.getElementById('upgrade-subtitle').textContent  = `Kamu telah menyelesaikan semua soal di Lokasi ${label}.`;
+  document.getElementById('upgrade-subject').textContent   = `UPGRADE ${label}`;
+  showScreen('upgrade');
 }
 
 function resultMsg(bintang) {

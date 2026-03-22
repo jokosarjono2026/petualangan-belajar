@@ -31,10 +31,18 @@
         <div class="onboarding-desc">Jawab soal dengan benar, raih 3 bintang per level, dan tingkatkan skormu!</div>
       </div>
 
+      <div class="onboarding-slide">
+        <div class="onboarding-emoji">📧</div>
+        <div class="onboarding-title">Butuh Bantuan?</div>
+        <div class="onboarding-desc">Hubungi kami untuk informasi soal tambahan & upgrade pack:</div>
+        <div class="onboarding-email">edugamepetualanganbelajar@gmail.com</div>
+      </div>
+
     </div>
 
     <div class="onboarding-dots" id="onboarding-dots">
       <span class="dot active"></span>
+      <span class="dot"></span>
       <span class="dot"></span>
       <span class="dot"></span>
     </div>
@@ -155,6 +163,39 @@
       <button class="btn-result-next" id="btn-result-next" onclick="showScreen('map')">← Peta</button>
     </div>
     <button class="btn-map" onclick="showScreen('map')">← Kembali ke Peta</button>
+  </div>
+</div>
+
+<!-- ── SCREEN: Upgrade Pack ── -->
+<div id="screen-upgrade" class="screen">
+  <div class="upgrade-wrap">
+    <div class="upgrade-confetti">🎉</div>
+    <div class="upgrade-congrats" id="upgrade-congrats">Level 2 Selesai!</div>
+    <div class="upgrade-subtitle" id="upgrade-subtitle">Kamu telah menyelesaikan semua soal di lokasi ini.</div>
+
+    <div class="upgrade-box">
+      <div class="upgrade-box-title">📦 Upgrade Pack Tersedia</div>
+      <div class="upgrade-features">
+        <div class="upgrade-feature">🔓 Buka Level 3 – 5 di lokasi ini</div>
+        <div class="upgrade-feature">📝 50+ soal baru per level</div>
+        <div class="upgrade-feature">🎯 Tema lebih luas &amp; menantang</div>
+        <div class="upgrade-feature">🏆 Sesuai kurikulum SMP terbaru</div>
+        <div class="upgrade-feature">♾️ Akses seumur hidup, sekali bayar</div>
+      </div>
+    </div>
+
+    <div class="upgrade-how">
+      <div class="upgrade-how-title">💌 Cara Upgrade</div>
+      <div class="upgrade-how-step">1. Kirim email ke alamat di bawah</div>
+      <div class="upgrade-how-step">2. Subject: <strong id="upgrade-subject">UPGRADE SEKOLAH</strong></div>
+      <div class="upgrade-how-step">3. Cantumkan nama &amp; lokasi yang diinginkan</div>
+      <div class="upgrade-how-step">4. Kami kirimkan pack + instruksi instalasi</div>
+      <div class="upgrade-email">edugamepetualanganbelajar@gmail.com</div>
+    </div>
+
+    <div class="upgrade-buttons">
+      <button class="btn-upgrade-map" onclick="showScreen('map')">← Kembali ke Peta</button>
+    </div>
   </div>
 </div>
 

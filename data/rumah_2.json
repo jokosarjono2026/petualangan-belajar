@@ -4,21 +4,21 @@
     "soal": "Ibu sedang menonton berita tentang bencana gempa di Jepang. Secara astronomis, Indonesia terletak di antara garis lintang...",
     "pilihan": ["6°LU - 11°LS", "23°LU - 23°LS", "0° - 11°LS", "6°LU - 11°LU"],
     "jawaban": 0,
-    "penjelasan": "Indonesia terletak antara 6°LU (Pulau Weh, Aceh) - 11°LS (Pulau Rote, NTT) dan 95°BT - 141°BT. Posisi ini menyebabkan Indonesia beriklim tropis (sepanjang tahun panas dan lembab, 2 musim)."
+    "penjelasan": "Indonesia terletak antara 6°LU (Pulau Weh, Aceh) - 11°LS (Pulau Rote, NTT) dan 95°BT - 141°BT. Posisi ini menyebabkan Indonesia beriklim tropis."
   },
   {
     "mapel": "IPS",
     "soal": "Kakak membaca buku sejarah di rumah tentang masa penjajahan. Belanda menjajah Indonesia selama kurang lebih...",
     "pilihan": ["100 tahun", "200 tahun", "350 tahun", "500 tahun"],
     "jawaban": 2,
-    "penjelasan": "Belanda secara efektif menjajah Indonesia sekitar 350 tahun (abad ke-17 hingga 1945), meski ada beberapa periode interupsi (penjajahan Inggris singkat 1811-1816 di bawah Raffles). Sebelumnya, VOC (1602) sudah mulai menguasai perdagangan Nusantara."
+    "penjelasan": "Belanda secara efektif menjajah Indonesia sekitar 350 tahun (abad ke-17 hingga 1945), meski ada beberapa periode interupsi."
   },
   {
     "mapel": "IPS",
     "soal": "Nenek menceritakan tentang Sumpah Pemuda. Ikrar Sumpah Pemuda diucapkan pada tanggal...",
     "pilihan": ["20 Mei 1908", "28 Oktober 1928", "17 Agustus 1945", "1 Juni 1945"],
     "jawaban": 1,
-    "penjelasan": "Sumpah Pemuda diikrarkan pada Kongres Pemuda II tanggal 28 Oktober 1928. Isinya: (1) Kami putra-putri Indonesia mengaku bertumpah darah yang satu, Tanah Indonesia; (2) berbangsa yang satu, Bangsa Indonesia; (3) menjunjung bahasa persatuan, Bahasa Indonesia."
+    "penjelasan": "Sumpah Pemuda diikrarkan pada Kongres Pemuda II tanggal 28 Oktober 1928, berisi ikrar satu tanah air, satu bangsa, dan satu bahasa: Indonesia."
   },
   {
     "mapel": "IPS",
@@ -30,42 +30,42 @@
       "Menyimpan barang di gudang"
     ],
     "jawaban": 1,
-    "penjelasan": "Distribusi = menyalurkan barang/jasa dari produsen ke konsumen. Contoh: toko, pedagang grosir, ekspedisi. Produksi = membuat barang (pabrik, petani). Konsumsi = menggunakan/menghabiskan barang (kita membeli dan memakai)."
+    "penjelasan": "Distribusi = menyalurkan barang/jasa dari produsen ke konsumen. Contoh: toko, pedagang grosir, ekspedisi. Produksi = membuat. Konsumsi = menggunakan."
   },
   {
     "mapel": "IPS",
     "soal": "Di rumah ada kalender dengan tanggal 28 Oktober. Hari apa yang diperingati pada tanggal tersebut?",
     "pilihan": ["Hari Pahlawan", "Hari Sumpah Pemuda", "Hari Pendidikan Nasional", "Hari Kebangkitan Nasional"],
     "jawaban": 1,
-    "penjelasan": "Hari Sumpah Pemuda = 28 Oktober. Hari Pahlawan = 10 November (pertempuran Surabaya 1945). Hari Pendidikan Nasional = 2 Mei (HUT Ki Hajar Dewantara). Hari Kebangkitan Nasional = 20 Mei (HUT Budi Utomo 1908)."
+    "penjelasan": "28 Oktober = Hari Sumpah Pemuda. Hari Pahlawan = 10 November. Hari Pendidikan Nasional = 2 Mei. Hari Kebangkitan Nasional = 20 Mei."
   },
   {
     "mapel": "IPS",
     "soal": "Ibu mengajak belanja ke pasar tradisional dan menjelaskan perbedaannya dengan supermarket. Pasar berdasarkan bentuknya dibedakan menjadi pasar...",
     "pilihan": ["Lokal dan nasional", "Konkret (nyata) dan abstrak", "Harian dan mingguan", "Tradisional dan modern"],
     "jawaban": 1,
-    "penjelasan": "Pasar konkret = tempat nyata di mana penjual dan pembeli bertemu langsung (pasar tradisional, supermarket, mal). Pasar abstrak = transaksi tanpa pertemuan langsung (pasar saham, pasar valuta asing, e-commerce). Keduanya adalah jenis pasar berdasarkan wujudnya."
+    "penjelasan": "Pasar konkret = penjual dan pembeli bertemu langsung. Pasar abstrak = transaksi tanpa pertemuan langsung (bursa saham, e-commerce)."
   },
   {
     "mapel": "IPS",
     "soal": "Ayah menjelaskan tentang Pancasila sebagai dasar negara. Pancasila disahkan sebagai dasar negara pada tanggal...",
     "pilihan": ["1 Juni 1945", "17 Agustus 1945", "18 Agustus 1945", "22 Juni 1945"],
     "jawaban": 2,
-    "penjelasan": "Pancasila disahkan sebagai dasar negara bersamaan dengan pengesahan UUD 1945 pada 18 Agustus 1945 oleh PPKI. Tanggal 1 Juni diperingati sebagai Hari Lahir Pancasila (saat Soekarno berpidato tentang Pancasila di BPUPKI). Proklamasi 17 Agustus 1945."
+    "penjelasan": "Pancasila disahkan bersamaan dengan pengesahan UUD 1945 pada 18 Agustus 1945 oleh PPKI. 1 Juni diperingati sebagai Hari Lahir Pancasila (pidato Soekarno di BPUPKI)."
   },
   {
     "mapel": "IPS",
     "soal": "Keluarga di rumah mengamati globe. Garis yang membagi bumi menjadi belahan utara dan selatan disebut...",
     "pilihan": ["Garis bujur", "Garis lintang khatulistiwa (ekuator)", "Meridian utama", "Garis balik"],
     "jawaban": 1,
-    "penjelasan": "Garis khatulistiwa (ekuator) adalah garis lintang 0° yang membagi bumi menjadi belahan utara (LU) dan selatan (LS). Meridian utama (garis bujur 0°) membagi bumi menjadi belahan timur (BT) dan barat (BB), melewati kota Greenwich, Inggris."
+    "penjelasan": "Garis khatulistiwa (ekuator) adalah garis lintang 0° yang membagi bumi menjadi belahan utara (LU) dan selatan (LS). Meridian utama (0°) membagi timur dan barat."
   },
   {
     "mapel": "IPS",
     "soal": "Ibu membeli barang dari China melalui aplikasi belanja online. Kegiatan ini termasuk...",
     "pilihan": ["Ekspor", "Impor", "Distribusi", "Konsumsi lokal"],
     "jawaban": 1,
-    "penjelasan": "Impor = membeli/memasukkan barang dari luar negeri ke dalam negeri. Ekspor = menjual/mengirimkan barang ke luar negeri. Indonesia mengimpor banyak barang elektronik dan tekstil dari China, serta mengekspor kelapa sawit, karet, dan batubara."
+    "penjelasan": "Impor = membeli/memasukkan barang dari luar negeri. Ekspor = menjual/mengirim ke luar negeri. Indonesia mengimpor elektronik dari China dan mengekspor kelapa sawit, karet."
   },
   {
     "mapel": "IPS",
@@ -77,6 +77,41 @@
       "Layak, Umum, Bebas, Efektif, Jujur, Demokratis, Independen, Legal"
     ],
     "jawaban": 0,
-    "penjelasan": "LUBER JURDIL = Langsung (memilih sendiri), Umum (semua WN 17+ berhak), Bebas (tidak dipaksa), Rahasia (pilihan dirahasiakan), JURjur (jujur), adIL (adil). Ini adalah asas penyelenggaraan pemilihan umum di Indonesia."
+    "penjelasan": "LUBER JURDIL = Langsung, Umum, Bebas, Rahasia, Jujur, Adil. Ini adalah asas penyelenggaraan pemilihan umum di Indonesia."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Ayah membaca koran tentang hubungan Indonesia di ASEAN. Negara-negara pendiri ASEAN yang menandatangani Deklarasi Bangkok (1967) berjumlah...",
+    "pilihan": ["3 negara", "5 negara", "7 negara", "10 negara"],
+    "jawaban": 1,
+    "penjelasan": "ASEAN didirikan 8 Agustus 1967 oleh 5 negara: Indonesia, Malaysia, Filipina, Singapura, Thailand melalui Deklarasi Bangkok. Saat ini ASEAN beranggotakan 10 negara."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Guru privat Rara menjelaskan tentang permintaan dan penawaran. Jika harga cabai naik tinggi, maka permintaan cabai cenderung...",
+    "pilihan": ["Naik", "Turun", "Tetap", "Tidak ada hubungannya"],
+    "jawaban": 1,
+    "penjelasan": "Hukum permintaan: jika harga naik, permintaan turun (berbanding terbalik), ceteris paribus. Jika harga cabai mahal, konsumen akan mengurangi pembelian atau mencari alternatif lain."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Kakak mempelajari sejarah perjuangan di rumah. Perang Diponegoro (1825-1830) dipimpin oleh Pangeran Diponegoro melawan...",
+    "pilihan": ["Inggris", "Portugis", "Belanda", "Spanyol"],
+    "jawaban": 2,
+    "penjelasan": "Perang Diponegoro (1825-1830) adalah perang melawan Belanda yang dipicu oleh pemasangan patok jalan yang melewati tanah leluhur Pangeran Diponegoro. Perang ini menghabiskan banyak anggaran Belanda."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Di rumah, ayah menjelaskan fungsi lembaga negara. Lembaga yang bertugas mengawasi pengelolaan keuangan negara dan memeriksa APBN adalah...",
+    "pilihan": ["DPR", "Mahkamah Agung", "BPK (Badan Pemeriksa Keuangan)", "KPK"],
+    "jawaban": 2,
+    "penjelasan": "BPK (Badan Pemeriksa Keuangan) bertugas memeriksa pengelolaan dan tanggung jawab keuangan negara. KPK memberantas korupsi. DPR membuat undang-undang. MA mengadili perkara."
+  },
+  {
+    "mapel": "IPS",
+    "soal": "Ibu menjelaskan peta proyeksi. Proyeksi peta yang paling tepat digunakan untuk menggambarkan wilayah di dekat khatulistiwa seperti Indonesia adalah proyeksi...",
+    "pilihan": ["Polar (azimuth)", "Kerucut (conic)", "Silinder (mercator)", "Prisma"],
+    "jawaban": 2,
+    "penjelasan": "Proyeksi silinder (Mercator) paling tepat untuk daerah sekitar khatulistiwa karena distorsi minimal di garis tengah. Proyeksi polar untuk kutub, kerucut untuk lintang menengah."
   }
 ]

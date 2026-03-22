@@ -219,7 +219,7 @@ function confirmDelete() {
 // ── Onboarding ───────────────────────────────────────────────────────────────
 
 let _onboardSlide = 0;
-const ONBOARD_TOTAL = 3;
+const ONBOARD_TOTAL = 4;
 
 function nextOnboardingSlide() {
   const slides = document.querySelectorAll('.onboarding-slide');

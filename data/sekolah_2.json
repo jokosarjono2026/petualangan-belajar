@@ -2,14 +2,24 @@
   {
     "mapel": "Matematika",
     "soal": "Kelas 7A sedang belajar bilangan bulat. Hasil dari (-15) + 8 − (−4) adalah...",
-    "pilihan": ["-23", "-3", "3", "27"],
+    "pilihan": [
+      "-23",
+      "-3",
+      "3",
+      "27"
+    ],
     "jawaban": 1,
-    "penjelasan": "(-15) + 8 − (−4) = -15 + 8 + 4 = -15 + 12 = -3. Ingat: mengurangi bilangan negatif sama dengan menambah bilangan positif."
+    "penjelasan": "(-15) + 8 − (−4) = -15 + 8 + 4 = -3. Mengurangi bilangan negatif sama dengan menambah bilangan positif."
   },
   {
     "mapel": "Matematika",
     "soal": "Bu Guru menuliskan soal di papan: Nilai ujian Matematika 6 siswa adalah 60, 70, 80, 75, 90, 85. Berapa median (nilai tengah) dari data tersebut?",
-    "pilihan": ["75", "77,5", "80", "82,5"],
+    "pilihan": [
+      "75",
+      "77,5",
+      "80",
+      "82,5"
+    ],
     "jawaban": 1,
     "penjelasan": "Urutkan: 60, 70, 75, 80, 85, 90 (6 data = genap). Median = (data ke-3 + data ke-4) ÷ 2 = (75 + 80) ÷ 2 = 77,5."
   },
@@ -23,14 +33,19 @@
       "Perutnya sebesar gentong."
     ],
     "jawaban": 1,
-    "penjelasan": "Personifikasi adalah majas yang memberi sifat manusia pada benda mati. 'Angin berbisik dan menyapa' memperlakukan angin seolah manusia. Pilihan A = simile (seperti), C = metafora, D = hiperbola."
+    "penjelasan": "Personifikasi memberi sifat manusia pada benda mati. 'Angin berbisik dan menyapa' memperlakukan angin seolah manusia. A = simile, C = metafora, D = hiperbola."
   },
   {
     "mapel": "Matematika",
     "soal": "Di perpustakaan sekolah, Pak Wawan menyusun buku dalam rak berbentuk kubus dengan panjang rusuk 40 cm. Berapa volume rak tersebut?",
-    "pilihan": ["1.600 cm³", "4.800 cm³", "64.000 cm³", "160.000 cm³"],
+    "pilihan": [
+      "1.600 cm³",
+      "4.800 cm³",
+      "64.000 cm³",
+      "160.000 cm³"
+    ],
     "jawaban": 2,
-    "penjelasan": "Volume kubus = sisi³ = 40³ = 40 × 40 × 40 = 64.000 cm³. Luas permukaan kubus = 6 × sisi² = 6 × 1.600 = 9.600 cm²."
+    "penjelasan": "Volume kubus = sisi³ = 40³ = 40 × 40 × 40 = 64.000 cm³."
   },
   {
     "mapel": "Bahasa Indonesia",
@@ -42,28 +57,43 @@
       "Guys, dengerin dulu nih, ada pengumuman."
     ],
     "jawaban": 1,
-    "penjelasan": "Kalimat pembuka pidato formal harus sopan, menggunakan sapaan yang tepat, dan tidak menggunakan bahasa gaul. Pilihan B menggunakan 'hadirin sekalian' dan 'izinkan saya' yang formal dan menghormati audiens."
+    "penjelasan": "Kalimat pembuka pidato formal harus sopan, menggunakan sapaan yang tepat, tidak menggunakan bahasa gaul. 'Hadirin sekalian' dan 'izinkan saya' adalah ungkapan formal."
   },
   {
     "mapel": "Matematika",
     "soal": "Siswa kelas 7B sedang belajar perbandingan. Jika perbandingan tinggi badan Andi dan Budi adalah 4:5, dan tinggi Andi 160 cm, berapa tinggi Budi?",
-    "pilihan": ["180 cm", "190 cm", "200 cm", "210 cm"],
+    "pilihan": [
+      "180 cm",
+      "190 cm",
+      "200 cm",
+      "210 cm"
+    ],
     "jawaban": 2,
-    "penjelasan": "Perbandingan 4:5 artinya tinggi Budi = (5/4) × tinggi Andi = (5/4) × 160 = 200 cm. Atau: 4 bagian = 160 cm → 1 bagian = 40 cm → 5 bagian = 200 cm."
+    "penjelasan": "Perbandingan 4:5 → tinggi Budi = (5/4) × 160 = 200 cm. Atau: 4 bagian = 160 cm → 1 bagian = 40 cm → 5 bagian = 200 cm."
   },
   {
     "mapel": "Bahasa Indonesia",
     "soal": "Dita menulis laporan perjalanan wisata untuk majalah dinding sekolah. Jenis tulisan ini termasuk karangan...",
-    "pilihan": ["Argumentasi", "Narasi", "Eksposisi", "Deskripsi"],
+    "pilihan": [
+      "Argumentasi",
+      "Narasi",
+      "Eksposisi",
+      "Deskripsi"
+    ],
     "jawaban": 1,
-    "penjelasan": "Narasi adalah karangan yang menceritakan peristiwa atau pengalaman secara kronologis (urut waktu). Laporan perjalanan menceritakan apa yang terjadi selama wisata. Deskripsi = melukiskan, Eksposisi = menjelaskan, Argumentasi = meyakinkan."
+    "penjelasan": "Narasi menceritakan peristiwa atau pengalaman secara kronologis. Laporan perjalanan menceritakan apa yang terjadi selama wisata. Deskripsi = melukiskan, Eksposisi = menjelaskan."
   },
   {
     "mapel": "Matematika",
     "soal": "Pak Guru menggambar persegi panjang di papan tulis dengan panjang 12 cm dan lebar 5 cm. Berapa panjang diagonal persegi panjang tersebut?",
-    "pilihan": ["10 cm", "13 cm", "15 cm", "17 cm"],
+    "pilihan": [
+      "10 cm",
+      "13 cm",
+      "15 cm",
+      "17 cm"
+    ],
     "jawaban": 1,
-    "penjelasan": "Gunakan teorema Pythagoras: diagonal² = panjang² + lebar² = 12² + 5² = 144 + 25 = 169. Diagonal = √169 = 13 cm. Ini adalah tripel Pythagoras 5-12-13 yang sering muncul di soal."
+    "penjelasan": "Teorema Pythagoras: diagonal² = 12² + 5² = 144 + 25 = 169. Diagonal = √169 = 13 cm. Tripel Pythagoras 5-12-13."
   },
   {
     "mapel": "Bahasa Indonesia",
@@ -75,13 +105,498 @@
       "Berisi pendapat penulis dan argumen pendukung"
     ],
     "jawaban": 1,
-    "penjelasan": "Teks prosedur (cara melakukan sesuatu) menggunakan: kalimat perintah (masukkan, aduk, panaskan), kata urutan (pertama, kemudian, selanjutnya, terakhir), dan kalimat aktif. Tujuannya memberi panduan langkah demi langkah."
+    "penjelasan": "Teks prosedur menggunakan kalimat perintah (masukkan, aduk), kata urutan (pertama, kemudian, terakhir), dan kalimat aktif. Tujuannya memberi panduan langkah demi langkah."
   },
   {
     "mapel": "Matematika",
-    "soal": "Bu Guru membagikan soal ulangan harian: Sebuah tangki air berbentuk balok memiliki ukuran 2 m × 1,5 m × 1 m. Berapa kapasitas tangki dalam liter? (1 m³ = 1.000 liter)",
-    "pilihan": ["1.500 liter", "2.000 liter", "3.000 liter", "4.500 liter"],
+    "soal": "Bu Guru membagikan soal ulangan: Sebuah tangki air berbentuk balok memiliki ukuran 2 m × 1,5 m × 1 m. Berapa kapasitas tangki dalam liter? (1 m³ = 1.000 liter)",
+    "pilihan": [
+      "1.500 liter",
+      "2.000 liter",
+      "3.000 liter",
+      "4.500 liter"
+    ],
     "jawaban": 2,
-    "penjelasan": "Volume balok = panjang × lebar × tinggi = 2 × 1,5 × 1 = 3 m³. Dikonversi: 3 m³ × 1.000 = 3.000 liter. Ingat: volume balok = p × l × t."
+    "penjelasan": "Volume balok = 2 × 1,5 × 1 = 3 m³. Dikonversi: 3 × 1.000 = 3.000 liter."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Saat remedial, Bu Guru menulis soal: 3x - 7 = 14. Nilai x adalah...",
+    "pilihan": [
+      "5",
+      "7",
+      "9",
+      "11"
+    ],
+    "jawaban": 2,
+    "penjelasan": "3x - 7 = 14 → 3x = 14 + 7 = 21 → x = 21 ÷ 3 = 7. Cek: 3(7) - 7 = 21 - 7 = 14. ✓"
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Di kelas, guru menjelaskan paragraf deduktif. Kalimat utama dalam paragraf deduktif terletak di...",
+    "pilihan": [
+      "Akhir paragraf",
+      "Tengah paragraf",
+      "Awal paragraf",
+      "Awal dan akhir paragraf"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Paragraf deduktif: kalimat utama di AWAL, diikuti kalimat-kalimat penjelas. Paragraf induktif: kalimat utama di AKHIR. Paragraf campuran: kalimat utama di awal dan akhir."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Siswa kelas 7C belajar himpunan. Jika A = {1,2,3,4,5} dan B = {3,4,5,6,7}, maka A ∩ B (irisan) adalah...",
+    "pilihan": [
+      "{1,2,3,4,5,6,7}",
+      "{3,4,5}",
+      "{1,2}",
+      "{6,7}"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Irisan (∩) = anggota yang ada di kedua himpunan. A ∩ B = {3,4,5}. Gabungan (∪) = semua anggota dari kedua himpunan = {1,2,3,4,5,6,7}."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Di majalah dinding sekolah, Rani menulis berita tentang lomba kebersihan kelas. Unsur 5W+1H dalam teks berita meliputi...",
+    "pilihan": [
+      "What, When, Where, Who, Why, How",
+      "Who, Which, Where, When, Well, How",
+      "What, Whom, Whose, When, Where, How",
+      "Who, What, Where, When, Want, Hope"
+    ],
+    "jawaban": 0,
+    "penjelasan": "5W+1H: What (apa), When (kapan), Where (di mana), Who (siapa), Why (mengapa), How (bagaimana). Keenam unsur ini harus ada dalam berita yang lengkap dan informatif."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Pak Guru menggambar koordinat di papan. Titik P(-3, 4) berada di kuadran...",
+    "pilihan": [
+      "Kuadran I",
+      "Kuadran II",
+      "Kuadran III",
+      "Kuadran IV"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Kuadran II: x negatif, y positif. (-3, 4) → x = -3 (negatif), y = 4 (positif) = Kuadran II. Kuadran I: (+,+). Kuadran III: (-,-). Kuadran IV: (+,-)."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Siswa membaca pantun di depan kelas: 'Buah mangga buah pepaya / Dibawa ke pasar pagi hari / Kalau kamu rajin belajar / Pasti meraih prestasi tinggi.' Sampiran pantun tersebut adalah...",
+    "pilihan": [
+      "Kalau kamu rajin belajar / Pasti meraih prestasi tinggi",
+      "Buah mangga buah pepaya / Dibawa ke pasar pagi hari",
+      "Buah mangga buah pepaya / Kalau kamu rajin belajar",
+      "Dibawa ke pasar pagi hari / Pasti meraih prestasi tinggi"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Pantun = 4 baris: 2 baris sampiran (baris 1-2, tidak berkaitan isi) dan 2 baris isi (baris 3-4, makna sesungguhnya). Sampiran = 'Buah mangga buah pepaya / Dibawa ke pasar pagi hari'."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di kantin, Pak Kantin menjual 120 roti dalam 5 hari. Jika pola ini sama, berapa roti yang terjual dalam 9 hari?",
+    "pilihan": [
+      "196 roti",
+      "204 roti",
+      "212 roti",
+      "216 roti"
+    ],
+    "jawaban": 3,
+    "penjelasan": "Per hari = 120 ÷ 5 = 24 roti. Dalam 9 hari = 24 × 9 = 216 roti. Ini perbandingan senilai (semakin banyak hari, semakin banyak roti)."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Bu Guru menjelaskan kata baku dan tidak baku. Manakah kata yang merupakan kata baku?",
+    "pilihan": [
+      "Aktifitas",
+      "Fotokopi",
+      "Analisa",
+      "Ijin"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Kata baku: fotokopi, aktivitas (bukan aktifitas), analisis (bukan analisa), izin (bukan ijin). Kata baku sesuai dengan Kamus Besar Bahasa Indonesia (KBBI)."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Guru olahraga mengukur sudut lemparan bola. Sudut 135° termasuk jenis sudut...",
+    "pilihan": [
+      "Lancip",
+      "Siku-siku",
+      "Tumpul",
+      "Lurus"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Sudut tumpul = antara 90° dan 180°. Lancip = 0°-90°. Siku-siku = tepat 90°. Lurus = tepat 180°. Sudut refleks = 180°-360°. 135° ada di antara 90° dan 180° = sudut tumpul."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Saat diskusi kelas tentang teks eksposisi, guru menjelaskan bahwa teks eksposisi bertujuan untuk...",
+    "pilihan": [
+      "Menceritakan peristiwa secara kronologis",
+      "Menggambarkan suasana dan objek secara detail",
+      "Menjelaskan dan memberikan informasi tentang suatu topik",
+      "Meyakinkan pembaca agar setuju dengan pendapat penulis"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Eksposisi = menjelaskan dan memaparkan informasi secara objektif tanpa mempengaruhi pembaca. Narasi = bercerita. Deskripsi = menggambarkan. Argumentasi/persuasi = meyakinkan pembaca."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di kelas, pak guru menjelaskan bahwa luas lingkaran = πr². Jika jari-jari lingkaran yang digambar di papan tulis adalah 7 cm (π = 22/7), berapa luasnya?",
+    "pilihan": [
+      "44 cm²",
+      "154 cm²",
+      "176 cm²",
+      "308 cm²"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Luas = πr² = (22/7) × 7² = (22/7) × 49 = 22 × 7 = 154 cm². Keliling lingkaran = 2πr = 2 × (22/7) × 7 = 44 cm."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Pak Guru menjelaskan imbuhan. Kata 'pemberani' terbentuk dari kata dasar 'berani' dengan imbuhan...",
+    "pilihan": [
+      "pe-",
+      "pem-",
+      "pe-an",
+      "pem-an"
+    ],
+    "jawaban": 1,
+    "penjelasan": "'Pemberani' = pem- + berani. Imbuhan pem- (varian pe-) digunakan sebelum kata dasar yang diawali huruf b, p (yang luluh). Pem-berani → pemberani = orang yang berani."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Siswa kelas 7 belajar tentang segitiga. Segitiga ABC memiliki sudut A = 55° dan sudut B = 75°. Besar sudut C adalah...",
+    "pilihan": [
+      "40°",
+      "50°",
+      "60°",
+      "70°"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Jumlah sudut dalam segitiga = 180°. Sudut C = 180° - 55° - 75° = 180° - 130° = 50°."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Di perpustakaan, Budi menemukan kalimat: 'Buku itu dibaca oleh Ani.' Ini adalah kalimat...",
+    "pilihan": [
+      "Aktif",
+      "Pasif",
+      "Majemuk",
+      "Perintah"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Kalimat pasif: objek menjadi subjek, menggunakan 'di-' atau 'ter-' pada predikat. 'Buku itu' (subjek) 'dibaca' (predikat pasif) 'oleh Ani' (pelaku). Kalimat aktif: Ani membaca buku."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Saat praktik ekonomi di kelas, siswa menghitung keuntungan. Harga beli sebuah barang Rp 15.000 dan harga jual Rp 18.750. Persentase keuntungan adalah...",
+    "pilihan": [
+      "20%",
+      "25%",
+      "30%",
+      "35%"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Untung = 18.750 - 15.000 = 3.750. % untung = (3.750 / 15.000) × 100% = 25%. Rumus: % untung = (untung / harga beli) × 100%."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Guru Bahasa Indonesia menjelaskan perbedaan surat resmi dan surat pribadi. Ciri KHAS surat resmi yang membedakannya dari surat pribadi adalah...",
+    "pilihan": [
+      "Menggunakan bahasa santai dan akrab",
+      "Ada nomor surat, kop surat, dan stempel",
+      "Ditulis tangan dengan tulisan indah",
+      "Menggunakan nama panggilan penulis"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Surat resmi memiliki: kop surat (kepala surat), nomor surat, perihal, lampiran, salam pembuka formal, tanda tangan pejabat, dan stempel. Surat pribadi tidak memerlukan kop atau stempel."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di laboratorium sekolah, guru menjelaskan bilangan berpangkat. Nilai dari 2⁵ adalah...",
+    "pilihan": [
+      "10",
+      "25",
+      "32",
+      "64"
+    ],
+    "jawaban": 2,
+    "penjelasan": "2⁵ = 2 × 2 × 2 × 2 × 2 = 32. Berpangkat artinya perkalian berulang. 2¹=2, 2²=4, 2³=8, 2⁴=16, 2⁵=32, 2⁶=64."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Pak Guru menjelaskan kalimat efektif. Kalimat berikut yang merupakan kalimat efektif adalah...",
+    "pilihan": [
+      "Kami semua para siswa harus belajar rajin.",
+      "Para siswa harus rajin belajar.",
+      "Semua para siswa itu harus belajar dengan rajin.",
+      "Kami siswa-siswa harus belajar dan belajar."
+    ],
+    "jawaban": 1,
+    "penjelasan": "Kalimat efektif: tidak ada kata mubazir, tidak ambigu, logis. Pilihan B singkat dan tepat. A ('kami semua para' mubazir), C ('semua para' mubazir), D ('belajar dan belajar' berulang tak perlu)."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Guru mengadakan kuis tentang pola bilangan. Suku ke-10 dari barisan 3, 6, 9, 12, ... adalah...",
+    "pilihan": [
+      "27",
+      "30",
+      "33",
+      "36"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Barisan aritmetika dengan a = 3 (suku pertama) dan b = 3 (beda). Suku ke-n = a + (n-1)b. Suku ke-10 = 3 + (10-1)×3 = 3 + 27 = 30."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Siswa diminta membedakan antara kalimat langsung dan tidak langsung. Manakah yang merupakan kalimat tidak langsung?",
+    "pilihan": [
+      "Guru berkata, 'Kerjakan tugasmu sekarang!'",
+      "Guru berkata bahwa siswa harus mengerjakan tugasnya.",
+      "\"Besok ada ulangan,\" kata Bu Guru.",
+      "Andi bertanya, 'Kapan libur?'"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Kalimat tidak langsung: melaporkan ucapan orang lain tanpa tanda petik, menggunakan kata penghubung 'bahwa'. Kalimat langsung: mengulang ucapan persis dengan tanda petik (\")."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Siswa kelas 7 belajar pecahan. Hasil dari 2/3 + 3/4 adalah...",
+    "pilihan": [
+      "5/7",
+      "17/12",
+      "1 5/12",
+      "1 7/12"
+    ],
+    "jawaban": 2,
+    "penjelasan": "KPK dari 3 dan 4 = 12. 2/3 = 8/12, 3/4 = 9/12. Jumlah = 8/12 + 9/12 = 17/12 = 1 5/12."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Guru menjelaskan majas hiperbola. Kalimat manakah yang menggunakan majas hiperbola?",
+    "pilihan": [
+      "Wajahnya cantik seperti bulan purnama.",
+      "Buku itu berbicara padaku tentang kehidupan.",
+      "Air matanya mengalir bagaikan sungai yang tak berhenti.",
+      "Dia adalah singa di lapangan basket."
+    ],
+    "jawaban": 2,
+    "penjelasan": "Hiperbola = melebih-lebihkan. 'Air mata mengalir bagaikan sungai' = berlebihan untuk menyatakan menangis sangat banyak. A = simile, B = personifikasi, D = metafora."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di kelas 7B, ada 15 siswa suka matematika, 12 suka IPA, dan 5 suka keduanya. Berapa siswa yang HANYA suka satu mata pelajaran?",
+    "pilihan": [
+      "17 siswa",
+      "20 siswa",
+      "22 siswa",
+      "27 siswa"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Hanya Matematika = 15 - 5 = 10. Hanya IPA = 12 - 5 = 7. Total hanya satu pelajaran = 10 + 7 = 17 siswa."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di kelas, guru menjelaskan perbandingan berbalik nilai. Jika 6 pekerja dapat menyelesaikan pekerjaan dalam 8 hari, berapa hari yang diperlukan 12 pekerja untuk pekerjaan yang sama?",
+    "pilihan": [
+      "2 hari",
+      "4 hari",
+      "6 hari",
+      "16 hari"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Perbandingan berbalik nilai: lebih banyak pekerja → lebih cepat selesai. 6 pekerja × 8 hari = 12 pekerja × x hari. x = (6 × 8) ÷ 12 = 48 ÷ 12 = 4 hari."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Siswa berdiskusi tentang peribahasa. Peribahasa 'Air beriak tanda tak dalam' memiliki arti...",
+    "pilihan": [
+      "Orang yang banyak bicara biasanya kurang ilmu/pengalaman",
+      "Air sungai yang dangkal selalu beriak",
+      "Orang yang diam biasanya bodoh",
+      "Jangan menilai orang dari penampilannya"
+    ],
+    "jawaban": 0,
+    "penjelasan": "'Air beriak tanda tak dalam' artinya orang yang banyak bicara (seperti air beriak) biasanya tidak memiliki banyak ilmu (dangkal). Sedangkan orang yang diam belum tentu tidak berilmu."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Guru matematika menggambar trapesium di papan. Trapesium memiliki sisi sejajar 8 cm dan 12 cm, dengan tinggi 6 cm. Berapa luas trapesium tersebut?",
+    "pilihan": [
+      "54 cm²",
+      "60 cm²",
+      "72 cm²",
+      "96 cm²"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Luas trapesium = ½ × (jumlah sisi sejajar) × tinggi = ½ × (8 + 12) × 6 = ½ × 20 × 6 = 60 cm²."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Siswa belajar menentukan ide pokok. Teks: 'Kantin sekolah kita sangat bersih. Setiap hari petugas kantin membersihkan meja. Makanan yang dijual juga tertutup rapat.' Ide pokok paragraf ini adalah...",
+    "pilihan": [
+      "Petugas kantin membersihkan meja setiap hari",
+      "Makanan di kantin selalu tertutup",
+      "Kantin sekolah sangat bersih",
+      "Kebersihan kantin dijaga bersama"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Ide pokok = gagasan utama yang dibahas. Kalimat utama = 'Kantin sekolah kita sangat bersih.' Kalimat-kalimat berikutnya menjelaskan/mendukung kalimat utama tersebut (paragraf deduktif)."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Bu Guru menjelaskan tentang modus. Nilai ulangan 8 siswa: 70, 80, 70, 90, 75, 80, 70, 85. Modus dari data tersebut adalah...",
+    "pilihan": [
+      "70",
+      "75",
+      "80",
+      "85"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Modus = nilai yang paling sering muncul. 70 muncul 3 kali, 80 muncul 2 kali, yang lain 1 kali. Modus = 70."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Di kelas, guru menjelaskan kalimat majemuk. 'Rani belajar sambil mendengarkan musik.' Kalimat ini adalah kalimat majemuk...",
+    "pilihan": [
+      "Setara (koordinatif)",
+      "Bertingkat (subordinatif)",
+      "Campuran",
+      "Rapatan"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Kalimat majemuk bertingkat (subordinatif): satu klausa utama + satu klausa anak (tidak setara). 'Sambil' adalah konjungsi subordinatif. Kalimat setara menggunakan dan/atau/tetapi (dua klausa setara)."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Kuis kilat dari Bu Guru: Suatu kelas memiliki 35 siswa. 60% siswa lulus ujian. Berapa siswa yang tidak lulus?",
+    "pilihan": [
+      "12 siswa",
+      "14 siswa",
+      "18 siswa",
+      "21 siswa"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Lulus = 60% × 35 = 21 siswa. Tidak lulus = 35 - 21 = 14 siswa. Atau: 40% × 35 = 14 siswa."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Siswa kelas 7 membaca teks deskripsi tentang perpustakaan sekolah. Ciri utama teks deskripsi adalah...",
+    "pilihan": [
+      "Berisi langkah-langkah urutan kejadian",
+      "Menggambarkan objek secara detail sehingga pembaca seolah melihat/merasakan",
+      "Mengungkapkan pendapat penulis disertai argumen",
+      "Menceritakan peristiwa secara runtut waktu"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Teks deskripsi menggambarkan suatu objek (tempat, benda, orang) secara detail menggunakan indra sehingga pembaca merasa seolah-olah ada di tempat itu. Bersifat objektif dan mendetail."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Di ekskul matematika, siswa belajar mencari akar kuadrat. Nilai dari √144 + √81 adalah...",
+    "pilihan": [
+      "21",
+      "22",
+      "225",
+      "15"
+    ],
+    "jawaban": 0,
+    "penjelasan": "√144 = 12 (karena 12² = 144), √81 = 9 (karena 9² = 81). Jadi 12 + 9 = 21."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Bu Guru meminta siswa menentukan jenis kata. Dalam kalimat 'Siswa itu berlari dengan cepat di lapangan', kata 'cepat' termasuk jenis kata...",
+    "pilihan": [
+      "Nomina (kata benda)",
+      "Verba (kata kerja)",
+      "Adjektiva (kata sifat)",
+      "Adverbia (kata keterangan)"
+    ],
+    "jawaban": 3,
+    "penjelasan": "Dalam 'berlari dengan cepat', 'cepat' menerangkan cara berlari sehingga berfungsi sebagai adverbia (kata keterangan cara). Jika digunakan sebagai 'anak yang cepat', maka itu adjektiva."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Guru menggambar prisma segitiga di papan. Sebuah prisma segitiga memiliki alas segitiga siku-siku dengan sisi 3 cm, 4 cm, dan 5 cm, serta tinggi prisma 10 cm. Volume prisma tersebut adalah...",
+    "pilihan": [
+      "30 cm³",
+      "60 cm³",
+      "120 cm³",
+      "150 cm³"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Volume prisma = luas alas × tinggi. Luas segitiga = ½ × 3 × 4 = 6 cm². Volume = 6 × 10 = 60 cm³."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Guru menjelaskan perbedaan sinonim dan antonim. Pasangan kata yang merupakan sinonim adalah...",
+    "pilihan": [
+      "Besar — Kecil",
+      "Pandai — Cerdas",
+      "Tinggi — Rendah",
+      "Cepat — Lambat"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Sinonim = kata yang memiliki makna sama/mirip. 'Pandai' dan 'cerdas' bermakna sama (memiliki kemampuan berpikir tinggi). Pasangan lain adalah antonim (lawan kata)."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Lomba matematika di sekolah: Barisan aritmetika 5, 9, 13, 17, ... Suku ke-15 adalah...",
+    "pilihan": [
+      "57",
+      "61",
+      "65",
+      "69"
+    ],
+    "jawaban": 1,
+    "penjelasan": "a=5, b=4. Suku ke-15 = 5 + 14x4 = 5 + 56 = 61."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Tujuan paragraf persuasif adalah...",
+    "pilihan": [
+      "Menceritakan pengalaman",
+      "Menjelaskan informasi secara objektif",
+      "Membujuk pembaca melakukan sesuatu",
+      "Menggambarkan suasana"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Persuasif = membujuk/mengajak pembaca untuk melakukan sesuatu atau menyetujui pendapat penulis. Menggunakan kata ajakan: marilah, hendaknya, sebaiknya."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Persegi panjang dengan panjang (3x+2) cm dan lebar (x+4) cm. Jika kelilingnya 44 cm, nilai x adalah...",
+    "pilihan": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Keliling = 2[(3x+2)+(x+4)] = 2[4x+6] = 8x+12 = 44. Maka 8x = 32, x = 4. Cek: 2[(14)+(8)] = 44 benar."
+  },
+  {
+    "mapel": "Bahasa Indonesia",
+    "soal": "Ciri khas teks eksplanasi adalah...",
+    "pilihan": [
+      "Berisi langkah-langkah melakukan sesuatu",
+      "Menjelaskan proses terjadinya fenomena secara ilmiah",
+      "Berisi pendapat subjektif penulis",
+      "Menceritakan tokoh dengan latar"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Teks eksplanasi menjelaskan proses terjadinya fenomena (gempa bumi, pelangi, banjir) secara ilmiah. Struktur: pernyataan umum, deretan penjelas, interpretasi."
+  },
+  {
+    "mapel": "Matematika",
+    "soal": "Dua garis sejajar dipotong garis transversal. Sudut sehadap besarnya...",
+    "pilihan": [
+      "Selalu berbeda",
+      "Sama besar",
+      "Berjumlah 180 derajat",
+      "Berjumlah 90 derajat"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Sudut sehadap (corresponding angles) pada dua garis sejajar yang dipotong transversal besarnya SAMA BESAR. Sudut sepihak dalam berjumlah 180 derajat."
   }
 ]
